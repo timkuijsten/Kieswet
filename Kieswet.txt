@@ -1,4 +1,4 @@
-   (Tekst geldend op: 31-04-2002)
+   (Tekst geldend op: 01-07-2002)
 
    --------------------------------------------------------------------------
 
@@ -5668,16 +5668,16 @@
                  Dordrecht, Giessenlanden, Goedereede,
                  Gorinchem, Graafstroom, 's-Gravendeel,
                  's-Gravenzande, Hardinxveld-Giessendam,
-                 Heerjansdam, Hellevoetsluis,
-   14.           Hendrik-Ido-Ambacht, Korendijk, Leerdam,  Dordrecht
-                 De Lier, Liesveld, Maasland, Maassluis,
-                 Middelharnis, Monster, Naaldwijk,
-                 Nieuw-Lekkerland, Oostflakkee,
-                 Oud-Beijerland, Papendrecht, Ridderkerk,
-                 Rozenburg, Rijswijk, Schiedam,
-                 Schipluiden, Sliedrecht, Spijkenisse,
-                 Strijen, Vlaardingen, Wateringen,
-                 Westvoorne, Zederik, Zwijndrecht.
+                 Hellevoetsluis, Hendrik-Ido-Ambacht,
+   14.           Korendijk, Leerdam, De Lier, Liesveld,    Dordrecht
+                 Maasland, Maassluis, Middelharnis,
+                 Monster, Naaldwijk, Nieuw-Lekkerland,
+                 Oostflakkee, Oud-Beijerland, Papendrecht,
+                 Ridderkerk, Rozenburg, Rijswijk,
+                 Schiedam, Schipluiden, Sliedrecht,
+                 Spijkenisse, Strijen, Vlaardingen,
+                 Wateringen, Westvoorne, Zederik,
+                 Zwijndrecht.
                  De gemeenten van de provincie
    15.           Zuid-Holland die niet tot de kieskringen  Leiden
                  12, 13 of 14 behoren.
