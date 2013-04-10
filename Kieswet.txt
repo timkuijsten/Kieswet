@@ -1,4 +1,4 @@
-   (Tekst geldend op: 07-09-2006)
+   (Tekst geldend op: 11-10-2006)
 
    --------------------------------------------------------------------------
 
@@ -1082,7 +1082,7 @@
        iedere verklaring dezelfde gemachtigde worden aangewezen. Deze
        gemachtigde is met uitsluiting van de kandidaat bevoegd tot de
        handelingen, bedoeld in de [44]artikelen V 2, eerste, vierde en vijfde
-       lid, [45]V 3, eerste en derde lid, en [46]W 2, eerste lid, onder e.
+       lid, [45]V 3, eerste en derde lid, en [46]W 2, eerste lid, onder f.
 
      2. De kandidaat is bevoegd de overeenkomstig het eerste lid gegeven
        volmacht in te trekken. Hij geeft hiervan schriftelijk kennis aan de
@@ -1100,7 +1100,7 @@
        verklaring dezelfde gemachtigde aangewezen. Deze gemachtigde is met
        uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de
        [47]artikelen V 2, eerste, vierde en vijfde lid, [48]V 3, eerste en
-       tweede lid, en [49]W 2, eerste lid, onder e .
+       tweede lid, en [49]W 2, eerste lid, onder f.
 
      2. Van de machtiging kan alleen gebruik worden gemaakt, indien dit
        gebruik ertoe strekt dat kandidaten van de gezamenlijke lijsten van de
@@ -3677,7 +3677,7 @@
        gemachtigde is met uitsluiting van de kandidaat bevoegd tot de
        handelingen, bedoeld in de [211]artikelen V 2, eerste, vierde en
        vijfde lid, [212]V 3, eerste en derde lid, en [213]W 2, eerste lid,
-       onder e.
+       onder f.
 
      2. De kandidaat is bevoegd de overeenkomstig het eerste lid gegeven
        volmacht in te trekken. Hij geeft hiervan schriftelijk kennis aan de
@@ -3693,7 +3693,7 @@
        dezelfde gemachtigde aangewezen. Deze gemachtigde is met uitsluiting
        van de kandidaat bevoegd tot de handelingen, bedoeld in de
        [214]artikelen V 2, eerste, vierde en vijfde lid, [215]V 3, eerste en
-       tweede lid, en [216]W 2, eerste lid, onder e .
+       tweede lid, en [216]W 2, eerste lid, onder f.
 
      2. Van de machtiging kan alleen gebruik worden gemaakt, indien dit
        gebruik ertoe strekt dat kandidaten van de gezamenlijke lijsten van de
@@ -4607,7 +4607,7 @@
 
   Artikel V 16 [Vervallen per 07-03-2002]
 
-  Hoofdstuk W. De plaatsvervanging
+  Hoofdstuk W. De opvolging
 
   Artikel W 1
 
@@ -4617,7 +4617,7 @@
        besluit, uiterlijk op de veertiende dag nadat dit te zijner kennis is
        gekomen, benoemd de daarvoor in aanmerking komende kandidaat die in de
        volgorde, bedoeld in [267]artikel P 19, het hoogst is geplaatst op de
-       lijst waarop degene die moet worden vervangen, is gekozen. Indien het
+       lijst waarop degene die moet worden opgevolgd, is gekozen. Indien het
        lid in wiens plaats moet worden voorzien, ontslag heeft genomen met
        ingang van een bepaald tijdstip, vangt de termijn, bedoeld in de
        eerste volzin, aan op dat tijdstip.
@@ -4638,10 +4638,10 @@
        diegene van deze kandidaten op wie het grootste aantal stemmen is
        uitgebracht.
 
-     4. Indien het de plaatsvervanging van een lid van de Eerste Kamer of
-       van een lid van een gemeenteraad met minder dan negentien zetels
-       betreft wordt bij de toepassing van het derde lid niet 25% van de
-       kiesdeler, maar de helft van de kiesdeler in aanmerking genomen.
+     4. Indien het de opvolging van een lid van de Eerste Kamer of van een
+       lid van een gemeenteraad met minder dan negentien zetels betreft wordt
+       bij de toepassing van het derde lid niet 25% van de kiesdeler, maar de
+       helft van de kiesdeler in aanmerking genomen.
 
      5. Indien een plaats openvalt die door toepassing van het derde lid
        was vervuld en dat lid niet opnieuw moet worden toegepast, verklaart
@@ -4667,43 +4667,49 @@
 
                a. die is overleden;
 
-               b. wiens vacature vervuld wordt;
+               b. aan wie tijdelijk ontslag is verleend wegens zwangerschap en
+            bevalling of ziekte;
 
-               c. die in de vacature benoemd is verklaard, maar schriftelijk
+               c. wiens vacature vervuld wordt;
+
+               d. die in de vacature benoemd is verklaard, maar schriftelijk
             verklaard heeft of geacht wordt de benoeming niet aan te nemen,
             de in [272]artikel V 3 genoemde stukken niet tijdig heeft
             ingezonden of bij onherroepelijk besluit niet tot het
             vertegenwoordigend orgaan is toegelaten;
 
-               d. die lid is van het vertegenwoordigend orgaan of als zodanig
+               e. die lid is van het vertegenwoordigend orgaan of als zodanig
             benoemd is verklaard, terwijl over zijn toelating als lid nog
-            niet onherroepelijk is beslist;
+            niet onherroepelijk is beslist, tenzij hij is benoemd tot
+            vervanger voor de plaats die is opengevallen als gevolg van een
+            tijdelijk ontslag als bedoeld in [273]paragraaf 3 van hoofdstuk
+            X;
 
-               e. van wie door de voorzitter van het centraal stembureau een
+               f. van wie door de voorzitter van het centraal stembureau een
             schriftelijke verklaring is ontvangen dat hij niet voor benoeming
             in aanmerking wenst te komen;
 
-               f. die, indien het de verkiezing van provinciale staten
+               g. die, indien het de verkiezing van provinciale staten
             onderscheidenlijk de gemeenteraad betreft, niet benoembaar is
             ingevolge het bepaalde in artikel 12 van de Provinciewet
             onderscheidenlijk artikel 11 van de Gemeentewet.
 
-     2. Een verklaring als bedoeld in het eerste lid, onder e, kan worden
+     2. Een verklaring als bedoeld in het eerste lid, onder f, kan worden
        ingetrokken.
 
      3. Bij ministeriële regeling wordt een model vastgesteld voor de
-       verklaring, bedoeld in het eerste lid, onder e.
+       verklaring, bedoeld in het eerste lid, onder f.
 
   Artikel W 3
 
      1. Indien bij de toepassing van de bepalingen van dit hoofdstuk geen
        kandidaat meer voor benoeming in aanmerking komt op de lijst waarop
-       degene is gekozen die moet worden vervangen, en deze lijst te zamen
+       degene is gekozen die moet worden opgevolgd, en deze lijst te zamen
        met één of meer andere lijsten een lijstengroep, onderscheidenlijk een
        lijstencombinatie, vormt, gaat de zetel door toepassing van
-       [273]artikel P 13, onderscheidenlijk [274]artikel U 13, over op één
+       [274]artikel P 13, onderscheidenlijk [275]artikel U 13, over op één
        van die andere lijsten. De kandidaat van deze lijst die naar de
-       volgorde, vastgesteld overeenkomstig [275]artikel P 19, voor benoeming
+       volgorde, vastgesteld overeenkomstig [276]artikel P 19, voor benoeming
        in aanmerking komt, wordt benoemd verklaard. Komt ook op deze lijst
        geen kandidaat meer voor benoeming in aanmerking, dan wordt de plaats
        aan een andere van de groep, onderscheidenlijk de combinatie, deel
@@ -4717,15 +4723,15 @@
 
   Artikel W 4
 
-     1. Indien bij plaatsvervanging van leden van een gemeenteraad met
-       negen of elf leden geen kandidaat meer voor benoeming in aanmerking
-       komt op de lijst, waarop degene is gekozen die moet worden vervangen,
-       of op de lijsten die met deze lijst een lijstengroep of
-       lijstencombinatie vormen, wordt door toepassing van [276]artikel P 10
-       beslist aan welke van de andere lijsten de plaats zal worden
-       toegekend. De kandidaat die op de lijst waaraan de plaats wordt
-       toegekend, naar de volgorde, vastgesteld overeenkomstig [277]artikel P
-       19, voor benoeming in aanmerking komt, wordt benoemd verklaard.
+     1. Indien bij opvolging van leden van een gemeenteraad met negen of
+       elf leden geen kandidaat meer voor benoeming in aanmerking komt op de
+       lijst, waarop degene is gekozen die moet worden opgevolgd, of op de
+       lijsten die met deze lijst een lijstengroep of lijstencombinatie
+       vormen, wordt door toepassing van [277]artikel P 10 beslist aan welke
+       van de andere lijsten de plaats zal worden toegekend. De kandidaat die
+       op de lijst waaraan de plaats wordt toegekend, naar de volgorde,
+       vastgesteld overeenkomstig [278]artikel P 19, voor benoeming in
+       aanmerking komt, wordt benoemd verklaard.
 
      2. Indien bij de toepassing van de bepalingen van dit hoofdstuk op
        geen van de lijsten een kandidaat meer voor benoeming in aanmerking
@@ -4735,12 +4741,12 @@
 
   Artikel W 5
 
-     1. Indien de toepassing van [278]artikel W 3 of [279]artikel W 4 tot
+     1. Indien de toepassing van [279]artikel W 3 of [280]artikel W 4 tot
        een beslissing door het lot aanleiding geeft, zal de loting plaats
        hebben in een zitting van het centraal stembureau.
 
-     2. Op de in het eerste lid bedoelde zitting vinden de [280]artikelen P
-       20 en [281]P 22 overeenkomstige toepassing.
+     2. Op de in het eerste lid bedoelde zitting vinden de [281]artikelen P
+       20 en [282]P 22 overeenkomstige toepassing.
 
   Artikel W 6
 
@@ -4748,7 +4754,7 @@
    krijgt van het openvallen van meer dan één plaats in een
    vertegenwoordigend orgaan en als gevolg hiervan een kandidaat op meer dan
    één lijst benoemd zou moeten worden verklaard, wordt deze benoemd met
-   overeenkomstige toepassing van [282]artikel P 18.
+   overeenkomstige toepassing van [283]artikel P 18.
 
   Artikel W 7
 
@@ -4767,9 +4773,9 @@
    betreffende de voorziening in opengevallen plaatsen in vertegenwoordigende
    organen.
 
-  Hoofdstuk X. Het einde van het lidmaatschap
+  Hoofdstuk X. Beëindiging van het lidmaatschap en tijdelijke vervanging als lid
 
-  § 1. Algemene bepalingen
+  § 1. Algemene bepalingen inzake beëindiging van het lidmaatschap
 
   Artikel X 1
 
@@ -4797,18 +4803,18 @@
 
      3. Op een ingediend ontslag kan niet worden teruggekomen.
 
-  § 2. Bijzondere bepalingen
+  § 2. Bijzondere bepalingen inzake beëindiging van het lidmaatschap
 
   Artikel X 3
 
      1. Wanneer een lid van de Tweede of van de Eerste Kamer komt te
-       verkeren in een van de gevallen, genoemd in [283]het eerste lid van
+       verkeren in een van de gevallen, genoemd in [284]het eerste lid van
        artikel X 1, geeft hij hiervan kennis aan de kamer, met vermelding van
        de reden.
 
      2. Indien de kennisgeving niet is gedaan en de voorzitter van de kamer
        van oordeel is, dat een lid van de kamer verkeert in een van de
-       gevallen, genoemd in het [284]eerste lid van artikel X 1, waarschuwt
+       gevallen, genoemd in het [285]eerste lid van artikel X 1, waarschuwt
        hij de belanghebbende schriftelijk.
 
      3. Het staat deze vrij de zaak uiterlijk op de achtste dag na de
@@ -4818,12 +4824,12 @@
   Artikel X 4
 
      1. Wanneer een lid van provinciale staten komt te verkeren in een van
-       de gevallen, genoemd in het [285]eerste lid van artikel X 1, geeft hij
+       de gevallen, genoemd in het [286]eerste lid van artikel X 1, geeft hij
        hiervan kennis aan de staten, met vermelding van de reden.
 
      2. Indien de kennisgeving niet is gedaan en gedeputeerde staten van
        oordeel zijn, dat een lid van provinciale staten verkeert in een van
-       de gevallen, genoemd in het [286]eerste lid van artikel X 1,
+       de gevallen, genoemd in het [287]eerste lid van artikel X 1,
        waarschuwen zij de belanghebbende schriftelijk.
 
      3. Het staat deze vrij de zaak uiterlijk op de achtste dag na de
@@ -4838,7 +4844,7 @@
 
      2. Indien de kennisgeving niet is gedaan en burgemeester en wethouders
        van oordeel zijn, dat een lid van de gemeenteraad verkeert in een van
-       de gevallen, genoemd in het [287]eerste lid van artikel X 1,
+       de gevallen, genoemd in het [288]eerste lid van artikel X 1,
        waarschuwen zij de belanghebbende schriftelijk.
 
      3. Het staat deze vrij de zaak uiterlijk op de achtste dag na de
@@ -4917,13 +4923,13 @@
 
   Artikel X 9
 
-   [288]Artikel D 9 is van overeenkomstige toepassing op een besluit als
-   bedoeld in de [289]artikelen X 4, [290]X 5, [291]X 7 en [292]X 8.
+   [289]Artikel D 9 is van overeenkomstige toepassing op een besluit als
+   bedoeld in de [290]artikelen X 4, [291]X 5, [292]X 7 en [293]X 8.
 
   § 3. Beëindiging van het lidmaatschap en vervanging wegens zwangerschap en
-  bevalling of ziekte [Treedt in werking per 11-10-2006]
+  bevalling of ziekte
 
-  Artikel X 10 [Treedt in werking per 11-10-2006]
+  Artikel X 10
 
      1. De voorzitter van een vertegenwoordigend orgaan verleent aan een
        lid van dat orgaan dat is toegelaten op diens verzoek tijdelijk
@@ -4933,7 +4939,7 @@
        overgelegde verklaring van een arts of verloskundige. Aan het verzoek,
        bedoeld in de eerste volzin, wordt niet voldaan, indien het tijdstip
        waarop het verzoek wordt gedaan ligt binnen een periode van zestien
-       weken voor het einde van de zittingsduur als bedoeld in [293]hoofdstuk
+       weken voor het einde van de zittingsduur als bedoeld in [294]hoofdstuk
        C.
 
      2. De voorzitter van een vertegenwoordigend orgaan verleent aan een
@@ -4945,7 +4951,7 @@
        van de beslissing op het verzoek. Aan het verzoek, bedoeld in de
        eerste volzin, wordt niet voldaan, indien het tijdstip waarop het
        verzoek wordt gedaan ligt binnen een periode van zestien weken voor
-       het einde van de zittingsduur als bedoeld in [294]hoofdstuk C.
+       het einde van de zittingsduur als bedoeld in [295]hoofdstuk C.
 
      3. Het lidmaatschap van het lid aan wie tijdelijk ontslag als bedoeld
        in het eerste lid of tweede lid is verleend, herleeft van rechtswege
@@ -4956,16 +4962,16 @@
        drie maal per zittingsperiode tijdelijk ontslag als bedoeld in het
        eerste of het tweede lid verleend.
 
-  Artikel X 11 [Treedt in werking per 11-10-2006]
+  Artikel X 11
 
      1. De voorzitter van het vertegenwoordigend orgaan beslist op een
-       verzoek tot tijdelijk ontslag als bedoeld in [295]artikel X 10, eerste
+       verzoek tot tijdelijk ontslag als bedoeld in [296]artikel X 10, eerste
        of tweede lid, zo spoedig mogelijk, doch uiterlijk op de veertiende
        dag na indiening van het verzoek.
 
      2. De beslissing op het verzoek tot tijdelijk ontslag geschiedt in
        overeenstemming met de verklaring van de arts of verloskundige,
-       bedoeld in [296]artikel X 10, eerste of tweede lid.
+       bedoeld in [297]artikel X 10, eerste of tweede lid.
 
      3. Een beslissing tot tijdelijk ontslag bevat de dag van ingang van
        het ontslag.
@@ -4974,13 +4980,13 @@
        beslissing tot tijdelijk ontslag onverwijld kennis aan de voorzitter
        van het centraal stembureau.
 
-  Artikel X 12 [Treedt in werking per 11-10-2006]
+  Artikel X 12
 
      1. De voorzitter van het centraal stembureau benoemt een vervanger
        voor de plaats die is opengevallen als gevolg van een tijdelijk
-       ontslag als bedoeld in deze paragraaf. De [297]hoofdstukken V en
-       [298]W zijn van toepassing, met dien verstande dat in afwijking van
-       [299]artikel V 2, eerste lid, de benoeming uiterlijk op de tiende dag
+       ontslag als bedoeld in deze paragraaf. De [298]hoofdstukken V en
+       [299]W zijn van toepassing, met dien verstande dat in afwijking van
+       [300]artikel V 2, eerste lid, de benoeming uiterlijk op de tiende dag
        na de dagtekening van de kennisgeving van benoeming wordt aangenomen.
 
      2. Degene die als vervanger is benoemd, houdt op lid te zijn met
@@ -4997,7 +5003,7 @@
        van het centraal stembureau een nieuwe tijdelijke vervanger voor de
        resterende periode van het tijdelijk ontslag.
 
-     4. [300]Artikel X 6 is niet van toepassing op een vervanger.
+     4. [301]Artikel X 6 is niet van toepassing op een vervanger.
 
   Afdeling V. De verkiezing van de leden van het Europees Parlement
 
@@ -5022,7 +5028,7 @@
 
    De leden van het Europees Parlement worden, voor zover deze afdeling niet
    anders bepaalt, gekozen met overeenkomstige toepassing van de bij of
-   krachtens [301]afdeling II gestelde bepalingen inzake de verkiezing van de
+   krachtens [302]afdeling II gestelde bepalingen inzake de verkiezing van de
    leden van de Tweede Kamer der Staten-Generaal, met inachtneming van de
    Akte.
 
@@ -5083,13 +5089,13 @@
        te zullen deelnemen.
 
      2. De in het eerste lid bedoelde verklaring wordt gelijktijdig
-       ingediend met het in [302]artikel D 3, eerste lid, bedoelde verzoek.
-       Zij maakt deel uit van het in [303]artikel D 3, negende lid, bedoelde
+       ingediend met het in [303]artikel D 3, eerste lid, bedoelde verzoek.
+       Zij maakt deel uit van het in [304]artikel D 3, negende lid, bedoelde
        formulier. Bij ministeriële regeling wordt de formulering van de
        verklaring vastgesteld.
 
      3. Burgemeester en wethouders van 's-Gravenhage wijzen een verzoek als
-       bedoeld in [304]artikel D 3, eerste lid, af indien zij van de
+       bedoeld in [305]artikel D 3, eerste lid, af indien zij van de
        desbetreffende lid-staat bericht hebben ontvangen dat de verzoeker in
        die lid-staat als kiezer is geregistreerd.
 
@@ -5109,12 +5115,12 @@
 
      1. De Kiesraad treedt op als centraal stembureau.
 
-     2. Waar in de [305]hoofdstukken H en [306]I sprake is van het
+     2. Waar in de [306]hoofdstukken H en [307]I sprake is van het
        hoofdstembureau, treedt daarvoor in de plaats het centraal stembureau.
 
   Artikel Y 10
 
-   Behalve op de in [307]artikel G 1, vierde lid, genoemde gronden wordt op
+   Behalve op de in [308]artikel G 1, vierde lid, genoemde gronden wordt op
    een verzoek om registratie van de aanduiding van een politieke groepering
    ten behoeve van de verkiezing van de leden van het Europees Parlement
    afwijzend beschikt, indien de aanduiding geheel of in hoofdzaak
@@ -5126,7 +5132,7 @@
 
   Artikel Y 11
 
-   [308]Artikel G 1, achtste lid, blijft buiten toepassing.
+   [309]Artikel G 1, achtste lid, blijft buiten toepassing.
 
   Artikel Y 12
 
@@ -5138,7 +5144,7 @@
   Artikel Y 13
 
      1. Bij de lijst wordt van iedere daarop voorkomende kandidaat naast de
-       in [309]artikel H 9 bedoelde verklaring van instemming een
+       in [310]artikel H 9 bedoelde verklaring van instemming een
        schriftelijke verklaring overgelegd dat hij niet in een andere
        lid-staat kandidaat voor het lidmaatschap van het Europees Parlement
        zal zijn.
@@ -5150,32 +5156,32 @@
 
   Artikel Y 14
 
-   In afwijking van [310]artikel H 3, eerste lid, tweede volzin, legt elke
+   In afwijking van [311]artikel H 3, eerste lid, tweede volzin, legt elke
    inleveraar van een lijst een verklaring over van burgemeester en
    wethouders van de gemeente waar hij als kiezer is geregistreerd, dat hij
    bevoegd is tot deelneming aan de verkiezing.
 
   Artikel Y 15
 
-     1. In afwijking van [311]artikel I 2, eerste lid, onder h , wordt als
+     1. In afwijking van [312]artikel I 2, eerste lid, onder h , wordt als
        verzuim aangemerkt dat de lijst is ingeleverd door een kiezer die niet
        heeft overgelegd een verklaring van burgemeester en wethouders van de
        gemeente waar hij is geregistreerd, dat hij bevoegd is tot deelneming
        aan de verkiezing. Als verzuim wordt mede aangemerkt dat ten aanzien
-       van een kandidaat de verklaring, bedoeld in [312]artikel Y 13, eerste
+       van een kandidaat de verklaring, bedoeld in [313]artikel Y 13, eerste
        lid, ontbreekt.
 
      2. Het herstellen van verzuimen geschiedt ten kantore van het centraal
        stembureau.
 
-     3. [313]Artikel I 2, derde lid, eerste volzin, vindt overeenkomstige
+     3. [314]Artikel I 2, derde lid, eerste volzin, vindt overeenkomstige
        toepassing, indien de in het eerste lid bedoelde verklaring niet
        alsnog wordt overgelegd.
 
   Artikel Y 16
 
    Onmiddellijk nadat de lijsten door het centraal stembureau zijn
-   onderzocht, worden deze en, indien vereist, de in [314]artikel H 4
+   onderzocht, worden deze en, indien vereist, de in [315]artikel H 4
    bedoelde verklaringen van ondersteuning door de voorzitter op het
    Ministerie van Binnenlandse Zaken en Koninkrijksrelaties voor een ieder
    ter inzage gelegd.
@@ -5183,12 +5189,12 @@
   Artikel Y 17
 
    Het centraal stembureau schrapt van de lijst in de eerste plaats de naam
-   van de kandidaat van wie de verklaring, bedoeld in [315]artikel Y 13,
+   van de kandidaat van wie de verklaring, bedoeld in [316]artikel Y 13,
    eerste lid, niet is overgelegd.
 
   Artikel Y 18
 
-   [316]Artikel I 9 blijft buiten toepassing.
+   [317]Artikel I 9 blijft buiten toepassing.
 
   Artikel Y 19
 
@@ -5211,26 +5217,26 @@
 
   Artikel Y 22
 
-   Voor de toepassing van [317]artikel N 12, [318]hoofdstuk O en [319]artikel
+   Voor de toepassing van [318]artikel N 12, [319]hoofdstuk O en [320]artikel
    P 1 treden de hoofdstembureaus voor de verkiezing van de leden van de
    Tweede Kamer op als hoofdstembureaus voor de verkiezing van de leden van
    het Europees Parlement.
 
   Artikel Y 23
 
-   Waar in de [320]artikelen O 4, tweede lid, en [321]O 5, eerste lid, sprake
+   Waar in de [321]artikelen O 4, tweede lid, en [322]O 5, eerste lid, sprake
    is van het orgaan waarvoor de verkiezing plaats heeft, onderscheidenlijk
    heeft plaats gehad, treedt daarvoor de Tweede Kamer in de plaats.
 
   Artikel Y 23a
 
-   Voor de toepassing van de [322]artikelen P 15 en [323]P 19, tweede lid,
+   Voor de toepassing van de [323]artikelen P 15 en [324]P 19, tweede lid,
    wordt voor «25% van de kiesdeler» gelezen: 10% van de kiesdeler.
 
   Artikel Y 24
 
    Bij algemene maatregel van bestuur kunnen voor zover nodig voorschriften
-   worden gegeven die afwijken van krachtens [324]afdeling II bij algemene
+   worden gegeven die afwijken van krachtens [325]afdeling II bij algemene
    maatregel van bestuur gestelde bepalingen.
 
   § 3. Het begin van en de veranderingen in het lidmaatschap
@@ -5241,7 +5247,7 @@
        grond van de nationale bepalingen als lid van het Europees Parlement
        kan worden toegelaten.
 
-     2. De [325]artikelen V 1 tot en met V 10 zijn daarbij van
+     2. De [326]artikelen V 1 tot en met V 10 zijn daarbij van
        overeenkomstige toepassing, met dien verstande dat waar in deze
        artikelen sprake is van het vertegenwoordigend orgaan of het orgaan
        waarvoor de benoeming is geschied, daarvoor de Tweede Kamer in de
@@ -5260,14 +5266,14 @@
 
    Wanneer, anders dan bij de vaststelling van de uitslag van een verkiezing,
    in een opengevallen plaats moet worden voorzien, geschiedt dit met
-   overeenkomstige toepassing van [326]hoofdstuk W, met dien verstande dat
-   voor de toepassing van [327]artikel W 1, derde lid, voor «25% van de
+   overeenkomstige toepassing van [327]hoofdstuk W, met dien verstande dat
+   voor de toepassing van [328]artikel W 1, derde lid, voor «25% van de
    kiesdeler» wordt gelezen: 10% van de kiesdeler.
 
   Artikel Y 28
 
    Zodra onherroepelijk is komen vast te staan dat een lid van het Europees
-   Parlement een van de in [328]artikel Y 4 bedoelde vereisten voor het
+   Parlement een van de in [329]artikel Y 4 bedoelde vereisten voor het
    lidmaatschap niet bezit of een ingevolge de nationale bepalingen met het
    lidmaatschap onverenigbare betrekking vervult, houdt hij op lid te zijn.
    De voorzitter van de Tweede Kamer geeft hiervan onverwijld kennis aan de
@@ -5277,13 +5283,13 @@
   Artikel Y 29
 
      1. Wanneer een lid van het Europees Parlement komt te verkeren in een
-       van de gevallen, genoemd in [329]artikel Y 28, geeft hij hiervan
+       van de gevallen, genoemd in [330]artikel Y 28, geeft hij hiervan
        kennis aan de voorzitter van de Tweede Kamer, met vermelding van de
        reden.
 
      2. Indien de kennisgeving niet is gedaan en de voorzitter van de
        Tweede Kamer van oordeel is dat een lid van het Europees Parlement
-       verkeert in een van de gevallen, genoemd in [330]artikel Y 28,
+       verkeert in een van de gevallen, genoemd in [331]artikel Y 28,
        waarschuwt hij de belanghebbende schriftelijk.
 
      3. Het staat deze vrij de zaak uiterlijk op de achtste dag na de
@@ -5302,14 +5308,14 @@
 
    Tijdelijk ontslag van een lid van het Europees Parlement wegens
    zwangerschap en bevalling of ziekte geschiedt met overeenkomstige
-   toepassing van de [331]artikelen X 10 en [332]X 11, met dien verstande
+   toepassing van de [332]artikelen X 10 en [333]X 11, met dien verstande
    dat:
 
-     a. in [333]artikel X 10, eerste en tweede lid, voor «voorzitter van
+     a. in [334]artikel X 10, eerste en tweede lid, voor «voorzitter van
        een vertegenwoordigend orgaan» wordt gelezen: voorzitter van de Tweede
        Kamer;
 
-     b. in [334]artikel X 11, eerste en vierde lid, voor «voorzitter van
+     b. in [335]artikel X 11, eerste en vierde lid, voor «voorzitter van
        het vertegenwoordigend orgaan» wordt gelezen: voorzitter van de Tweede
        Kamer;
 
@@ -5321,10 +5327,10 @@
 
      1. De voorzitter van het centraal stembureau benoemt een vervanger
        voor de plaats die is opengevallen als gevolg van een tijdelijk
-       ontslag als bedoeld in [335]artikel Y 30a. De [336]artikelen Y 25 tot
+       ontslag als bedoeld in [336]artikel Y 30a. De [337]artikelen Y 25 tot
        en met Y 27 zijn van overeenkomstige toepassing.
 
-     2. Op de vervanger is [337]artikel X 12, tweede en derde lid, van
+     2. Op de vervanger is [338]artikel X 12, tweede en derde lid, van
        overeenkomstige toepassing.
 
   § 4. Bijzondere bepalingen betreffende deelneming aan de verkiezingen door
@@ -5341,7 +5347,7 @@
   Artikel Y 32
 
      1. Burgemeester en wethouders registreren de kiesgerechtigdheid van de
-       in [338]artikel Y 3, onder b, bedoelde personen die ingezetene zijn
+       in [339]artikel Y 3, onder b, bedoelde personen die ingezetene zijn
        van de gemeente in de gemeentelijke administratie, indien zij daartoe
        een schriftelijk verzoek hebben ingediend.
 
@@ -5388,7 +5394,7 @@
        burgemeester de mogelijkheid van registratie voor niet-Nederlanders
        die onderdanen zijn van andere lid-staten ter openbare kennis.
 
-     10. [339]Artikel D 9 is van overeenkomstige toepassing op een
+     10. [340]Artikel D 9 is van overeenkomstige toepassing op een
        beschikking als bedoeld in dit artikel.
 
   Artikel Y 33
@@ -5414,18 +5420,18 @@
        betrokkene en aan de door de desbetreffende lid-staat aangewezen
        autoriteit waarvan betrokkene onderdaan is.
 
-     4. [340]Artikel D 9 is van overeenkomstige toepassing op een
+     4. [341]Artikel D 9 is van overeenkomstige toepassing op een
        beschikking als bedoeld in dit artikel.
 
   Artikel Y 33a
 
    Burgemeester en wethouders schrappen de registratie van de
-   kiesgerechtigdheid als bedoeld in [341]artikel Y 32, eerste lid, indien
+   kiesgerechtigdheid als bedoeld in [342]artikel Y 32, eerste lid, indien
    betrokkene het Nederlanderschap verkrijgt.
 
   Artikel Y 34
 
-   In de in [342]artikel H 1 bedoelde openbare kennisgeving wordt tevens
+   In de in [343]artikel H 1 bedoelde openbare kennisgeving wordt tevens
    melding gemaakt van de mogelijkheid van kandidaatstelling
    niet-Nederlanders die onderdanen zijn van andere lid-staten.
 
@@ -5433,7 +5439,7 @@
 
      1. De kandidaat die onderdaan is van een andere lid-staat en niet
        tevens de Nederlandse nationaliteit heeft, vermeldt op de in
-       [343]artikel Y 13 bedoelde verklaring tevens zijn nationaliteit en de
+       [344]artikel Y 13 bedoelde verklaring tevens zijn nationaliteit en de
        plaats in die lid-staat waar hij het laatst als kiezer was
        ingeschreven.
 
@@ -5444,14 +5450,14 @@
        de autoriteiten bekend is, in die lid-staat niet is uitgesloten van
        het recht om te worden gekozen.
 
-     3. In aanvulling op [344]artikel I 2, eerste lid, wordt het ontbreken
+     3. In aanvulling op [345]artikel I 2, eerste lid, wordt het ontbreken
        van de verklaring, bedoeld in het tweede lid, tevens als verzuim
        aangemerkt.
 
   Artikel Y 35a
 
    Het centraal stembureau schrapt van de lijst de kandidaat van wie de
-   verklaring, bedoeld in [345]artikel Y 35, tweede lid, niet is overgelegd.
+   verklaring, bedoeld in [346]artikel Y 35, tweede lid, niet is overgelegd.
 
   Artikel Y 36
 
@@ -5473,8 +5479,8 @@
 
   Artikel Y 39
 
-   Bij ministeriële regeling kunnen krachtens de [346]afdelingen II en
-   [347]IV vastgestelde modellen die ingevolge bepalingen van deze afdeling
+   Bij ministeriële regeling kunnen krachtens de [347]afdelingen II en
+   [348]IV vastgestelde modellen die ingevolge bepalingen van deze afdeling
    van overeenkomstige toepassing worden verklaard voor de verkiezing van de
    leden van het Europees Parlement, voor deze verkiezing nader worden
    vastgesteld.
@@ -5520,7 +5526,7 @@
 
      2. Degene die bij een verkiezing door gift of belofte een kiezer
        omkoopt dan wel anderszins daartoe dwingt om een verklaring als
-       bedoeld in [348]artikel H 4, eerste lid, af te leggen ter
+       bedoeld in [349]artikel H 4, eerste lid, af te leggen ter
        ondersteuning van een lijst, wordt gestraft met gevangenisstraf van
        ten hoogste zes maanden of geldboete van de derde categorie.
 
@@ -5530,13 +5536,13 @@
 
   Artikel Z 5
 
-     1. Bij veroordeling wegens een van de in de [349]artikelen Z 1 tot en
+     1. Bij veroordeling wegens een van de in de [350]artikelen Z 1 tot en
        met Z 4 omschreven misdrijven kan ontzetting van de in artikel 28,
        eerste lid, onder 1°, 2° en 4°, van het Wetboek van Strafrecht
        vermelde rechten worden uitgesproken.
 
      2. Bij veroordeling tot een vrijheidsstraf van ten minste een jaar
-       wegens een van de in de [350]artikelen Z 1 tot en met Z 3 omschreven
+       wegens een van de in de [351]artikelen Z 1 tot en met Z 3 omschreven
        misdrijven, kan ontzetting van het in artikel 28, eerste lid, onder
        3°, van het Wetboek van Strafrecht vermelde recht worden uitgesproken.
 
@@ -5570,7 +5576,7 @@
 
   Artikel Z 9
 
-   De werkgever die de hem bij [351]artikel J 10 opgelegde verplichting niet
+   De werkgever die de hem bij [352]artikel J 10 opgelegde verplichting niet
    nakomt, wordt gestraft met hechtenis van ten hoogste veertien dagen of
    geldboete van de tweede categorie.
 
@@ -5583,8 +5589,8 @@
 
   Artikel Z 11
 
-   De in de [352]artikelen Z 1 tot en met Z 4 bedoelde strafbare feiten
-   worden als misdrijven beschouwd en de in de [353]artikelen Z 6 tot en met
+   De in de [353]artikelen Z 1 tot en met Z 4 bedoelde strafbare feiten
+   worden als misdrijven beschouwd en de in de [354]artikelen Z 6 tot en met
    Z 10 bedoelde strafbare feiten als overtredingen.
 
   § 2. Slot- en overgangsbepalingen
