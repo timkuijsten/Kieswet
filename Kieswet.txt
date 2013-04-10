@@ -1,4 +1,4 @@
-   (Tekst geldend op: 11-10-2006)
+   (Tekst geldend op: 01-01-2007)
 
    --------------------------------------------------------------------------
 
@@ -5698,7 +5698,7 @@
                  Barendrecht, Bernisse, Binnenmaas,
                  Brielle, Cromstrijen, Delft, Dirksland,
                  Dordrecht, Giessenlanden, Goedereede,
-                 Gorinchem, Graafstroom, 's-Gravendeel,
+                 Gorinchem, Graafstroom,
                  Hardinxveld-Giessendam, Hellevoetsluis,
    14.           Hendrik-Ido-Ambacht, Korendijk, Leerdam,  Dordrecht
                  Liesveld, Maassluis, Middelharnis,
