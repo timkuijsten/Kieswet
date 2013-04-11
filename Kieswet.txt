@@ -1,4 +1,4 @@
-   (Tekst geldend op: 01-01-2011)
+   (Tekst geldend op: 01-04-2011)
 
    --------------------------------------------------------------------------
 
@@ -962,8 +962,8 @@
        de dag van de kandidaatstelling deze verklaring ter secretarie van de
        gemeente waar hij als kiezer is geregistreerd, in aanwezigheid van de
        burgemeester of een door deze daartoe aangewezen ambtenaar. De kiezer
-       geeft daarbij de burgemeester of de ambtenaar blijk van zijn
-       identiteit.
+       overhandigt aan de burgemeester of de ambtenaar een document als
+       bedoeld in artikel 1 van de Wet op de identificatieplicht.
 
      4. De burgemeester of de door hem daartoe aangewezen ambtenaar gaat
        onverwijld na of de ondertekenaar als kiezer in zijn gemeente is
@@ -1018,10 +1018,10 @@
        aanduiding was geplaatst boven een kandidatenlijst waaraan bij de
        laatstgehouden verkiezing van de leden van het desbetreffende
        vertegenwoordigend orgaan meer dan vijftien zetels zijn toegekend, mag
-       een aantal namen worden geplaatst dat ten hoogste tachtig zetels
-       bedraagt. Het bepaalde in de vorige volzin is van overeenkomstige
-       toepassing ten aanzien van samenvoeging van aanduidingen van twee of
-       meer groeperingen.
+       een aantal namen worden geplaatst dat ten hoogste tachtig bedraagt.
+       Het bepaalde in de vorige volzin is van overeenkomstige toepassing ten
+       aanzien van samenvoeging van aanduidingen van twee of meer
+       groeperingen.
 
   Artikel H 7
 
@@ -1056,10 +1056,11 @@
 
      3. Bij de lijst wordt van iedere kandidaat die geen zitting heeft in
        het vertegenwoordigend orgaan waarvoor de verkiezing wordt gehouden,
-       tevens een kopie van een geldig legitimatiebewijs overgelegd. Indien
-       van een dergelijke kandidaat een kopie van een geldig
-       legitimatiebewijs ontbreekt, wordt de verklaring van instemming van de
-       betreffende kandidaat geacht te ontbreken.
+       tevens een kopie van een document als bedoeld in artikel 1 van de Wet
+       op de identificatieplicht overgelegd. Indien van een dergelijke
+       kandidaat een kopie van een document als bedoeld in artikel 1 van de
+       Wet op de identificatieplicht ontbreekt, wordt de verklaring van
+       instemming van de betreffende kandidaat geacht te ontbreken.
 
      4. Bij algemene maatregel van bestuur wordt geregeld waar en wanneer
        de formulieren voor de verklaringen van instemming, kosteloos, voor de
@@ -1694,14 +1695,14 @@
        tijdstip dan eenentwintig uur. De burgemeester brengt deze tijdstippen
        ten minste veertien dagen voor de stemming ter openbare kennis.
 
-     4. De stemopneming van stembureaus, bedoeld in het derde lid, vindt
+     4. De stemopneming van de stembureaus, bedoeld in het derde lid, vindt
        plaats om eenentwintig uur op een door burgemeester en wethouders vast
        te stellen en bekend te maken plaats. De plaats van stemopneming wordt
        bekend gemaakt in de openbare kennisgeving, bedoeld in het derde lid.
 
-     5. Een stemlokaal als bedoeld in het derde lid is, met uitzondering
-       van een stemlokaal van een stembureau als bedoeld in [82]artikel J 4a,
-       op de dag van de stemming tenminste acht uur aaneengesloten geopend.
+     5. Een stembureau als bedoeld in het derde lid is, met uitzondering
+       van een stembureau als bedoeld in [82]artikel J 4a, op de dag van de
+       stemming ten minste acht uur aaneengesloten geopend.
 
   Artikel J 2
 
@@ -1778,9 +1779,11 @@
    bevoegd is aan de stemming deel te nemen, van de burgemeester van de
    gemeente waar hij op de dag van de kandidaatstelling als kiezer is
    geregistreerd, een stempas. Op de stempas wordt een volgnummer vermeld.
-   Onze Minister stelt bij ministeriële regeling een model vast voor de
-   stempas. Onze Minister verstrekt tijdig voor de verkiezing aan de gemeente
-   de informatie nodig voor het produceren van de stempas.
+   Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt bij
+   ministeriële regeling een model vast voor de stempas. Onze Minister van
+   Binnenlandse Zaken en Koninkrijksrelaties verstrekt tijdig voor de
+   verkiezing aan de gemeente de informatie nodig voor het produceren van de
+   stempas.
 
   Artikel J 7a
 
@@ -1807,7 +1810,7 @@
 
      3. Bij of krachtens algemene maatregel van bestuur wordt bepaald welke
        gegevens het register, alsmede het uittreksel, bedoeld in het eerste
-       lid, bevat.
+       lid, bevatten.
 
   Artikel J 8
 
@@ -1818,17 +1821,16 @@
      2. De kiezer doet hiervoor een schriftelijk of mondeling verzoek aan
        de burgemeester.
 
-     3. Een verzoek aan de burgemeester als bedoeld in het eerste lid, kan
-       worden gedaan uiterlijk op de tweede werkdag voor de stemming. De
-       burgemeester kan in afwijking van de vorige volzin besluiten dat het
-       verzoek uiterlijk de eerste dag voor de stemming dient te zijn
-       ontvangen. De burgemeester brengt de verlenging van de termijn ten
-       minste 14 dagen voor de stemming ter openbare kennis. De termijn voor
-       het verzoek wordt vermeld op de stempas.
+     3. Een verzoek aan de burgemeester als bedoeld in het eerste lid,
+       dient te zijn ontvangen uiterlijk op de tweede werkdag voor de
+       stemming. De burgemeester kan in afwijking van de vorige volzin
+       besluiten dat het verzoek uiterlijk de dag voor de stemming dient te
+       zijn ontvangen. De burgemeester brengt de verlenging van de termijn
+       ten minste veertien dagen voor de stemming ter openbare kennis. De
+       termijn voor het verzoek wordt vermeld op de stempas.
 
-     4. De kiezer legt bij zijn verzoek een kopie over van een
-       identificatiemiddel als bedoeld in artikel 1 van de Wet op de
-       identificatieplicht.
+     4. De kiezer legt bij zijn verzoek een kopie over van een document als
+       bedoeld in artikel 1 van de Wet op de identificatieplicht.
 
      5. Aan de kiezer wiens stempas op grond van [89]artikel J 7a ongeldig
        is, wordt geen nieuwe stempas uitgereikt.
@@ -1946,11 +1948,10 @@
 
      1. Op bij de verkiezingen te bezigen stembiljetten kunnen kiezers een
        keuze maken uit de kandidaten over wie de stemming moet geschieden. De
-       lijsten van kandidaten worden op bij algemene maatregel van bestuur te
-       bepalen wijze ter kennis aan de kiezers gebracht. De stembiljetten
-       zijn voorzien van de handtekening van de voorzitter van het
-       hoofdstembureau alsmede van de naam van het vertegenwoordigend orgaan
-       waarvoor de verkiezing geldt en een aanduiding van de kieskring.
+       stembiljetten zijn voorzien van de handtekening van de voorzitter van
+       het hoofdstembureau alsmede van de naam van het vertegenwoordigend
+       orgaan waarvoor de verkiezing geldt en een aanduiding van de
+       kieskring.
 
      2. Bij ministeriële regeling wordt voor de stembiljetten een model
        vastgesteld.
@@ -2040,8 +2041,8 @@
        uittreksel van ongeldige stempassen, controleert de voorzitter
        vervolgens of de gegevens op het identiteitsdocument overeenkomen met
        de gegevens op de stempas. Indien de voorzitter constateert dat de
-       gegevens niet overeenkomen, neemt het tweede lid van het stembureau de
-       stempas in en wordt de kiezer niet toegelaten tot de stemming.
+       gegevens niet overeenkomen, wordt de kiezer niet toegelaten tot de
+       stemming.
 
      8. Indien de kiezer beschikt over een geldig identiteitdocument en een
        geldige stempas en de identiteit op beide documenten overeenkomt,
@@ -2054,8 +2055,8 @@
        tot de stemming is toegelaten, het aantal ingenomen stempassen en het
        aantal uitgereikte stembiljetten.
 
-     11. De ingevolge dit artikel ingenomen stempassen die niet echt zijn,
-       worden door het stembureau onbruikbaar gemaakt.
+     11. De ingevolge dit artikel ingenomen stempassen die niet echt of
+       ongeldig zijn, worden door het stembureau onbruikbaar gemaakt.
 
   Artikel J 26
 
@@ -2224,8 +2225,8 @@
    stemmen, gelijktijdig met het registratieverzoek, bedoeld in [101]artikel
    D 3, daartoe een schriftelijk verzoek in bij de burgemeester van
    's-Gravenhage. Voor het verzoekschrift wordt gebruik gemaakt van een
-   formulier dat is opgenomen in het in [102]artikel D 3, negende lid,
-   bedoelde formulier,
+   formulier dat is opgenomen in het in artikel D 3, negende lid, bedoelde
+   formulier.
 
   Artikel K 8
 
@@ -2235,14 +2236,14 @@
 
      2. Het verzoek wordt slechts afgewezen, indien de verzoeker op de dag
        van de kandidaatstelling niet als kiezer is geregistreerd, hem
-       overeenkomstig [103]paragraaf 2 van hoofdstuk L is toegestaan bij
+       overeenkomstig [102]paragraaf 2 van hoofdstuk L is toegestaan bij
        volmacht te stemmen, of hem is toegestaan per brief te stemmen.
 
      3. Indien het verzoek niet in verdere behandeling kan worden genomen
        of moet worden afgewezen, wordt de reden hiervan op het verzoekschrift
        vermeld, waarna dit onverwijld aan de verzoeker wordt teruggezonden.
 
-     4. [104]Artikel D 9 is van overeenkomstige toepassing op een
+     4. [103]Artikel D 9 is van overeenkomstige toepassing op een
        beschikking als bedoeld in dit artikel.
 
   Artikel K 9
@@ -2253,14 +2254,14 @@
 
   Artikel K 10
 
-     1. Een mondeling verzoek als bedoeld in [105]artikel K 3, eerste lid,
+     1. Een mondeling verzoek als bedoeld in [104]artikel K 3, eerste lid,
        kan geschieden na ontvangst van de stempas, doch uiterlijk op de
        vijfde dag voor de stemming, door de kiezer in persoon ter secretarie
        van de gemeente waar hij op de dag van de kandidaatstelling als kiezer
        is geregistreerd.
 
-     2. De kiezer legt bij het verzoek de hem ingevolge [106]artikel J 7
-       toegezonden of ingevolge [107]artikel J 8 uitgereikte stempas over.
+     2. De kiezer legt bij het verzoek de hem ingevolge [105]artikel J 7
+       toegezonden of ingevolge [106]artikel J 8 uitgereikte stempas over.
 
      3. Op een verzoek als in het eerste lid bedoeld, wordt door de
        burgemeester of de door hem daartoe aangewezen ambtenaar terstond een
@@ -2268,7 +2269,7 @@
 
      4. Het verzoek wordt slechts afgewezen, indien de verzoeker op de dag
        van de kandidaatstelling niet als kiezer is geregistreerd, hem
-       overeenkomstig [108]paragraaf 2 van hoofdstuk L is toegestaan bij
+       overeenkomstig [107]paragraaf 2 van hoofdstuk L is toegestaan bij
        volmacht te stemmen of hem is toegestaan per brief te stemmen.
 
      5. De beslissing tot inwilliging van het verzoek wordt op de stempas
@@ -2283,7 +2284,7 @@
      2. Het tweede lid van het stembureau houdt door op de kiezerspas zijn
        paraaf te plaatsen aantekening dat de kiezer zich heeft aangemeld.
 
-     3. [109]Artikel J 25, tweede tot en met elfde lid, is van
+     3. [108]Artikel J 25, tweede tot en met elfde lid, is van
        overeenkomstige toepassing.
 
   Artikel K 12 [Vervallen per 01-01-2010]
@@ -2303,9 +2304,9 @@
   Artikel L 2
 
      1. Een volmacht kan worden verleend hetzij op een schriftelijke
-       aanvraag overeenkomstig het bepaalde in [110]paragraaf 2, hetzij door
+       aanvraag overeenkomstig het bepaalde in [109]paragraaf 2, hetzij door
        overdracht van de stempas overeenkomstig het bepaalde in
-       [111]paragraaf 3 van dit hoofdstuk.
+       [110]paragraaf 3 van dit hoofdstuk.
 
      2. Een schriftelijke aanvraag om bij volmacht te stemmen kan niet
        worden ingediend door de kiezer aan wie een kiezerspas of een
@@ -2347,7 +2348,7 @@
 
    De burgemeester brengt op de dag van de kandidaatstelling ter openbare
    kennis, dat uiterlijk op de veertiende dag voor de stemming voor de
-   kiezers gelegenheid bestaat het in [112]artikel L 8 bedoelde
+   kiezers gelegenheid bestaat het in [111]artikel L 8 bedoelde
    verzoekschrift in te dienen.
 
   Artikel L 8
@@ -2388,10 +2389,10 @@
 
    De kiezer die zijn werkelijke woonplaats buiten Nederland heeft, dient,
    indien hij bij volmacht wenst te stemmen, gelijktijdig met het
-   registratieverzoek, bedoeld in [113]artikel D 3, daartoe een schriftelijk
+   registratieverzoek, bedoeld in [112]artikel D 3, daartoe een schriftelijk
    verzoek in bij de burgemeester van 's-Gravenhage. Voor het verzoekschrift
    wordt gebruik gemaakt van een formulier dat is opgenomen in het in
-   [114]artikel D 3, negende lid, bedoelde formulier.
+   [113]artikel D 3, negende lid, bedoelde formulier.
 
   Artikel L 10
 
@@ -2403,7 +2404,7 @@
        of een briefstembewijs is verstrekt;
 
      c. degene die als gemachtigde is aangewezen, de aanwijzing in strijd
-       met het bepaalde in [115]artikel L 4 heeft aangenomen;
+       met het bepaalde in [114]artikel L 4 heeft aangenomen;
 
      d. degene die als gemachtigde is aangewezen, niet als kiesgerechtigde
        is geregistreerd binnen het gebied waarvoor de verkiezing geldt.
@@ -2425,7 +2426,7 @@
        verklaard als gemachtigde op te treden van de beslissing in kennis
        wordt gesteld.
 
-     4. [116]Artikel D 9 is van overeenkomstige toepassing op een
+     4. [115]Artikel D 9 is van overeenkomstige toepassing op een
        beschikking als bedoeld in dit artikel.
 
   Artikel L 12
@@ -2464,12 +2465,12 @@
      1. De gemachtigde overhandigt aan de voorzitter van het stembureau het
        volmachtbewijs.
 
-     2. Indien het een volmachtbewijs betreft als bedoeld in [117]hoofdstuk
-       L, paragraaf 3, overhandigt de volmachtnemer tevens een kopie van een
-       identiteitsdocument als bedoeld in [118]artikel J 24, van de
+     2. Indien het een volmachtbewijs betreft als bedoeld in [116]hoofdstuk
+       L, paragraaf 3, overhandigt de gemachtigde tevens een kopie van een
+       identiteitsdocument als bedoeld in [117]artikel J 24, van de
        volmachtgever.
 
-     3. [119]Artikel J 25, tweede tot en met elfde lid, is van
+     3. [118]Artikel J 25, tweede tot en met elfde lid, is van
        overeenkomstige toepassing.
 
   Hoofdstuk M. Het stemmen per brief
@@ -2495,24 +2496,24 @@
        worden vervangen.
 
      3. Aan de kiezer aan wie een briefstembewijs is verstrekt, wordt geen
-       stempas toegezonden. Hij mag slechts op de in [120]artikel M 7
+       stempas toegezonden. Hij mag slechts op de in [119]artikel M 7
        aangewezen wijze aan de stemming deelnemen.
 
   Artikel M 3
 
      1. De kiezer die zijn werkelijke woonplaats buiten Nederland heeft,
        dient, indien hij per brief wenst te stemmen, gelijktijdig met het
-       registratieverzoek, bedoeld in [121]artikel D 3, daartoe een
+       registratieverzoek, bedoeld in [120]artikel D 3, daartoe een
        schriftelijk verzoek in bij de burgemeester van 's-Gravenhage. De
        overige kiezers dienen een zodanig verzoekschrift uiterlijk op de
        achtentwintigste dag voor de stemming in bij de burgemeester van de
        gemeente waar zij als kiezer zijn geregistreerd. In het verzoekschrift
        geeft de kiezer een adres op buiten Nederland waar hij de stukken,
-       bedoeld in [122]artikel M 6, eerste lid, wenst te ontvangen.
+       bedoeld in [121]artikel M 6, eerste lid, wenst te ontvangen.
 
      2. Voor het verzoekschrift, bedoeld in het eerste lid, eerste volzin,
        wordt gebruik gemaakt van een formulier dat is opgenomen in het in
-       [123]artikel D 3, negende lid, bedoelde formulier.
+       [122]artikel D 3, negende lid, bedoelde formulier.
 
      3. Voor het verzoekschrift, bedoeld in het eerste lid, tweede volzin,
        wordt gebruik gemaakt van een formulier dat ter secretarie van elke
@@ -2526,7 +2527,7 @@
        beslissing genomen.
 
      2. Het verzoek wordt slechts afgewezen, indien gebleken is dat de
-       verzoeker niet tot de in [124]artikel M 1 bedoelde kiezers behoort.
+       verzoeker niet tot de in [123]artikel M 1 bedoelde kiezers behoort.
 
      3. Indien het verzoek niet in verdere behandeling kan worden genomen
        of moet worden afgewezen, wordt de reden daarvan vermeld op het
@@ -2541,7 +2542,7 @@
        aangewezen ambtenaar het ingewilligde verzoekschrift zo spoedig
        mogelijk door naar de burgemeester van 's-Gravenhage.
 
-     5. [125]Artikel D 9 is van overeenkomstige toepassing op een
+     5. [124]Artikel D 9 is van overeenkomstige toepassing op een
        beschikking als bedoeld in dit artikel.
 
   Artikel M 5 [Vervallen per 01-01-2010]
@@ -2591,14 +2592,14 @@
 
   Artikel M 8
 
-     1. De stukken, bedoeld in [126]artikel M 7, vierde lid, dienen
+     1. De stukken, bedoeld in [125]artikel M 7, vierde lid, dienen
        uiterlijk op de dag der stemming om vijftien uur in het bezit te zijn
        van de burgemeester van 's-Gravenhage.
 
      2. De burgemeester draagt er zorg voor dat de tijdig binnengekomen
        retourenveloppen die voldoende zijn gefrankeerd, op de dag der
        stemming voor eenentwintig uur ongeopend overhandigd worden aan de
-       voorzitters van de stembureaus, bedoeld in [127]artikel M 9.
+       voorzitters van de stembureaus, bedoeld in [126]artikel M 9.
 
      3. Op de retourenveloppen die te laat zijn binnengekomen, worden door
        de burgemeester de dag en, indien dit de dag van de stemming is,
@@ -2622,16 +2623,16 @@
      1. Burgemeester en wethouders van 's-Gravenhage wijzen in hun gemeente
        briefstembureaus aan. Deze stembureaus zijn uitsluitend bestemd voor
        per brief uit te brengen stemmen. Ten aanzien van deze stembureaus
-       zijn [128]artikel J 11 en [129]artikel J 16, voor zover dat artikel
+       zijn [127]artikel J 11 en [128]artikel J 16, voor zover dat artikel
        betrekking heeft op stemhokjes, niet van toepassing.
 
-     2. Burgemeester en wethouders kunnen in afwijking van [130]artikel J 1
+     2. Burgemeester en wethouders kunnen in afwijking van [129]artikel J 1
        bepalen, dat deze stembureaus ten behoeve van het verrichten van de
-       handelingen, bedoeld in de [131]artikelen M 10 en [132]M 11, tevens
+       handelingen, bedoeld in de [130]artikelen M 10 en [131]M 11, tevens
        zitting houden op dagen gelegen in de periode vanaf de zesendertigste
        dag tot en met de tweeënveertigste dag na de kandidaatstelling op door
        burgemeester en wethouders te bepalen tijden. In dat geval draagt de
-       burgemeester er in afwijking van [133]artikel M 8, tweede lid, zorg
+       burgemeester er in afwijking van [132]artikel M 8, tweede lid, zorg
        voor dat de binnengekomen retourenveloppen die voldoende zijn
        gefrankeerd, op deze dagen worden overhandigd aan de voorzitter van de
        briefstembureaus.
@@ -2639,23 +2640,23 @@
      3. Indien burgemeester en wethouders van 's-Gravenhage gebruik hebben
        gemaakt van de bevoegdheid, bedoeld in het tweede lid, vangen deze
        stembureaus op de dag van stemming eerst met de handelingen bedoeld in
-       de artikelen M 10 en [134]M 11, aan, nadat het stembureau
-       overeenkomstig [135]artikel N 16a, eerste lid, de stemopneming heeft
+       de artikelen M 10 en [133]M 11, aan, nadat het stembureau
+       overeenkomstig [134]artikel N 16a, eerste lid, de stemopneming heeft
        verricht ten aanzien van de stembiljetten die zich bij aanvang van de
        dag van stemming in de stembus bevinden.
 
-     4. In afwijking van [136]artikel J 1, tweede lid, eindigt de stemming
+     4. In afwijking van [135]artikel J 1, tweede lid, eindigt de stemming
        op de dag der stemming zodra de briefstembureaus de handelingen,
-       bedoeld in de [137]artikelen M 10 en [138]M 11, ten aanzien van alle
+       bedoeld in de [136]artikelen M 10 en [137]M 11, ten aanzien van alle
        tijdig binnengekomen retourenveloppen hebben beëindigd.
 
      5. Bij algemene maatregel van bestuur worden nadere regels gesteld met
        betrekking tot de zittingen, bedoeld in het tweede lid, en het bewaren
        van de stembescheiden.
 
-     6. In plaats van het in [139]artikel J 17, eerste lid, bedoelde
+     6. In plaats van het in [138]artikel J 17, eerste lid, bedoelde
        afschrift liggen op de tafel van deze stembureaus de verzoekschriften,
-       bedoeld in [140]artikel M 4, vierde lid.
+       bedoeld in [139]artikel M 4, vierde lid.
 
   Artikel M 10
 
@@ -2664,7 +2665,7 @@
        controleert of de verklaring dat de kiezer het stembiljet persoonlijk
        heeft ingevuld, is ondertekend en of de daaronder geplaatste
        handtekening overeenstemt met de handtekening onder het
-       verzoekschrift, bedoeld in [141]artikel M 4, vierde lid. Vervolgens
+       verzoekschrift, bedoeld in [140]artikel M 4, vierde lid. Vervolgens
        overhandigt hij het briefstembewijs aan het tweede lid van het
        stembureau.
 
@@ -2687,7 +2688,7 @@
   Artikel M 11
 
      1. Indien de retourenveloppe niet zowel een geldig briefstembewijs als
-       een stembiljet, onderscheidenlijk de in [142]artikel M 6, eerste lid,
+       een stembiljet, onderscheidenlijk de in [141]artikel M 6, eerste lid,
        onder d, bedoelde enveloppe met stembiljet, bevat, dan wel de op het
        briefstembewijs gestelde verklaring van de kiezer dat hij het
        stembiljet persoonlijk heeft ingevuld, niet door deze is ondertekend,
@@ -2744,7 +2745,7 @@
    De burgemeester van 's-Gravenhage of de door hem daartoe aangewezen
    ambtenaar zendt de ingewilligde verzoekschriften, afkomstig van personen
    die hun werkelijke woonplaats hebben in een land als bedoeld in
-   [143]artikel M 13 of daar op de dag der stemming zullen verblijven, zo
+   [142]artikel M 13 of daar op de dag der stemming zullen verblijven, zo
    spoedig mogelijk per diplomatieke post naar het hoofd van de ingevolge
    artikel M 13, eerste lid, aangewezen diplomatieke of consulaire
    vertegenwoordiging van Nederland in het desbetreffende land dan wel naar
@@ -2760,12 +2761,12 @@
    militaire missie ingesteld briefstembureau per brief stemt, ontvangt van
    de burgemeester van 's-Gravenhage een retourenveloppe, geadresseerd aan de
    voorzitter van het daar gevestigde briefstembureau. Hij zendt de
-   retourenveloppe, na de in [144]artikel M 7 bedoelde handelingen te hebben
+   retourenveloppe, na de in [143]artikel M 7 bedoelde handelingen te hebben
    verricht, naar deze voorzitter.
 
   Artikel M 16
 
-     1. De in [145]artikel M 8, eerste tot en met derde lid, aan de
+     1. De in [144]artikel M 8, eerste tot en met derde lid, aan de
        burgemeester opgedragen taken worden verricht door het hoofd van de
        diplomatieke of consulaire vertegenwoordiging van Nederland in het
        desbetreffende land danwel door de vertegenwoordiger van Nederland in
@@ -2773,15 +2774,15 @@
        leiding van de militaire missie.
 
      2. Indien een tijdsverschil met Nederland bestaat, gelden de in
-       [146]artikel M 8, eerste en tweede lid, genoemde tijdstippen naar
+       [145]artikel M 8, eerste en tweede lid, genoemde tijdstippen naar
        plaatselijke tijd.
 
   Artikel M 17
 
    Voor de zitting van briefstembureaus buiten Nederland kan Onze Minister
    van Buitenlandse Zaken danwel Onze Minister van Binnenlandse Zaken en
-   Koninkrijksrelaties danwel Onze Minister van Defensie>>, een later
-   aanvangstijdstip bepalen dan het in [147]artikel J 1, tweede lid,
+   Koninkrijksrelaties danwel Onze Minister van Defensie, een later
+   aanvangstijdstip bepalen dan het in [146]artikel J 1, tweede lid,
    genoemde.
 
   Hoofdstuk N. De stemopneming door het stembureau
@@ -2822,8 +2823,8 @@
             hierop betrekking hebben;
 
                b. de onbruikbaar gemaakte stempassen en volmachtbewijzen die
-            niet voldoen aan de echtheidskenmerken en de aantekeningen van
-            het stembureau die hierop betrekking hebben;
+            niet echt zijn en de aantekeningen van het stembureau die hierop
+            betrekking hebben;
 
                c. de overige stempassen;
 
@@ -2837,7 +2838,7 @@
 
   Artikel N 3
 
-   Onmiddellijk na de in [148]artikel N 2 voorgeschreven verzegelingen wordt
+   Onmiddellijk na de in [147]artikel N 2 voorgeschreven verzegelingen wordt
    de stembus geopend.
 
   Artikel N 4
@@ -2885,7 +2886,7 @@
 
   Artikel N 8
 
-     1. Het stembureau beslist met inachtneming van [149]artikel N 7 over
+     1. Het stembureau beslist met inachtneming van [148]artikel N 7 over
        de geldigheid van het stembiljet.
 
      2. De voorzitter maakt de reden van ongeldigverklaring en van twijfel
@@ -2926,7 +2927,7 @@
 
   Artikel N 10
 
-     1. Nadat alle werkzaamheden, in [150]artikel N 9 vermeld, zijn
+     1. Nadat alle werkzaamheden, in [149]artikel N 9 vermeld, zijn
        beëindigd, wordt onmiddellijk proces-verbaal opgemaakt van de stemming
        en van de stemopneming. Alle ingebrachte bezwaren worden in het
        proces-verbaal vermeld.
@@ -2940,7 +2941,7 @@
   Artikel N 11
 
      1. Het proces-verbaal wordt met de verzegelde pakken, bedoeld in
-       [151]artikel N 2, alsmede met die, bedoeld in [152]artikel N 9, door
+       [150]artikel N 2, alsmede met die, bedoeld in [151]artikel N 9, door
        de voorzitter of een door hem aan te wijzen ander lid van het
        stembureau naar de burgemeester of een door deze aan te wijzen
        ambtenaar overgebracht.
@@ -2952,7 +2953,7 @@
        uitgebracht.
 
      3. De burgemeester stelt tevens het aantal uitgebrachte blanco stemmen
-       vast.
+       en het aantal uitgebrachte ongeldige stemmen vast.
 
      4. De burgemeester van ?s-Gravenhage maakt bij de vaststelling,
        bedoeld in het tweede en derde lid, apart melding van het aantal
@@ -2960,7 +2961,7 @@
        briefstembureaus op die kandidaat, onderscheidenlijk die lijst, is
        uitgebracht.
 
-     4. Voor de in het tweede en derde lid bedoelde vaststelling wordt
+     5. Voor de in het tweede en derde lid bedoelde vaststelling wordt
        gebruik gemaakt van een formulier waarvoor bij ministeriële regeling
        een model wordt vastgesteld.
 
@@ -2971,7 +2972,7 @@
        stemmen, onverwijld naar de voorzitter van het hoofdstembureau worden
        overgebracht.
 
-     2. De burgemeester draagt er zorg voor dat de in [153]artikel N 9
+     2. De burgemeester draagt er zorg voor dat de in [152]artikel N 9
        bedoelde verzegelde pakken met stembiljetten op verzoek van de
        voorzitter van het centraal stembureau onmiddellijk naar het centraal
        stembureau worden overgebracht en dat de niet naar het centraal
@@ -2981,7 +2982,7 @@
 
      3. Indien de officier van justitie of de rechter-commissaris in het
        kader van een strafrechtelijk onderzoek een verzoek heeft gedaan tot
-       overdracht van de in [154]artikel N 2 bedoelde pakken, worden deze
+       overdracht van de in [153]artikel N 2 bedoelde pakken, worden deze
        pakken niet vernietigd voordat dit onderzoek is afgerond, of, indien
        strafvervolging is ingesteld wegens op grond van de Kieswet, op grond
        van de artikelen 125 tot en met 129 van het Wetboek van Strafrecht of
@@ -2994,7 +2995,7 @@
 
   Artikel N 13
 
-   De burgemeester is bevoegd de verzegelde pakken met de in [155]artikel N 2
+   De burgemeester is bevoegd de verzegelde pakken met de in [154]artikel N 2
    bedoelde bescheiden te openen en, nadat is beslist over de toelating van
    de gekozen leden tot het vertegenwoordigend orgaan, deze pakken ten
    dienste van een onderzoek naar enig strafbaar feit aan de officier van
@@ -3017,25 +3018,25 @@
 
   Artikel N 15
 
-   Bij een briefstembureau betreft de vaststelling, bedoeld in [156]artikel N
+   Bij een briefstembureau betreft de vaststelling, bedoeld in [155]artikel N
    1:
 
      a. het aantal door het stembureau ontvangen retourenveloppen;
 
-     b. het aantal ingevolge [157]artikel M 11 terzijde gelegde
+     b. het aantal ingevolge [156]artikel M 11 terzijde gelegde
        retourenveloppen.
 
   Artikel N 16
 
-     1. Bij een briefstembureau worden, nadat aan [158]artikel N 1, tweede
+     1. Bij een briefstembureau worden, nadat aan [157]artikel N 1, tweede
        lid, toepassing is gegeven, de verzoekschriften, bedoeld in
-       [159]artikel M 4, vierde lid, te zamen met een gewaarmerkte verklaring
+       [158]artikel M 4, vierde lid, te zamen met een gewaarmerkte verklaring
        van het stembureau betreffende het aantal gestelde parafen, in een pak
        gedaan, dat wordt verzegeld. Vervolgens worden op overeenkomstige
-       wijze ingepakt de retourenveloppen, bedoeld in [160]artikel M 11,
+       wijze ingepakt de retourenveloppen, bedoeld in [159]artikel M 11,
        alsmede de ingeleverde briefstembewijzen.
 
-     2. Alvorens over te gaan tot de handelingen, bedoeld in [161]artikel N
+     2. Alvorens over te gaan tot de handelingen, bedoeld in [160]artikel N
        4, opent de voorzitter van het briefstembureau de enveloppen die zich
        in de stembus bevinden. Indien in een enveloppe zich geen of meer dan
        één stembiljet bevindt, wordt hiervan een aantekening gemaakt. Indien
@@ -3046,13 +3047,13 @@
   Artikel N 16a
 
      1. Indien burgemeester en wethouders van 's-Gravenhage gebruik hebben
-       gemaakt van de bevoegdheid, bedoeld in [162]artikel M 9, tweede lid,
-       vangen zij in afwijking van [163]artikel N 1 de stemopneming op de dag
+       gemaakt van de bevoegdheid, bedoeld in [161]artikel M 9, tweede lid,
+       vangen zij in afwijking van [162]artikel N 1 de stemopneming op de dag
        van stemming aan om zeven uur dertig ten aanzien van de stembiljetten
        die zich op dat moment in de stembus bevinden.
 
-     2. Ten behoeve van de handelingen, bedoeld in de [164]artikelen M 10
-       en [165]M 11, ten aanzien van de nog niet geopende retourenveloppen
+     2. Ten behoeve van de handelingen, bedoeld in de [163]artikelen M 10
+       en [164]M 11, ten aanzien van de nog niet geopende retourenveloppen
        wordt de stemopneming volgens bij algemene maatregel van bestuur te
        stellen regels geschorst. Zodra deze handelingen ten aanzien van alle
        tijdig binnengekomen retourenveloppen zijn beëindigd, wordt de
@@ -3060,7 +3061,7 @@
        regels hervat.
 
      3. Zolang de stemming niet op alle stembureaus in Nederland is
-       geëindigd, blijft [166]artikel N 9 buiten toepassing. Voorts is een
+       geëindigd, blijft [165]artikel N 9 buiten toepassing. Voorts is een
        ieder die ambtshalve kennis kan nemen van de vastgestelde aantallen
        stemmen, zolang verplicht tot geheimhouding daarvan.
 
@@ -3068,7 +3069,7 @@
 
      1. Indien in een briefstembureau buiten Nederland de stemopneming,
        gemeten naar Nederlandse tijd, eerder aanvangt dan in Nederland,
-       blijft [167]artikel N 9, eerste lid, buiten toepassing.
+       blijft [166]artikel N 9, eerste lid, buiten toepassing.
 
      2. In dat geval draagt het hoofd van de diplomatieke of consulaire
        vertegenwoordiging danwel de vertegenwoordiger van Nederland in Aruba,
@@ -3089,15 +3090,15 @@
 
   Artikel N 19
 
-   Bij briefstembureaus buiten Nederland wordt op de in [168]artikel N 9
+   Bij briefstembureaus buiten Nederland wordt op de in [167]artikel N 9
    bedoelde pakken de naam van het land waarin het briefstembureau is
    gevestigd, vermeld.
 
   Artikel N 20
 
      1. Het proces-verbaal van een briefstembureau buiten Nederland wordt
-       met de in [169]artikel N 2 en [170]N 9 bedoelde verzegelde pakken
-       overgedragen aan het hoofd van de ingevolge [171]artikel M 13, eerste
+       met de in [168]artikel N 2 en [169]N 9 bedoelde verzegelde pakken
+       overgedragen aan het hoofd van de ingevolge [170]artikel M 13, eerste
        lid, aangewezen diplomatieke of consulaire vertegenwoordiging danwel
        aan de vertegenwoordiger van Nederland in Aruba, in Curaçao of in Sint
        Maarten danwel aan de Nederlandse leiding van de militaire missie.
@@ -3107,13 +3108,13 @@
        gebracht.
 
      3. Voorts draagt hij er zorg voor dat het proces-verbaal met de in de
-       [172]artikelen M 8, [173]N 2 en [174]N 16 bedoelde verzegelde pakken
+       [171]artikelen M 8, [172]N 2 en [173]N 16 bedoelde verzegelde pakken
        zo spoedig mogelijk per diplomatieke post naar de burgemeester van
        's-Gravenhage worden overgebracht.
 
   Artikel N 21
 
-   De vaststelling van de aantallen stemmen, bedoeld in [175]artikel N 11,
+   De vaststelling van de aantallen stemmen, bedoeld in [174]artikel N 11,
    tweede en derde lid, vindt door de burgemeester van 's-Gravenhage eerst
    plaats nadat hem tevens alle processen-verbaal van de briefstembureaus
    buiten Nederland per telefax ter kennis zijn gebracht.
@@ -3158,21 +3159,21 @@
      4. Indien het de verkiezing betreft van de gemeenteraad of van
        provinciale staten van een provincie die één kieskring vormt, maakt
        het proces-verbaal deel uit van het proces-verbaal, bedoeld in
-       [176]artikel P 22.
+       [175]artikel P 22.
 
   Artikel O 4
 
      1. Tenzij het de verkiezing betreft van de gemeenteraad of van
        provinciale staten van een provincie die één kieskring vormt, doet de
        voorzitter terstond een afschrift van het proces-verbaal, bedoeld in
-       [177]artikel O 3, naar het centraal stembureau overbrengen en doet hij
+       [176]artikel O 3, naar het centraal stembureau overbrengen en doet hij
        tegelijkertijd het proces-verbaal ter secretarie van de gemeente waar
        het hoofdstembureau is gevestigd, voor een ieder ter inzage leggen. De
        terinzagelegging wordt beëindigd, zodra over de toelating van de
        benoemden is beslist.
 
      2. De voorzitter doet de processen-verbaal van de stembureaus, de
-       opgave, bedoeld in [178]artikel N 12, eerste lid, en, tenzij het de
+       opgave, bedoeld in [177]artikel N 12, eerste lid, en, tenzij het de
        verkiezing betreft van de gemeenteraad of van provinciale staten van
        een provincie die één kieskring vormt, een afschrift van het
        proces-verbaal van de zitting van het hoofdstembureau terstond
@@ -3182,7 +3183,7 @@
 
      1. De voorzitter van het orgaan waarvoor de verkiezing heeft plaats
        gehad, kan de processen-verbaal van de stembureaus en de opgave,
-       bedoeld in [179]artikel N 12, eerste lid, vernietigen, nadat het
+       bedoeld in [178]artikel N 12, eerste lid, vernietigen, nadat het
        centraal stembureau de uitslag van de verkiezing heeft bekendgemaakt
        en over de toelating van de gekozenen is beslist.
 
@@ -3208,14 +3209,14 @@
    uitslag van de verkiezing. Indien het de verkiezing betreft van de
    gemeenteraad of van provinciale staten van een provincie die één kieskring
    vormt, gaat het centraal stembureau daartoe onmiddellijk over nadat de
-   werkzaamheden, bedoeld in de [180]artikelen O 1 en [181]O 2, zijn
+   werkzaamheden, bedoeld in de [179]artikelen O 1 en [180]O 2, zijn
    beëindigd.
 
   § 2. De zetelverdeling
 
   Artikel P 2
 
-     1. Een stel gelijkluidende lijsten als bedoeld in [182]artikel H 11,
+     1. Een stel gelijkluidende lijsten als bedoeld in [181]artikel H 11,
        eerste lid, geldt voor de vaststelling van de uitslag van de
        verkiezing als één lijst.
 
@@ -3225,14 +3226,14 @@
 
   Artikel P 3
 
-   Een lijstengroep als bedoeld in [183]artikel H 11, tweede lid, geldt voor
+   Een lijstengroep als bedoeld in [182]artikel H 11, tweede lid, geldt voor
    het bepalen van het aantal daaraan toe te wijzen zetels als één lijst met
    een stemcijfer gelijk aan de som van de stemcijfers van de lijsten waaruit
    de groep bestaat.
 
   Artikel P 4
 
-     1. Een lijstencombinatie als bedoeld in [184]artikel I 10 geldt voor
+     1. Een lijstencombinatie als bedoeld in [183]artikel I 10 geldt voor
        het bepalen van het aantal daaraan toe te wijzen zetels als één lijst,
        met een stemcijfer gelijk aan de som van de stemcijfers van de lijsten
        waaruit die combinatie bestaat.
@@ -3282,7 +3283,7 @@
      3. Wanneer alle lijsten die daarvoor in aanmerking komen een restzetel
        hebben ontvangen en er nog zetels te verdelen blijven, worden deze
        zetels toegewezen volgens het stelsel van de grootste gemiddelden als
-       bedoeld in [185]artikel P 7, eerste lid, met dien verstande, dat bij
+       bedoeld in [184]artikel P 7, eerste lid, met dien verstande, dat bij
        deze toewijzing aan geen van de lijsten meer dan één zetel wordt
        toegewezen.
 
@@ -3350,7 +3351,7 @@
 
   Artikel P 13
 
-     1. Indien bij de toepassing van [186]artikel P 11 of [187]artikel P 12
+     1. Indien bij de toepassing van [185]artikel P 11 of [186]artikel P 12
        aan een lijst meer zetels zouden moeten worden toegewezen dan er
        kandidaten zijn, gaan de overblijvende zetel of zetels door
        voortgezette toepassing van dat artikel over op een van de andere
@@ -3359,12 +3360,12 @@
 
      2. Zijn er na toepassing van het eerste lid nog zetels toe te wijzen,
        dan worden deze toegewezen volgens het stelsel van de grootste
-       gemiddelden als bedoeld in [188]artikel P 7, eerste lid.
+       gemiddelden als bedoeld in [187]artikel P 7, eerste lid.
 
   Artikel P 14
 
    De in de voorgaande artikelen bedoelde lotingen vinden plaats in de in
-   [189]artikel P 20 bedoelde zitting van het centraal stembureau.
+   [188]artikel P 20 bedoelde zitting van het centraal stembureau.
 
   § 3. De toewijzing van de zetels aan de kandidaten
 
@@ -3401,7 +3402,7 @@
        toegewezen, wordt aan hem niettemin een zetel toegewezen op de lijst
        of het stel gelijkluidende lijsten waarop hij het grootste aantal
        stemmen heeft verkregen, en vervalt daartegenover de zetel die met
-       toepassing van [190]artikel P 12 of [191]P 13 het laatst was
+       toepassing van [189]artikel P 12 of [190]P 13 het laatst was
        toegewezen aan een van de lijsten of stellen gelijkluidende lijsten
        van de groep.
 
@@ -3409,7 +3410,7 @@
 
    De zetels, toegewezen aan de al dan niet van een lijstengroep deel
    uitmakende lijsten of stellen gelijkluidende lijsten, die na toepassing
-   van de [192]artikelen P 15 en [193]P 16 nog niet aan een kandidaat zijn
+   van de [191]artikelen P 15 en [192]P 16 nog niet aan een kandidaat zijn
    toegewezen, worden aan de nog niet gekozen kandidaten van de
    desbetreffende lijsten of stellen gelijkluidende lijsten toegewezen in de
    volgorde van de lijst.
@@ -3417,7 +3418,7 @@
   Artikel P 18
 
      1. Betreft het een lijstengroep dan geldt, indien een kandidaat met
-       toepassing van [194]artikel P 17 op meer dan één lijst of stel
+       toepassing van [193]artikel P 17 op meer dan één lijst of stel
        gelijkluidende lijsten van de lijstengroep gekozen is, die kandidaat
        als gekozen op de lijst of het stel gelijkluidende lijsten waarop het
        grootste aantal stemmen op hem is uitgebracht. Voor zover aantallen
@@ -3445,7 +3446,7 @@
      1. Het centraal stembureau rangschikt ten aanzien van iedere lijst of
        ieder stel gelijkluidende lijsten de daarop voorkomende kandidaten
        zodanig, dat bovenaan komen te staan de kandidaten aan wie een zetel
-       is toegewezen met toepassing van [195]artikel P 15, in de volgorde
+       is toegewezen met toepassing van [194]artikel P 15, in de volgorde
        waarin de zetels zijn toegewezen.
 
      2. Vervolgens worden, in de volgorde van de aantallen op hen
@@ -3453,7 +3454,7 @@
        gelijkluidende lijsten voorkomende kandidaten die op de gezamenlijke
        lijsten waarop zij voorkomen een aantal stemmen hebben verkregen,
        groter dan 25% van de kiesdeler onderscheidenlijk groter dan de helft
-       van de kiesdeler, doch die niet met toepassing van [196]artikel P 15,
+       van de kiesdeler, doch die niet met toepassing van [195]artikel P 15,
        eerste onderscheidenlijk tweede lid, zijn gekozen verklaard. Indien
        aantallen gelijk zijn, beslist de volgorde van de lijst.
 
@@ -3461,7 +3462,7 @@
        overige op de lijst of het stel gelijkluidende lijsten voorkomende
        kandidaten.
 
-     4. Bij de rangschikking blijft [197]artikel P 18 buiten toepassing.
+     4. Bij de rangschikking blijft [196]artikel P 18 buiten toepassing.
 
      5. Behoudens ten aanzien van de verkiezing van de leden van de
        gemeenteraden met negen of elf leden, blijft de rangschikking
@@ -3480,8 +3481,10 @@
   Artikel P 20
 
      1. Het centraal stembureau stelt de uitslag van de verkiezingen zo
-       spoedig mogelijk vast. De vaststelling en bekendmaking geschieden in
-       een openbare zitting van het centraal stembureau.
+       spoedig mogelijk vast. Het centraal stembureau stelt tevens het aantal
+       uitgebrachte blanco stemmen en het aantal uitgebrachte ongeldige
+       stemmen vast. De vaststelling en bekendmaking geschieden in een
+       openbare zitting van het centraal stembureau.
 
      2. Dag en uur van de zitting worden door de voorzitter van het
        centraal stembureau tijdig bekend gemaakt. De wijze van bekendmaking
@@ -3494,7 +3497,7 @@
 
   Artikel P 21
 
-     1. Het centraal stembureau kan op de in [198]artikel P 20 bedoelde
+     1. Het centraal stembureau kan op de in [197]artikel P 20 bedoelde
        zitting, voordat de uitslag van de verkiezing bekend wordt gemaakt,
        hetzij ambtshalve, hetzij naar aanleiding van een met opgave van
        redenen gedaan verzoek van een of meer kiezers, tot een nieuwe
@@ -3511,7 +3514,7 @@
        verzegelde pakken te openen en de inhoud te vergelijken met de
        processen-verbaal van de stembureaus.
 
-     3. Bij deze opneming zijn de [199]artikelen N 5, [200]N 8 en [201]N 9
+     3. Bij deze opneming zijn de [198]artikelen N 5, [199]N 8 en [200]N 9
        van overeenkomstige toepassing.
 
   Artikel P 22
@@ -3551,7 +3554,7 @@
   Artikel P 25
 
    De voorzitter van het centraal stembureau draagt zorg voor de bewaring van
-   de verzegelde pakken met stembiljetten die op grond van het [202]eerste
+   de verzegelde pakken met stembiljetten die op grond van het [201]eerste
    lid van artikel P 21 naar het centraal stembureau zijn overgebracht.
 
    Hij vernietigt deze pakken, nadat over de toelating van de benoemden is
@@ -3604,7 +3607,7 @@
 
      1. De registratie van een aanduiding van een politieke groepering voor
        de verkiezing van de leden van de Tweede Kamer, als bedoeld in
-       [203]artikel G 1, geldt tevens voor de verkiezing van de leden van de
+       [202]artikel G 1, geldt tevens voor de verkiezing van de leden van de
        Eerste Kamer.
 
      2. Een politieke groepering die een vereniging is met volledige
@@ -3618,14 +3621,12 @@
        kandidaatstelling, blijven voor de daaropvolgende verkiezing buiten
        behandeling.
 
-     3. Het [204]tweede tot en met zevende lid van artikel G 1 zijn van
+     3. Het [203]tweede tot en met zevende lid van artikel G 1 zijn van
        overeenkomstige toepassing, met dien verstande dat voor de toepassing
        van het zevende lid, onder d, in plaats van «de Tweede Kamer» wordt
-       gelezen «de Eerste Kamer» en in plaats van «[205]tweede of derde lid
-       van artikel H 3» wordt gelezen: [206]eerste of tweede lid van artikel
-       R 7.
+       gelezen «de Eerste Kamer».
 
-     4. Behalve op de in [207]artikel G 1, vierde lid, genoemde gronden
+     4. Behalve op de in [204]artikel G 1, vierde lid, genoemde gronden
        wordt op een verzoek om registratie van de aanduiding van een
        politieke groepering ten behoeve van de verkiezingen van de leden van
        de Eerste Kamer afwijzend beschikt, indien de aanduiding geheel of in
@@ -3641,7 +3642,7 @@
   Artikel R 1
 
      1. Op de dag van de kandidaatstelling kunnen bij de voorzitter van het
-       centraal stembureau, bedoeld in [208]artikel S 1, eerste lid, of het
+       centraal stembureau, bedoeld in [205]artikel S 1, eerste lid, of het
        door deze aan te wijzen lid van dat bureau, van negen tot zeventien
        uur, kandidatenlijsten door persoonlijke overhandiging worden
        ingeleverd.
@@ -3656,11 +3657,11 @@
 
   Artikel R 2
 
-     1. Bij de lijst overgelegd een schriftelijke verklaring van ten minste
-       één lid van provinciale staten van iedere provincie waarvoor de lijst
-       wordt ingeleverd dat hij de lijst ondersteunt. Op deze verklaringen
-       worden de kandidaten op dezelfde wijze en in dezelfde volgorde vermeld
-       als op de lijst.
+     1. Bij de lijst wordt overgelegd een schriftelijke verklaring van ten
+       minste één lid van provinciale staten van iedere provincie waarvoor de
+       lijst wordt ingeleverd dat hij de lijst ondersteunt. Op deze
+       verklaring worden de kandidaten op dezelfde wijze en in dezelfde
+       volgorde vermeld als op de lijst.
 
      2. Een lid van provinciale staten mag niet meer dan één verklaring van
        ondersteuning ondertekenen.
@@ -3677,7 +3678,7 @@
 
    Op de lijst worden een of meer personen vermeld die bij verhindering van
    de inleveraar bevoegd zijn tot het herstel van verzuimen, bedoeld in
-   [209]artikel S 1, derde lid.
+   [206]artikel S 1, derde lid.
 
   Artikel R 4
 
@@ -3697,7 +3698,7 @@
   Artikel R 5
 
    De naam van een kandidaat mag niet voorkomen op meer dan één van de
-   lijsten die voor eenzelfde provincie zijn ingeleverd>>.
+   lijsten die voor eenzelfde provincie zijn ingeleverd.
 
   Artikel R 6
 
@@ -3706,8 +3707,8 @@
 
   Artikel R 7
 
-     1. De gemachtigde, bedoeld in [210]artikel G 1, derde lid, onder d,
-       onderscheidenlijk [211]artikel Q 6, derde lid, in samenhang met
+     1. De gemachtigde, bedoeld in [207]artikel G 1, derde lid, onder d,
+       onderscheidenlijk [208]artikel Q 6, derde lid, in samenhang met
        artikel G 1, derde lid, onder d, kan aan degene die de kandidatenlijst
        inlevert de bevoegdheid verlenen boven de lijst de aanduiding van de
        desbetreffende groepering te plaatsen, zoals die door het centraal
@@ -3724,7 +3725,7 @@
        aldus gevormde aanduiding mag niet meer dan 35 letters of andere
        tekens bevatten.
 
-     3. De voorzitter van het centraal stembureau of de door deze
+     3. De voorzitter van het centraal stembureau of het door deze
        aangewezen lid van dat bureau stelt een bewijs van ontvangst ter hand
        aan degene die de lijst inlevert en legt de bij hem ingeleverde
        lijsten onverwijld voor een ieder ter inzage.
@@ -3746,10 +3747,12 @@
        ingetrokken.
 
      3. Bij de lijst wordt van iedere kandidaat die geen zitting in de
-       Eerste Kamer heeft, tevens een kopie van een geldig legitimatiebewijs
-       overgelegd. Indien van een dergelijke kandidaat een kopie van een
-       geldig legitimatiebewijs ontbreekt, wordt de verklaring van instemming
-       van de betreffende kandidaat geacht te ontbreken.
+       Eerste Kamer heeft, tevens een kopie van een document als bedoeld in
+       artikel 1 van de Wet op de identificatieplicht overgelegd. Indien van
+       een dergelijke kandidaat een kopie van een document als bedoeld in
+       artikel 1 van de Wet op de identificatieplicht ontbreekt, wordt de
+       verklaring van instemming van de betreffende kandidaat geacht te
+       ontbreken.
 
      4. Bij algemene maatregel van bestuur wordt geregeld waar en wanneer
        de formulieren voor de verklaringen van instemming, kosteloos,
@@ -3768,8 +3771,8 @@
        kandidaat meer dan één verklaring ondertekent, moet in iedere
        verklaring dezelfde gemachtigde worden aangewezen. Deze gemachtigde is
        met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld
-       in de [212]artikelen V 2, eerste, vierde en vijfde lid, [213]V 3,
-       eerste en derde lid, en [214]W 2, eerste lid, onder f.
+       in de [209]artikelen V 2, eerste, vierde en vijfde lid, [210]V 3,
+       eerste en derde lid, en [211]W 2, eerste lid, onder f.
 
      2. De kandidaat is bevoegd de overeenkomstig het eerste lid gegeven
        volmacht in te trekken. Hij geeft hiervan schriftelijk kennis aan de
@@ -3784,9 +3787,9 @@
        voorletters, woonplaats en adres. Indien de kandidaat meer dan één
        verklaring ondertekent, wordt in iedere verklaring dezelfde
        gemachtigde aangewezen. Deze gemachtigde is met uitsluiting van de
-       kandidaat bevoegd tot de handelingen, bedoeld in de [215]artikelen V
-       2, eerste, vierde en vijfde lid, [216]V 3, eerste en tweede lid, en
-       [217]W 2, eerste lid, onder f.
+       kandidaat bevoegd tot de handelingen, bedoeld in de [212]artikelen V
+       2, eerste, vierde en vijfde lid, [213]V 3, eerste en tweede lid, en
+       [214]W 2, eerste lid, onder f.
 
      2. Van de machtiging kan alleen gebruik worden gemaakt, indien dit
        gebruik ertoe strekt dat kandidaten van de gezamenlijke lijsten van de
@@ -3805,7 +3808,7 @@
        er zorg voor dat de volgorde zo spoedig mogelijk in de Staatscourant
        wordt bekendgemaakt.
 
-     5. [218]Artikel R 9, tweede lid, is van overeenkomstige toepassing.
+     5. [215]Artikel R 9, tweede lid, is van overeenkomstige toepassing.
 
   Artikel R 10
 
@@ -3822,8 +3825,8 @@
 
   Artikel R 11 [Vervallen per 01-01-2011]
 
-  Hoofdstuk S. Het onderzoek, de verbinding, de nummering en de openbaarmaking
-  van de kandidatenlijsten
+  Hoofdstuk S. Het onderzoek, de nummering en de openbaarmaking van de
+  kandidatenlijsten
 
   § 1. Het onderzoek van de kandidatenlijsten
 
@@ -3841,12 +3844,12 @@
        lijst heeft ingeleverd:
 
                a. dat voor een of meer provincies niet een verklaring als
-            bedoeld in [219]artikel R 2, eerste lid, is overgelegd, waarbij
+            bedoeld in [216]artikel R 2, eerste lid, is overgelegd, waarbij
             buiten beschouwing blijven de verklaringen van een lid van
             provinciale staten dat meer dan één verklaring heeft ondertekend;
 
                b. dat een kandidaat niet is vermeld overeenkomstig het bepaalde
-            krachtens [220]artikel R 6;
+            krachtens [217]artikel R 6;
 
                c. dat ten aanzien van een kandidaat ontbreekt de verklaring dat
             hij instemt met zijn kandidaatstelling op de lijst voor de
@@ -3856,15 +3859,15 @@
             van Nederland woonplaats heeft, in zijn verklaring van instemming
             de aanwijzing van een gemachtigde ontbreekt;
 
-               e. dat een verklaring, bedoeld in [221]artikel R 7, ontbreekt.
+               e. dat een verklaring, bedoeld in [218]artikel R 7, ontbreekt.
 
      4. Uiterlijk op de derde dag na de zitting, bedoeld in het tweede lid,
        kan degene die de lijst heeft ingeleverd, het verzuim of de verzuimen,
-       in de kennisgeving aangeduid, herstellen op het Ministerie van
-       Binnenlandse Zaken en Koninkrijksrelaties van negen tot zeventien uur.
+       in de kennisgeving aangeduid, herstellen bij het centraal stembureau
+       van negen tot zeventien uur.
 
      5. Bij verhindering of ontstentenis van degene die de lijst heeft
-       ingeleverd, treedt in diens plaats een ingevolge [222]artikel R 3 op
+       ingeleverd, treedt in diens plaats een ingevolge [219]artikel R 3 op
        de lijst vermelde vervanger.
 
   Artikel S 2
@@ -3888,16 +3891,16 @@
        door deze aangewezen lid van dat bureau door persoonlijke
        overhandiging is ingeleverd;
 
-     b. waarbij niet is overgelegd een verklaring van ondersteuning van een
-       lid van provinciale staten van deze provincie als bedoeld in
-       [223]artikel R 2, eerste lid, waarbij buiten beschouwing blijven de
-       verklaringen van een lid van provinciale staten die meer dan één
-       verklaring heeft ondertekend;
+     b. waarbij niet is overgelegd een verklaring als bedoeld in
+       [220]artikel R 2, eerste lid, van een lid van provinciale staten van
+       deze provincie, waarbij buiten beschouwing blijven de verklaringen van
+       een lid van provinciale staten dat meer dan één verklaring heeft
+       ondertekend;
 
      c. die niet voldoet aan het bij ministeriële regeling vastgestelde
        model;
 
-     d. waarop door toepassing van [224]artikel S 4 alle kandidaten zijn
+     d. waarop door toepassing van [221]artikel S 4 alle kandidaten zijn
        geschrapt.
 
   Artikel S 4
@@ -3906,7 +3909,7 @@
        aangewezen, van de lijst voor een provincie de naam van de kandidaat:
 
                a. die niet is vermeld overeenkomstig het bepaalde krachtens
-            [225]artikel R 6;
+            [222]artikel R 6;
 
                b. van wie niet is overgelegd de verklaring dat hij instemt met
             zijn kandidaatstelling op de lijst voor deze provincie;
@@ -3927,7 +3930,7 @@
        voor een provincie, indien:
 
                a. een daarop betrekking hebbende verklaring als bedoeld in
-            [226]artikel R 7 ontbreekt;
+            [223]artikel R 7 ontbreekt;
 
                b. de aanduiding geplaatst is boven meer dan één van de bij het
             centraal stembureau ingeleverde lijsten voor deze provincie.
@@ -3938,11 +3941,11 @@
 
   Artikel S 5
 
-     1. Tegen een beschikking als bedoeld in [227]artikel S 2 kan een
+     1. Tegen een beschikking als bedoeld in [224]artikel S 2 kan een
        belanghebbende en iedere kiezer beroep instellen bij de Afdeling
        bestuursrechtspraak van de Raad van State.
 
-     2. [228]Artikel I 7, eerste lid, tweede volzin, en tweede tot en met
+     2. [225]Artikel I 7, eerste lid, tweede volzin, en tweede tot en met
        vierde lid, is van overeenkomstige toepassing.
 
      3. De voorzitter van de Afdeling stelt partijen en de voorzitter van
@@ -3954,7 +3957,7 @@
        centraal stembureau een lijst voor een provincie ongeldig heeft
        verklaard of de naam van een kandidaat dan wel de aanduiding van een
        politieke groepering heeft geschrapt op grond van een of meer der
-       verzuimen, vermeld in [229]artikel S 1, derde lid, zonder dat het
+       verzuimen, vermeld in [226]artikel S 1, derde lid, zonder dat het
        centraal stembureau tevoren overeenkomstig het in dat artikel bepaalde
        kennis heeft gegeven van het bestaan daarvan aan degene die de lijst
        heeft ingeleverd, kan deze het verzuim of de verzuimen alsnog
@@ -3967,10 +3970,10 @@
 
   Artikel S 7
 
-     1. Van de in de [230]artikelen S 1 en [231]S 2 bedoelde zittingen
+     1. Van de in de [227]artikelen S 1 en [228]S 2 bedoelde zittingen
        wordt proces-verbaal opgemaakt.
 
-     2. De bij de in [232]artikel S 2 bedoelde zitting aanwezige personen
+     2. De bij de in [229]artikel S 2 bedoelde zitting aanwezige personen
        kunnen mondeling bezwaren inbrengen. Van deze bezwaren wordt in het
        proces-verbaal melding gemaakt.
 
@@ -3987,7 +3990,7 @@
 
   Artikel S 10
 
-   In de zitting, bedoeld in [233]artikel S 2, nummert het centraal
+   In de zitting, bedoeld in [230]artikel S 2, nummert het centraal
    stembureau de kandidatenlijsten.
 
   Artikel S 11
@@ -4024,7 +4027,7 @@
 
      4. Dienen er na toepassing van het derde lid nog lijsten te worden
        genummerd, dan vindt deze nummering plaats met overeenkomstige
-       toepassing van [234]artikel I 14, vierde en vijfde lid.
+       toepassing van [231]artikel I 14, vierde en vijfde lid.
 
   Artikel S 13
 
@@ -4158,7 +4161,7 @@
 
   Artikel T 11
 
-     1. Nadat alle werkzaamheden, in [235]artikel T 10 vermeld, zijn
+     1. Nadat alle werkzaamheden, in [232]artikel T 10 vermeld, zijn
        beëindigd, wordt onmiddellijk proces-verbaal opgemaakt van de stemming
        en van de stemopneming.
 
@@ -4166,7 +4169,7 @@
        stembureau getekend.
 
      3. Het proces-verbaal wordt met de verzegelde pakken, bedoeld in
-       [236]artikel T 10, onverwijld na afloop van de stemming overgebracht
+       [233]artikel T 10, onverwijld na afloop van de stemming overgebracht
        naar de voorzitter van het centraal stembureau.
 
      4. Bij ministeriële regeling wordt voor het proces-verbaal een model
@@ -4227,7 +4230,7 @@
 
   Artikel U 4
 
-     1. Een stel gelijkluidende lijsten als bedoeld in [237]artikel R 10,
+     1. Een stel gelijkluidende lijsten als bedoeld in [234]artikel R 10,
        eerste lid, geldt voor de vaststelling van de uitslag van de
        verkiezing als één lijst.
 
@@ -4237,7 +4240,7 @@
 
   Artikel U 5
 
-   Een lijstengroep als bedoeld in [238]artikel R 10, tweede lid, geldt voor
+   Een lijstengroep als bedoeld in [235]artikel R 10, tweede lid, geldt voor
    het bepalen van het aantal daaraan toe te wijzen zetels als één lijst, met
    een stemcijfer gelijk aan de som van de stemcijfers van de lijsten waaruit
    de groep bestaat.
@@ -4295,7 +4298,7 @@
 
   Artikel U 13
 
-     1. Indien bij de toepassing van [239]artikel U 12 aan een lijst meer
+     1. Indien bij de toepassing van [236]artikel U 12 aan een lijst meer
        zetels zouden moeten worden toegewezen dan er kandidaten zijn, gaan de
        overblijvende zetel of zetels door voorgezette toepassing van dat
        artikel over op een van de andere lijsten van de groep, waarop
@@ -4303,30 +4306,30 @@
 
      2. Zijn er na toepassing van het eerste lid nog zetels toe te wijzen,
        dan worden deze toegewezen volgens het stelsel van de grootste
-       gemiddelden als bedoeld in [240]artikel U 9.
+       gemiddelden als bedoeld in [237]artikel U 9.
 
   Artikel U 14
 
    De in de voorgaande artikelen bedoelde lotingen vinden plaats in de in
-   [241]artikel U 16 bedoelde zitting van het centraal stembureau.
+   [238]artikel U 16 bedoelde zitting van het centraal stembureau.
 
   § 3. De toewijzing van de zetels aan de kandidaten
 
   Artikel U 15
 
      1. Gekozen zijn de kandidaten van de lijst, daartoe aangewezen door
-       overeenkomstige toepassing van de [242]artikelen P 15 tot en met P 18
-       en [243]P 19a.
+       overeenkomstige toepassing van de [239]artikelen P 15 tot en met P 18
+       en [240]P 19a.
 
      2. De rangschikking van de kandidaten geschiedt overeenkomstig het
-       bepaalde in [244]artikel P 19, met dien verstande dat voor artikel P
+       bepaalde in [241]artikel P 19, met dien verstande dat voor artikel P
        19, vijfde lid wordt gelezen: «De rangschikking blijft achterwege,
        voor zover het lijsten of stellen gelijkluidende lijsten betreft
        waarop geen kandidaten gekozen zijn verklaard en die niet deel
        uitmaken van een lijstengroep waaraan één of meer zetels zijn
        toegekend.»
 
-     3. In afwijking van de [245]artikelen P 15, eerste lid, en [246]P 19,
+     3. In afwijking van de [242]artikelen P 15, eerste lid, en [243]P 19,
        tweede lid, zijn gekozen onderscheidenlijk worden gerangschikt in de
        volgorde van de aantallen op hen uitgebrachte stemmen, de kandidaten
        die op de gezamenlijke lijsten waarop zij voorkomen een aantal stemmen
@@ -4338,8 +4341,8 @@
 
      1. Het centraal stembureau stelt de uitslag van de verkiezingen zo
        spoedig mogelijk vast. De vaststelling en bekendmaking geschieden in
-       een openbare zitting van het centraal stembureau. De [247]artikelen P
-       20, tweede tot en met vierde lid, en [248]P 22 zijn van toepassing.
+       een openbare zitting van het centraal stembureau. De [244]artikelen P
+       20, tweede tot en met vierde lid, en [245]P 22 zijn van toepassing.
 
      2. De voorzitter van het centraal stembureau maakt de uitslag van de
        verkiezing zo spoedig mogelijk openbaar door plaatsing van een
@@ -4361,7 +4364,7 @@
        geopende verzegelde pakken, nadat alle stembiljetten weer daarin zijn
        gedaan, opnieuw verzegeld.
 
-     2. Het proces-verbaal, bedoeld in [249]artikel U 16, en de verzegelde
+     2. Het proces-verbaal, bedoeld in [246]artikel U 16, en de verzegelde
        pakken blijven berusten onder het centraal stembureau. Zodra over de
        toelating van de gekozenen is beslist, worden de verzegelde pakken
        vernietigd. Van deze vernietiging wordt proces-verbaal opgemaakt.
@@ -4489,16 +4492,16 @@
        vertegenwoordigend orgaan onmiddellijk tot de opneming over. Het is
        bevoegd daartoe de verzegelde pakken te openen en de inhoud te
        vergelijken met de processen-verbaal van de stembureaus. Bij deze
-       opneming zijn de [250]artikelen N 5, [251]N 8 en [252]N 9 van
+       opneming zijn de [247]artikelen N 5, [248]N 8 en [249]N 9 van
        overeenkomstige toepassing.
 
      5. Ten behoeve van het onderzoek, bedoeld in het eerste lid, is het
        vertegenwoordigend orgaan tevens bevoegd de verzegelde pakken, bedoeld
-       in [253]artikel N 2, te openen. De burgemeester die de desbetreffende
+       in [250]artikel N 2, te openen. De burgemeester die de desbetreffende
        pakken onder zich heeft, doet deze op verzoek van het
        vertegenwoordigend orgaan onverwijld naar dat orgaan overbrengen. Na
        beëindiging van het onderzoek worden de bescheiden uit de geopende
-       pakken opnieuw ingepakt en verzegeld op de in [254]artikel N 2
+       pakken opnieuw ingepakt en verzegeld op de in [251]artikel N 2
        voorgeschreven wijze.
 
   Artikel V 5
@@ -4540,18 +4543,18 @@
 
   Artikel V 7
 
-     1. Aan de in [255]artikel V 6 bedoelde stemming zijn de kiezers
+     1. Aan de in [252]artikel V 6 bedoelde stemming zijn de kiezers
        bevoegd deel te nemen wier namen voorkomen op de geldige stempassen,
        kiezerspassen, volmachtbewijzen en briefstembewijzen, die zijn
        ingeleverd bij de ongeldig verklaarde stemming, met uitzondering van
        personen waarvan na de ongeldig verklaarde stemming blijkt dat zij ten
        onrechte als kiezer waren geregistreerd.
 
-     2. Indien de in [256]artikel V 6 bedoelde stemming alle stembureaus in
+     2. Indien de in [253]artikel V 6 bedoelde stemming alle stembureaus in
        een gemeente betreft zijn in afwijking van het eerste lid:
 
                a. bevoegd deel te nemen aan de nieuwe stemming: de personen die
-            met het oog op de stemming, bedoeld in [257]artikel V 6, als
+            met het oog op de stemming, bedoeld in [254]artikel V 6, als
             kiezer waren geregistreerd in de gemeente onder toevoeging van de
             personen ten aanzien van wie na de ongeldig verklaarde stemming
             blijkt dat zij ten onrechte niet als kiezer in de gemeente waren
@@ -4578,12 +4581,12 @@
   Artikel V 9
 
      1. Uiterlijk op de veertiende dag nadat de kennisgeving, bedoeld in
-       [258]artikel V 8, is ontvangen, houdt het centraal stembureau een
-       openbare zitting en stelt het met inachtneming van de in [259]artikel
+       [255]artikel V 8, is ontvangen, houdt het centraal stembureau een
+       openbare zitting en stelt het met inachtneming van de in [256]artikel
        V 8 bedoelde beslissing de uitslag van de verkiezing voor zover nodig
        opnieuw vast, en maakt deze op de zitting bekend.
 
-     2. De [260]artikelen P 20 en [261]P 22 tot en met P 24 vinden
+     2. De [257]artikelen P 20 en [258]P 22 tot en met P 24 vinden
        overeenkomstige toepassing.
 
      3. Het onderzoek van de geloofsbrief van de aldus nieuw gekozen
@@ -4597,7 +4600,7 @@
    vereisten voor het lidmaatschap, dat hij een met het lidmaatschap
    onverenigbare betrekking vervult of dat de benoemdverklaring van de
    voorzitter van het centraal stembureau in strijd is met het bepaalde in
-   [262]hoofdstuk W geeft de voorzitter van dat orgaan daarvan onverwijld
+   [259]hoofdstuk W geeft de voorzitter van dat orgaan daarvan onverwijld
    kennis aan de voorzitter van het centraal stembureau.
 
   Artikel V 11
@@ -4619,8 +4622,9 @@
 
      1. Elke beslissing betreffende de toelating van de tot lid van
        provinciale staten, onderscheidenlijk de gemeenteraad, benoemden,
-       wordt door gedeputeerde staten, onderscheidenlijk burgemeester en
-       wethouders, terstond aan de benoemde bekendgemaakt.
+       wordt door de voorzitter van provinciale staten, onderscheidenlijk de
+       voorzitter van de gemeenteraad, terstond aan de benoemde
+       bekendgemaakt.
 
      2. Aan de niet-toegelatene worden de redenen van de beslissing
        meegedeeld.
@@ -4658,24 +4662,24 @@
        de voorzitter van het centraal stembureau bij een met redenen omkleed
        besluit, uiterlijk op de veertiende dag nadat dit te zijner kennis is
        gekomen, benoemd de daarvoor in aanmerking komende kandidaat die in de
-       volgorde, bedoeld in [263]artikel P 19, het hoogst is geplaatst op de
+       volgorde, bedoeld in [260]artikel P 19, het hoogst is geplaatst op de
        lijst waarop degene die moet worden opgevolgd, is gekozen. Indien het
        lid in wiens plaats moet worden voorzien, ontslag heeft genomen met
        ingang van een bepaald tijdstip, vangt de termijn, bedoeld in de
        eerste volzin, aan op dat tijdstip.
 
-     2. Indien een plaats openvalt die door toepassing van [264]artikel P
+     2. Indien een plaats openvalt die door toepassing van [261]artikel P
        16, tweede lid, was vervuld, verklaart de voorzitter van het centraal
        stembureau, in afwijking van het eerste lid, benoemd de daarvoor in
        aanmerking komende kandidaat op de lijst waaraan ingevolge
-       [265]artikel P16, tweede lid , een zetel was onthouden.
+       [262]artikel P16, tweede lid , een zetel was onthouden.
 
      3. Indien de lijst, bedoeld in het eerste lid, deel uitmaakt van een
        lijstengroep en op een of meer andere lijsten of stellen
        gelijkluidende lijsten van die groep kandidaten voorkomen die op de
        gezamenlijke lijsten waarop zij voorkomen, een aantal stemmen hebben
        verkregen groter dan 25% van de kiesdeler, doch die niet met
-       toepassing van [266]artikel P 15 zijn gekozen, verklaart de voorzitter
+       toepassing van [263]artikel P 15 zijn gekozen, verklaart de voorzitter
        van het centraal stembureau, in afwijking van het eerste lid, benoemd
        diegene van deze kandidaten op wie het grootste aantal stemmen is
        uitgebracht.
@@ -4704,7 +4708,7 @@
 
   Artikel W 2
 
-     1. Bij de toepassing van [267]artikel W 1 wordt buiten rekening
+     1. Bij de toepassing van [264]artikel W 1 wordt buiten rekening
        gelaten de kandidaat:
 
                a. die is overleden;
@@ -4716,7 +4720,7 @@
 
                d. die in de vacature benoemd is verklaard, maar schriftelijk
             verklaard heeft of geacht wordt de benoeming niet aan te nemen,
-            de in [268]artikel V 3 genoemde stukken niet tijdig heeft
+            de in [265]artikel V 3 genoemde stukken niet tijdig heeft
             ingezonden of bij besluit niet tot het vertegenwoordigend orgaan
             is toegelaten;
 
@@ -4724,7 +4728,7 @@
             benoemd is verklaard, terwijl over zijn toelating als lid nog
             niet is beslist, tenzij hij is benoemd tot vervanger voor de
             plaats die is opengevallen als gevolg van een tijdelijk ontslag
-            als bedoeld in [269]paragraaf 3 van hoofdstuk X;
+            als bedoeld in [266]paragraaf 3 van hoofdstuk X;
 
                f. van wie door de voorzitter van het centraal stembureau een
             schriftelijke verklaring is ontvangen dat hij niet voor benoeming
@@ -4753,10 +4757,10 @@
        degene is gekozen die moet worden opgevolgd, en deze lijst te zamen
        met één of meer andere lijsten een lijstengroep, onderscheidenlijk een
        lijstencombinatie, vormt, gaat de zetel door toepassing van
-       [270]artikel P 13, onderscheidenlijk [271]artikel U 13, over op één
+       [267]artikel P 13, onderscheidenlijk [268]artikel U 13, over op één
        van die andere lijsten. De kandidaat van deze lijst die naar de
-       volgorde, vastgesteld overeenkomstig [272]artikel P 19,
-       onderscheidenlijk [273]artikel U 15, voor benoeming in aanmerking
+       volgorde, vastgesteld overeenkomstig [269]artikel P 19,
+       onderscheidenlijk [270]artikel U 15, voor benoeming in aanmerking
        komt, wordt benoemd verklaard. Komt ook op deze lijst geen kandidaat
        meer voor benoeming in aanmerking, dan wordt de plaats aan een andere
        van de groep, onderscheidenlijk de combinatie, deel uitmakende lijst
@@ -4774,10 +4778,10 @@
        elf leden geen kandidaat meer voor benoeming in aanmerking komt op de
        lijst, waarop degene is gekozen die moet worden opgevolgd, of op de
        lijsten die met deze lijst een lijstengroep of lijstencombinatie
-       vormen, wordt door toepassing van [274]artikel P 10 beslist aan welke
+       vormen, wordt door toepassing van [271]artikel P 10 beslist aan welke
        van de andere lijsten de plaats zal worden toegekend. De kandidaat die
        op de lijst waaraan de plaats wordt toegekend, naar de volgorde,
-       vastgesteld overeenkomstig [275]artikel P 19, voor benoeming in
+       vastgesteld overeenkomstig [272]artikel P 19, voor benoeming in
        aanmerking komt, wordt benoemd verklaard.
 
      2. Indien bij de toepassing van de bepalingen van dit hoofdstuk op
@@ -4788,12 +4792,12 @@
 
   Artikel W 5
 
-     1. Indien de toepassing van [276]artikel W 3 of [277]artikel W 4 tot
+     1. Indien de toepassing van [273]artikel W 3 of [274]artikel W 4 tot
        een beslissing door het lot aanleiding geeft, zal de loting plaats
        hebben in een zitting van het centraal stembureau.
 
-     2. Op de in het eerste lid bedoelde zitting vinden de [278]artikelen P
-       20 en [279]P 22 overeenkomstige toepassing.
+     2. Op de in het eerste lid bedoelde zitting vinden de [275]artikelen P
+       20 en [276]P 22 overeenkomstige toepassing.
 
   Artikel W 6
 
@@ -4801,7 +4805,7 @@
    krijgt van het openvallen van meer dan één plaats in een
    vertegenwoordigend orgaan en als gevolg hiervan een kandidaat op meer dan
    één lijst benoemd zou moeten worden verklaard, wordt deze benoemd met
-   overeenkomstige toepassing van [280]artikel P 18.
+   overeenkomstige toepassing van [277]artikel P 18.
 
   Artikel W 7
 
@@ -4859,13 +4863,13 @@
        houdt zijn lidmaatschap van de Kamer van rechtswege op.
 
      2. Wanneer een lid van de Tweede of van de Eerste Kamer komt te
-       verkeren in een van de gevallen, genoemd in het [281]eerste lid van
+       verkeren in een van de gevallen, genoemd in het [278]eerste lid van
        artikel X 1, anders dan op grond van het voorgaande lid, geeft hij
        hiervan kennis aan de kamer, met vermelding van de reden.
 
      3. Indien de kennisgeving niet is gedaan en de voorzitter van de kamer
        van oordeel is, dat een lid van de kamer verkeert in een van de
-       gevallen, genoemd in het [282]eerste lid van artikel X 1, waarschuwt
+       gevallen, genoemd in het [279]eerste lid van artikel X 1, waarschuwt
        hij de belanghebbende schriftelijk.
 
      4. Het staat deze vrij de zaak uiterlijk op de achtste dag na de
@@ -4875,12 +4879,12 @@
   Artikel X 4
 
      1. Wanneer een lid van provinciale staten komt te verkeren in een van
-       de gevallen, genoemd in het [283]eerste lid van artikel X 1, geeft hij
+       de gevallen, genoemd in het [280]eerste lid van artikel X 1, geeft hij
        hiervan kennis aan de staten, met vermelding van de reden.
 
      2. Indien de kennisgeving niet is gedaan en de voorzitter van
        provinciale staten van oordeel is, dat een lid van provinciale staten
-       verkeert in een van de gevallen, genoemd in het [284]eerste lid van
+       verkeert in een van de gevallen, genoemd in het [281]eerste lid van
        artikel X 1, waarschuwt hij de belanghebbende schriftelijk.
 
      3. Het staat deze vrij de zaak uiterlijk op de achtste dag na de
@@ -4890,12 +4894,12 @@
   Artikel X 5
 
      1. Wanneer een lid van de gemeenteraad komt te verkeren in een van de
-       gevallen, genoemd in het [285]eerste lid van artikel X 1, geeft hij
+       gevallen, genoemd in het [282]eerste lid van artikel X 1, geeft hij
        hiervan kennis aan de raad, met vermelding van de reden.
 
      2. Indien de kennisgeving niet is gedaan en de voorzitter van de raad
        van oordeel is, dat een lid van de gemeenteraad verkeert in een van de
-       gevallen, genoemd in het [286]eerste lid van artikel X 1, waarschuwt
+       gevallen, genoemd in het [283]eerste lid van artikel X 1, waarschuwt
        hij de belanghebbende schriftelijk.
 
      3. Het staat deze vrij de zaak uiterlijk op de achtste dag na de
@@ -4976,9 +4980,9 @@
 
   Artikel X 9
 
-   [287]Artikel D 9 is van overeenkomstige toepassing op een besluit als
-   bedoeld in [288]artikel X 4, derde lid, [289]X 5, derde lid, [290]X 7,
-   vierde lid en [291]X 8, vierde lid.
+   [284]Artikel D 9 is van overeenkomstige toepassing op een besluit als
+   bedoeld in [285]artikel X 4, derde lid, [286]X 5, derde lid, [287]X 7,
+   vierde lid en [288]X 8, vierde lid.
 
   § 3. Beëindiging van het lidmaatschap en vervanging wegens zwangerschap en
   bevalling of ziekte
@@ -4993,7 +4997,7 @@
        overgelegde verklaring van een arts of verloskundige. Aan het verzoek,
        bedoeld in de eerste volzin, wordt niet voldaan, indien het tijdstip
        waarop het verzoek wordt gedaan ligt binnen een periode van zestien
-       weken voor het einde van de zittingsduur als bedoeld in [292]hoofdstuk
+       weken voor het einde van de zittingsduur als bedoeld in [289]hoofdstuk
        C.
 
      2. De voorzitter van een vertegenwoordigend orgaan verleent aan een
@@ -5005,7 +5009,7 @@
        van de beslissing op het verzoek. Aan het verzoek, bedoeld in de
        eerste volzin, wordt niet voldaan, indien het tijdstip waarop het
        verzoek wordt gedaan ligt binnen een periode van zestien weken voor
-       het einde van de zittingsduur als bedoeld in [293]hoofdstuk C.
+       het einde van de zittingsduur als bedoeld in [290]hoofdstuk C.
 
      3. Het lidmaatschap van het lid aan wie tijdelijk ontslag als bedoeld
        in het eerste lid of tweede lid is verleend, herleeft van rechtswege
@@ -5019,13 +5023,13 @@
   Artikel X 11
 
      1. De voorzitter van het vertegenwoordigend orgaan beslist op een
-       verzoek tot tijdelijk ontslag als bedoeld in [294]artikel X 10, eerste
+       verzoek tot tijdelijk ontslag als bedoeld in [291]artikel X 10, eerste
        of tweede lid, zo spoedig mogelijk, doch uiterlijk op de veertiende
        dag na indiening van het verzoek.
 
      2. De beslissing op het verzoek tot tijdelijk ontslag geschiedt in
        overeenstemming met de verklaring van de arts of verloskundige,
-       bedoeld in [295]artikel X 10, eerste of tweede lid.
+       bedoeld in [292]artikel X 10, eerste of tweede lid.
 
      3. Een beslissing tot tijdelijk ontslag bevat de dag van ingang van
        het ontslag.
@@ -5038,9 +5042,9 @@
 
      1. De voorzitter van het centraal stembureau benoemt een vervanger
        voor de plaats die is opengevallen als gevolg van een tijdelijk
-       ontslag als bedoeld in deze paragraaf. De [296]hoofdstukken V en
-       [297]W zijn van toepassing, met dien verstande dat in afwijking van
-       [298]artikel V 2, eerste lid, de benoeming uiterlijk op de tiende dag
+       ontslag als bedoeld in deze paragraaf. De [293]hoofdstukken V en
+       [294]W zijn van toepassing, met dien verstande dat in afwijking van
+       [295]artikel V 2, eerste lid, de benoeming uiterlijk op de tiende dag
        na de dagtekening van de kennisgeving van benoeming wordt aangenomen.
 
      2. Degene die als vervanger is benoemd, houdt op lid te zijn met
@@ -5057,7 +5061,7 @@
        van het centraal stembureau een nieuwe tijdelijke vervanger voor de
        resterende periode van het tijdelijk ontslag.
 
-     4. [299]Artikel X 6 is niet van toepassing op een vervanger.
+     4. [296]Artikel X 6 is niet van toepassing op een vervanger.
 
   Afdeling V. De verkiezing van de leden van het Europees Parlement
 
@@ -5082,7 +5086,7 @@
 
    De leden van het Europees Parlement worden, voor zover deze afdeling niet
    anders bepaalt, gekozen met overeenkomstige toepassing van de bij of
-   krachtens [300]afdeling II gestelde bepalingen inzake de verkiezing van de
+   krachtens [297]afdeling II gestelde bepalingen inzake de verkiezing van de
    leden van de Tweede Kamer der Staten-Generaal, met inachtneming van de
    Akte.
 
@@ -5140,7 +5144,7 @@
 
    De Nederlander die op de dag van de kandidaatstelling zijn werkelijke
    woonplaats heeft in Aruba, Curaçao of Sint Maarten dient het verzoek tot
-   registratie, bedoeld in [301]artikel D 3, eerste lid, in bij de
+   registratie, bedoeld in [298]artikel D 3, eerste lid, in bij de
    vertegenwoordiger van Nederland in Aruba, Curaçao of Sint Maarten of bij
    burgemeester en wethouders van ?s-Gravenhage.
 
@@ -5153,13 +5157,13 @@
        te zullen deelnemen.
 
      2. De in het eerste lid bedoelde verklaring wordt gelijktijdig
-       ingediend met het in [302]artikel D 3, eerste lid, bedoelde verzoek.
-       Zij maakt deel uit van het in [303]artikel D 3, negende lid, bedoelde
+       ingediend met het in [299]artikel D 3, eerste lid, bedoelde verzoek.
+       Zij maakt deel uit van het in [300]artikel D 3, negende lid, bedoelde
        formulier. Bij ministeriële regeling wordt de formulering van de
        verklaring vastgesteld.
 
      3. Burgemeester en wethouders van 's-Gravenhage wijzen een verzoek als
-       bedoeld in [304]artikel D 3, eerste lid, af indien zij van de
+       bedoeld in [301]artikel D 3, eerste lid, af indien zij van de
        desbetreffende lid-staat bericht hebben ontvangen dat de verzoeker in
        die lid-staat als kiezer is geregistreerd.
 
@@ -5179,12 +5183,12 @@
 
      1. De Kiesraad treedt op als centraal stembureau.
 
-     2. Waar in de [305]hoofdstukken H en [306]I sprake is van het
+     2. Waar in de [302]hoofdstukken H en [303]I sprake is van het
        hoofdstembureau, treedt daarvoor in de plaats het centraal stembureau.
 
   Artikel Y 10
 
-   Behalve op de in [307]artikel G 1, vierde lid, genoemde gronden wordt op
+   Behalve op de in [304]artikel G 1, vierde lid, genoemde gronden wordt op
    een verzoek om registratie van de aanduiding van een politieke groepering
    ten behoeve van de verkiezing van de leden van het Europees Parlement
    afwijzend beschikt, indien de aanduiding geheel of in hoofdzaak
@@ -5196,19 +5200,18 @@
 
   Artikel Y 11
 
-   [308]Artikel G 1, achtste lid, blijft buiten toepassing.
+   [305]Artikel G 1, achtste lid, blijft buiten toepassing.
 
   Artikel Y 12
 
    De kandidatenlijsten gelden voor het gehele land. De inlevering van de
-   lijsten bij de voorzitter van het centraal stembureau of bij het door deze
-   aan te wijzen lid van dat bureau geschiedt op het Ministerie van
-   Binnenlandse Zaken en Koninkrijksrelaties.
+   lijsten geschiedt bij het centraal stembureau bij de voorzitter van het
+   centraal stembureau of bij het door deze aan te wijzen lid van dat bureau.
 
   Artikel Y 13
 
      1. Bij de lijst wordt van iedere daarop voorkomende kandidaat naast de
-       in [309]artikel H 9 bedoelde verklaring van instemming een
+       in [306]artikel H 9 bedoelde verklaring van instemming een
        schriftelijke verklaring overgelegd dat hij niet in een andere
        lid-staat kandidaat voor het lidmaatschap van het Europees Parlement
        zal zijn.
@@ -5220,45 +5223,44 @@
 
   Artikel Y 14
 
-   In afwijking van [310]artikel H 3, eerste lid, tweede volzin, legt elke
+   In afwijking van [307]artikel H 3, eerste lid, tweede volzin, legt elke
    inleveraar van een lijst een verklaring over van burgemeester en
    wethouders van de gemeente waar hij als kiezer is geregistreerd, dat hij
    bevoegd is tot deelneming aan de verkiezing.
 
   Artikel Y 15
 
-     1. In afwijking van [311]artikel I 2, eerste lid, onder h , wordt als
+     1. In afwijking van [308]artikel I 2, eerste lid, onder h, wordt als
        verzuim aangemerkt dat de lijst is ingeleverd door een kiezer die niet
        heeft overgelegd een verklaring van burgemeester en wethouders van de
        gemeente waar hij is geregistreerd, dat hij bevoegd is tot deelneming
        aan de verkiezing. Als verzuim wordt mede aangemerkt dat ten aanzien
-       van een kandidaat de verklaring, bedoeld in [312]artikel Y 13, eerste
+       van een kandidaat de verklaring, bedoeld in [309]artikel Y 13, eerste
        lid, ontbreekt.
 
      2. Het herstellen van verzuimen geschiedt ten kantore van het centraal
        stembureau.
 
-     3. [313]Artikel I 2, derde lid, eerste volzin, vindt overeenkomstige
-       toepassing, indien de in het eerste lid bedoelde verklaring niet
-       alsnog wordt overgelegd.
+     3. [310]Artikel I 2, vijfde lid, eerste volzin, vindt overeenkomstige
+       toepassing, indien de in het eerste lid, eerste volzin, bedoelde
+       verklaring niet alsnog wordt overgelegd.
 
   Artikel Y 16
 
    Onmiddellijk nadat de lijsten door het centraal stembureau zijn
-   onderzocht, worden deze en, indien vereist, de in [314]artikel H 4
-   bedoelde verklaringen van ondersteuning door de voorzitter op het
-   Ministerie van Binnenlandse Zaken en Koninkrijksrelaties voor een ieder
-   ter inzage gelegd.
+   onderzocht, worden deze en, indien vereist, de in [311]artikel H 4
+   bedoelde verklaringen van ondersteuning door de voorzitter bij het
+   centraal stembureau voor een ieder ter inzage gelegd.
 
   Artikel Y 17
 
    Het centraal stembureau schrapt van de lijst in de eerste plaats de naam
-   van de kandidaat van wie de verklaring, bedoeld in [315]artikel Y 13,
+   van de kandidaat van wie de verklaring, bedoeld in [312]artikel Y 13,
    eerste lid, niet is overgelegd.
 
   Artikel Y 18
 
-   [316]Artikel I 9 blijft buiten toepassing.
+   [313]Artikel I 9 blijft buiten toepassing.
 
   Artikel Y 19
 
@@ -5281,26 +5283,26 @@
 
   Artikel Y 22
 
-   Voor de toepassing van [317]artikel N 12, [318]hoofdstuk O en [319]artikel
+   Voor de toepassing van [314]artikel N 12, [315]hoofdstuk O en [316]artikel
    P 1 treden de hoofdstembureaus voor de verkiezing van de leden van de
    Tweede Kamer op als hoofdstembureaus voor de verkiezing van de leden van
    het Europees Parlement.
 
   Artikel Y 23
 
-   Waar in de [320]artikelen O 4, tweede lid, en [321]O 5, eerste lid, sprake
+   Waar in de [317]artikelen O 4, tweede lid, en [318]O 5, eerste lid, sprake
    is van het orgaan waarvoor de verkiezing plaats heeft, onderscheidenlijk
    heeft plaats gehad, treedt daarvoor de Tweede Kamer in de plaats.
 
   Artikel Y 23a
 
-   Voor de toepassing van de [322]artikelen P 15 en [323]P 19, tweede lid,
+   Voor de toepassing van de [319]artikelen P 15 en [320]P 19, tweede lid,
    wordt voor «25% van de kiesdeler» gelezen: 10% van de kiesdeler.
 
   Artikel Y 24
 
    Bij algemene maatregel van bestuur kunnen voor zover nodig voorschriften
-   worden gegeven die afwijken van krachtens [324]afdeling II bij algemene
+   worden gegeven die afwijken van krachtens [321]afdeling II bij algemene
    maatregel van bestuur gestelde bepalingen.
 
   § 3. Het begin van en de veranderingen in het lidmaatschap
@@ -5311,7 +5313,7 @@
        grond van de nationale bepalingen als lid van het Europees Parlement
        kan worden toegelaten.
 
-     2. De [325]artikelen V 1 tot en met V 10 zijn daarbij van
+     2. De [322]artikelen V 1 tot en met V 10 zijn daarbij van
        overeenkomstige toepassing, met dien verstande dat waar in deze
        artikelen sprake is van het vertegenwoordigend orgaan of het orgaan
        waarvoor de benoeming is geschied, daarvoor de Tweede Kamer in de
@@ -5330,14 +5332,14 @@
 
    Wanneer, anders dan bij de vaststelling van de uitslag van een verkiezing,
    in een opengevallen plaats moet worden voorzien, geschiedt dit met
-   overeenkomstige toepassing van [326]hoofdstuk W, met dien verstande dat
-   voor de toepassing van [327]artikel W 1, derde lid, voor «25% van de
+   overeenkomstige toepassing van [323]hoofdstuk W, met dien verstande dat
+   voor de toepassing van [324]artikel W 1, derde lid, voor «25% van de
    kiesdeler» wordt gelezen: 10% van de kiesdeler.
 
   Artikel Y 28
 
    Zodra onherroepelijk is komen vast te staan dat een lid van het Europees
-   Parlement een van de in [328]artikel Y 4 bedoelde vereisten voor het
+   Parlement een van de in [325]artikel Y 4 bedoelde vereisten voor het
    lidmaatschap niet bezit of een ingevolge de nationale bepalingen met het
    lidmaatschap onverenigbare betrekking vervult, houdt hij op lid te zijn.
    De voorzitter van de Tweede Kamer geeft hiervan onverwijld kennis aan de
@@ -5347,13 +5349,13 @@
   Artikel Y 29
 
      1. Wanneer een lid van het Europees Parlement komt te verkeren in een
-       van de gevallen, genoemd in [329]artikel Y 28, geeft hij hiervan
+       van de gevallen, genoemd in [326]artikel Y 28, geeft hij hiervan
        kennis aan de voorzitter van de Tweede Kamer, met vermelding van de
        reden.
 
      2. Indien de kennisgeving niet is gedaan en de voorzitter van de
        Tweede Kamer van oordeel is dat een lid van het Europees Parlement
-       verkeert in een van de gevallen, genoemd in [330]artikel Y 28,
+       verkeert in een van de gevallen, genoemd in [327]artikel Y 28,
        waarschuwt hij de belanghebbende schriftelijk.
 
      3. Het staat deze vrij de zaak uiterlijk op de achtste dag na de
@@ -5372,14 +5374,14 @@
 
    Tijdelijk ontslag van een lid van het Europees Parlement wegens
    zwangerschap en bevalling of ziekte geschiedt met overeenkomstige
-   toepassing van de [331]artikelen X 10 en [332]X 11, met dien verstande
+   toepassing van de [328]artikelen X 10 en [329]X 11, met dien verstande
    dat:
 
-     a. in [333]artikel X 10, eerste en tweede lid, voor «voorzitter van
+     a. in [330]artikel X 10, eerste en tweede lid, voor «voorzitter van
        een vertegenwoordigend orgaan» wordt gelezen: voorzitter van de Tweede
        Kamer;
 
-     b. in [334]artikel X 11, eerste en vierde lid, voor «voorzitter van
+     b. in [331]artikel X 11, eerste en vierde lid, voor «voorzitter van
        het vertegenwoordigend orgaan» wordt gelezen: voorzitter van de Tweede
        Kamer;
 
@@ -5391,10 +5393,10 @@
 
      1. De voorzitter van het centraal stembureau benoemt een vervanger
        voor de plaats die is opengevallen als gevolg van een tijdelijk
-       ontslag als bedoeld in [335]artikel Y 30a. De [336]artikelen Y 25 tot
+       ontslag als bedoeld in [332]artikel Y 30a. De [333]artikelen Y 25 tot
        en met Y 27 zijn van overeenkomstige toepassing.
 
-     2. Op de vervanger is [337]artikel X 12, tweede en derde lid, van
+     2. Op de vervanger is [334]artikel X 12, tweede en derde lid, van
        overeenkomstige toepassing.
 
   § 4. Bijzondere bepalingen betreffende deelneming aan de verkiezingen door
@@ -5412,7 +5414,7 @@
   Artikel Y 32
 
      1. Burgemeester en wethouders registreren de kiesgerechtigdheid van de
-       in [338]artikel Y 3, onder b, bedoelde personen die ingezetene zijn
+       in [335]artikel Y 3, onder b, bedoelde personen die ingezetene zijn
        van de gemeente in de gemeentelijke administratie, indien zij daartoe
        een schriftelijk verzoek hebben ingediend.
 
@@ -5460,7 +5462,7 @@
        burgemeester de mogelijkheid van registratie voor niet-Nederlanders
        die onderdanen zijn van andere lid-staten ter openbare kennis.
 
-     10. [339]Artikel D 9 is van overeenkomstige toepassing op een
+     10. [336]Artikel D 9 is van overeenkomstige toepassing op een
        beschikking als bedoeld in dit artikel.
 
   Artikel Y 33
@@ -5486,18 +5488,18 @@
        betrokkene en aan de door de desbetreffende lid-staat aangewezen
        autoriteit waarvan betrokkene onderdaan is.
 
-     4. [340]Artikel D 9 is van overeenkomstige toepassing op een
+     4. [337]Artikel D 9 is van overeenkomstige toepassing op een
        beschikking als bedoeld in dit artikel.
 
   Artikel Y 33a
 
    Burgemeester en wethouders schrappen de registratie van de
-   kiesgerechtigdheid als bedoeld in [341]artikel Y 32, eerste lid, indien
+   kiesgerechtigdheid als bedoeld in [338]artikel Y 32, eerste lid, indien
    betrokkene het Nederlanderschap verkrijgt.
 
   Artikel Y 34
 
-   In de in [342]artikel H 1 bedoelde openbare kennisgeving wordt tevens
+   In de in [339]artikel H 1 bedoelde openbare kennisgeving wordt tevens
    melding gemaakt van de mogelijkheid van kandidaatstelling
    niet-Nederlanders die onderdanen zijn van andere lid-staten.
 
@@ -5505,7 +5507,7 @@
 
      1. De kandidaat die onderdaan is van een andere lid-staat en niet
        tevens de Nederlandse nationaliteit heeft, vermeldt op de in
-       [343]artikel Y 13 bedoelde verklaring tevens zijn nationaliteit en de
+       [340]artikel Y 13 bedoelde verklaring tevens zijn nationaliteit en de
        plaats in die lid-staat waar hij het laatst als kiezer was
        ingeschreven.
 
@@ -5516,14 +5518,14 @@
        de autoriteiten bekend is, in die lid-staat niet is uitgesloten van
        het recht om te worden gekozen.
 
-     3. In aanvulling op [344]artikel I 2, eerste lid, wordt het ontbreken
+     3. In aanvulling op [341]artikel I 2, eerste lid, wordt het ontbreken
        van de verklaring, bedoeld in het tweede lid, tevens als verzuim
        aangemerkt.
 
   Artikel Y 35a
 
    Het centraal stembureau schrapt van de lijst de kandidaat van wie de
-   verklaring, bedoeld in [345]artikel Y 35, tweede lid, niet is overgelegd.
+   verklaring, bedoeld in [342]artikel Y 35, tweede lid, niet is overgelegd.
 
   Artikel Y 36
 
@@ -5545,8 +5547,8 @@
 
   Artikel Y 39
 
-   Bij ministeriële regeling kunnen krachtens de [346]afdelingen II en
-   [347]IV vastgestelde modellen die ingevolge bepalingen van deze afdeling
+   Bij ministeriële regeling kunnen krachtens de [343]afdelingen II en
+   [344]IV vastgestelde modellen die ingevolge bepalingen van deze afdeling
    van overeenkomstige toepassing worden verklaard voor de verkiezing van de
    leden van het Europees Parlement, voor deze verkiezing nader worden
    vastgesteld.
@@ -5600,7 +5602,7 @@
 
   Artikel Ya 3a
 
-   In de [348]artikelen J 8, vierde lid, en [349]J 24, eerste lid, onder a,
+   In de [345]artikelen J 8, vierde lid, en [346]J 24, eerste lid, onder a,
    wordt voor de toepassing in Bonaire, Sint Eustatius en Saba in plaats van
    «een identificatiemiddel als bedoeld in artikel 1 van de Wet op de
    identificatieplicht» dan wel «een document als bedoeld in artikel 1 van de
@@ -5614,11 +5616,11 @@
      1. Op de dag van de kandidaatstelling kunnen bij de gezaghebbers van
        Sint Eustatius en Saba op het bestuurskantoor, van negen tot vijftien
        uur, kandidatenlijsten worden ingeleverd voor kieskring 20 (Bonaire).
-       In de in [350]artikel H 1 bedoelde openbare kennisgeving wordt door de
+       In de in [347]artikel H 1 bedoelde openbare kennisgeving wordt door de
        gezaghebbers van Sint Eustatius en Saba tevens melding gemaakt van
        deze mogelijkheid.
 
-     2. Voor de toepassing van [351]artikel H 3, eerste en vierde lid,
+     2. Voor de toepassing van [348]artikel H 3, eerste en vierde lid,
        treden de gezaghebbers van Sint Eustatius en Saba in dat geval in de
        plaats van de voorzitter van het hoofdstembureau.
 
@@ -5628,7 +5630,7 @@
 
      4. De gezaghebbers van Sint Eustatius en Saba beoordelen van elke
        kandidatenlijst die bij hen wordt ingeleverd en de op grond van de
-       [352]artikelen H 3, [353]H 4, [354]H 9 en [355]H 12 bij de
+       [349]artikelen H 3, [350]H 4, [351]H 9 en [352]H 12 bij de
        kandidatenlijsten overgelegde stukken, de authenticiteit en leggen hun
        bevindingen vast in een begeleidingsverklaring. Bij ministeriële
        regeling wordt voor de begeleidingsverklaring een model vastgesteld.
@@ -5639,7 +5641,7 @@
        dag van de kandidaatstelling om vijftien uur dertig ter kennis worden
        gebracht van het hoofdstembureau. De gezaghebbers maken van deze
        stukken gewaarmerkte afschriften en bewaren deze totdat de beslissing
-       van het hoofdstembureau, bedoeld in [356]artikel I 4, onherroepelijk
+       van het hoofdstembureau, bedoeld in [353]artikel I 4, onherroepelijk
        is geworden.
 
      6. Voorts dragen zij er zorg voor dat de kandidatenlijsten met de
@@ -5651,7 +5653,7 @@
 
    Verklaringen van ondersteuning van een lijst die wordt ingeleverd in Sint
    Eustatius of Saba, die worden afgelegd in Bonaire, kunnen tevens door een
-   persoon die ingevolge [357]artikel H 5 op de lijst is vermeld en die
+   persoon die ingevolge [354]artikel H 5 op de lijst is vermeld en die
    bevoegd is tot het herstel van verzuimen, op de dag van de
    kandidaatstelling, van negen tot vijftien uur, worden ingeleverd bij het
    hoofdstembureau van kieskring 20 (Bonaire).
@@ -5659,7 +5661,7 @@
   Artikel Ya 6
 
      1. Indien het hoofdstembureau een of meer verzuimen als bedoeld in
-       [358]artikel I 2 heeft geconstateerd ten aanzien van een lijst die in
+       [355]artikel I 2 heeft geconstateerd ten aanzien van een lijst die in
        Sint Eustatius of Saba is ingeleverd, geeft het, in afwijking van
        artikel I 2, eerste lid, onverwijld langs elektronische weg kennis
        hiervan aan de gezaghebber van dat openbaar lichaam.
@@ -5668,7 +5670,7 @@
        brief of tegen gedagtekend ontvangstbewijs kennis aan degene die de
        lijst heeft ingeleverd.
 
-     3. Onverminderd [359]artikel I 2, tweede, vijfde en zesde lid, kan
+     3. Onverminderd [356]artikel I 2, tweede, vijfde en zesde lid, kan
        degene die de lijst in Sint Eustatius of Saba heeft ingeleverd het
        verzuim of de verzuimen, in de kennisgeving aangeduid, herstellen op
        het bestuurskantoor aldaar.
@@ -5684,7 +5686,7 @@
        langs elektronische weg ter kennis van het hoofdstembureau worden
        gebracht. De gezaghebbers maken van deze stukken gewaarmerkte
        afschriften en bewaren deze totdat de beslissing van het
-       hoofdstembureau, bedoeld in [360]artikel I 4, onherroepelijk is
+       hoofdstembureau, bedoeld in [357]artikel I 4, onherroepelijk is
        geworden.
 
      6. Voorts dragen zij er zorg voor dat de stukken in een pak worden
@@ -5699,7 +5701,7 @@
        onderzoek van de lijsten langs elektronische weg worden verzonden aan
        de gezaghebbers van Sint Eustatius en Saba.
 
-     2. De op de voet van [361]artikel I 1, derde lid, toegezonden
+     2. De op de voet van [358]artikel I 1, derde lid, toegezonden
        afschriften van ingeleverde kandidatenlijsten, worden door de
        voorzitter van het hoofdstembureau zodra deze zijn ontvangen eveneens
        langs elektronische weg verzonden aan de gezaghebbers van Sint
@@ -5711,14 +5713,14 @@
 
   Artikel Ya 8
 
-   [362]Artikel I 5, aanhef en onder a, is niet van toepassing indien een
+   [359]Artikel I 5, aanhef en onder a, is niet van toepassing indien een
    lijst op de dag van de kandidaatstelling tussen negen en vijftien uur bij
    de gezaghebbers van Sint Eustatius of Saba op het bestuurskantoor is
    ingeleverd.
 
   Artikel Ya 9
 
-     1. De gemeenschappelijke verklaring, bedoeld in [363]artikel I 10,
+     1. De gemeenschappelijke verklaring, bedoeld in [360]artikel I 10,
        eerste lid, kan tevens worden ingeleverd bij de gezaghebbers van
        Bonaire, Sint Eustatius en Saba op het bestuurskantoor.
 
@@ -5733,7 +5735,7 @@
        (Europees-Nederlandse tijd) ter kennis worden gebracht van het
        centraal stembureau. De gezaghebber maakt van deze stukken
        gewaarmerkte afschriften en bewaart deze totdat de beslissing van het
-       hoofdstembureau, bedoeld in [364]artikel I 4, onherroepelijk is
+       hoofdstembureau, bedoeld in [361]artikel I 4, onherroepelijk is
        geworden.
 
      4. Voorts draagt hij er zorg voor dat de gemeenschappelijke verklaring
@@ -5743,14 +5745,14 @@
   Artikel Ya 10
 
    De voorzitter van het hoofdstembureau van kieskring 20 (Bonaire) brengt
-   het proces-verbaal, bedoeld in [365]artikel I 18, vijfde lid, langs
+   het proces-verbaal, bedoeld in [362]artikel I 18, vijfde lid, langs
    elektronische weg terstond na de zitting ter kennis van het centraal
    stembureau.
 
   Artikel Ya 11
 
      1. De gezaghebbers van Sint Eustatius en Saba dragen er zorg voor dat
-       de in [366]artikel N 12, eerste lid, genoemde processen-verbaal en de
+       de in [363]artikel N 12, eerste lid, genoemde processen-verbaal en de
        opgave van de door hen vastgestelde aantallen stemmen langs
        elektronische weg onverwijld na de vaststelling ter kennis worden
        gebracht van de voorzitter van het hoofdstembureau. De gezaghebbers
@@ -5765,20 +5767,20 @@
   Artikel Ya 12
 
      1. De voorzitter van het hoofdstembureau van kieskring 20 (Bonaire)
-       draagt er zorg voor dat het proces-verbaal, bedoeld in [367]artikel O
+       draagt er zorg voor dat het proces-verbaal, bedoeld in [364]artikel O
        3, langs elektronische weg terstond nadat de leden het proces-verbaal
        hebben getekend, ter kennis wordt gebracht van het centraal
        stembureau.
 
      2. De voorzitter van het hoofdstembureau doet tevens het
-       proces-verbaal, bedoeld in [368]artikel O 3, langs elektronische weg
+       proces-verbaal, bedoeld in [365]artikel O 3, langs elektronische weg
        aan de gezaghebbers van Sint Eustatius en Saba toekomen.
 
      3. De gezaghebbers leggen het afschrift van het proces-verbaal op het
        bestuurskantoor voor een ieder ter inzage, zodra dit is ontvangen.
 
      4. De voorzitter van het hoofdstembureau draagt er ten slotte zorg
-       voor dat de stukken genoemd in [369]artikel O 4, tweede lid, langs
+       voor dat de stukken genoemd in [366]artikel O 4, tweede lid, langs
        elektronische weg terstond ter kennis worden gebracht van de Tweede
        Kamer en zo spoedig mogelijk tevens per post worden overgebracht.
 
@@ -5805,14 +5807,14 @@
   Artikel Ya 15
 
    De politieke groepering die een verzoek tot registratie van de aanduiding
-   als bedoeld in [370]artikel G 3 indient bij het centraal stembureau voor
+   als bedoeld in [367]artikel G 3 indient bij het centraal stembureau voor
    de verkiezing van de leden van de eilandsraad betaalt aan het openbaar
    lichaam een waarborgsom van USD 112,50.
 
   Artikel Ya 16
 
-   In de [371]artikelen H 10, eerste lid, [372]I 2, eerste lid, onderdeel e,
-   en [373]I 6, eerste lid, onderdeel c, wordt in plaats van «het Europese
+   In de [368]artikelen H 10, eerste lid, [369]I 2, eerste lid, onderdeel e,
+   en [370]I 6, eerste lid, onderdeel c, wordt in plaats van «het Europese
    deel van Nederland» telkens gelezen: het openbaar lichaam waar hij zich
    kandidaat stelt.
 
@@ -5832,18 +5834,18 @@
    kandidaat stelt of de gemachtigde van de benoemde die buiten het openbaar
    lichaam waar hij zich kandidaat stelt maar binnen Nederland woonplaats
    heeft, legt het afschrift van gegevens uit de basisadministratie
-   persoonsgegevens, bedoeld in [374]artikel V 3, tweede lid, over, waaruit
+   persoonsgegevens, bedoeld in [371]artikel V 3, tweede lid, over, waaruit
    tevens het Nederlanderschap van de benoemde blijkt.
 
   Artikel Ya 20
 
-   Voor de toepassing van [375]artikel W 2, eerste lid, onderdeel h, wordt in
+   Voor de toepassing van [372]artikel W 2, eerste lid, onderdeel h, wordt in
    plaats van «artikel 11 van de Gemeentewet» gelezen: artikel 12 van de Wet
    openbare lichamen Bonaire, Sint Eustatius en Saba.
 
   Artikel Ya 21
 
-   Voor de toepassing van [376]artikel X 8, eerste en derde lid, wordt in
+   Voor de toepassing van [373]artikel X 8, eerste en derde lid, wordt in
    plaats van «artikel 15, eerste lid, van de Gemeentewet» gelezen: artikel
    16, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en
    Saba.
@@ -5883,7 +5885,7 @@
 
   Artikel Ya 23 [Treedt in werking op een nader te bepalen tijdstip]
 
-     1. De gemeenschappelijke verklaring, bedoeld in [377]artikel S 8,
+     1. De gemeenschappelijke verklaring, bedoeld in [374]artikel S 8,
        eerste lid, kan tevens op de dag van de kandidaatstelling, van negen
        tot zeventien uur, worden ingeleverd bij de gezaghebbers van Bonaire,
        Sint Eustatius en Saba op het bestuurskantoor.
@@ -5899,7 +5901,7 @@
        uur (Europees-Nederlandse tijd) ter kennis worden gebracht van het
        centraal stembureau. De gezaghebber maakt van deze stukken
        gewaarmerkte afschriften en bewaart deze totdat de beslissing van het
-       centraal stembureau, bedoeld in [378]artikel S 2, onherroepelijk is
+       centraal stembureau, bedoeld in [375]artikel S 2, onherroepelijk is
        geworden.
 
      4. Voorts draagt hij er zorg voor dat de gemeenschappelijke verklaring
@@ -5909,7 +5911,7 @@
   Artikel Ya 24 [Treedt in werking op een nader te bepalen tijdstip]
 
      1. De gezaghebber beoordeelt van elke kandidatenlijst die bij hem
-       wordt ingeleverd en de op grond van de [379]artikelen R 7 en [380]R 8
+       wordt ingeleverd en de op grond van de [376]artikelen R 7 en [377]R 8
        bij de kandidatenlijsten overgelegde stukken, de authenticiteit, en
        legt zijn bevindingen vast in een begeleidingsverklaring. Bij
        ministeriële regeling wordt voor de begeleidingsverklaring een model
@@ -5930,18 +5932,18 @@
        tweede dag na de kandidaatstelling ter kennis worden gebracht van de
        voorzitter van het centraal stembureau. De gezaghebber maakt van deze
        stukken gewaarmerkte afschriften en bewaart deze totdat de beslissing
-       van het centraal stembureau, bedoeld in [381]artikel S 2,
+       van het centraal stembureau, bedoeld in [378]artikel S 2,
        onherroepelijk is geworden.
 
      5. Voorts draagt hij er zorg voor dat het verzegelde pak met de
-       lijsten, bedoeld in [382]artikel R 11, tweede lid, nadat de
+       lijsten, bedoeld in [379]artikel R 11, tweede lid, nadat de
        handelingen bedoeld in dat artikel zijn verricht, onverwijld per post
        naar de voorzitter van het centraal stembureau wordt overgebracht.
 
   Artikel Ya 25 [Treedt in werking op een nader te bepalen tijdstip]
 
      1. Indien het centraal stembureau een of meer verzuimen als bedoeld in
-       [383]artikel S 1, derde lid, heeft geconstateerd ten aanzien van een
+       [380]artikel S 1, derde lid, heeft geconstateerd ten aanzien van een
        lijst die in een openbaar lichaam is ingeleverd, geeft het, in
        afwijking van artikel S 1, derde lid, onverwijld langs elektronische
        weg kennis hiervan aan de gezaghebber van dat openbaar lichaam.
@@ -5950,7 +5952,7 @@
        brief of tegen gedagtekend ontvangstbewijs kennis aan degene die de
        lijst heeft ingeleverd.
 
-     3. Onverminderd [384]artikel S 1, vierde en vijfde lid, kan degene die
+     3. Onverminderd [381]artikel S 1, vierde en vijfde lid, kan degene die
        de lijst heeft ingeleverd uiterlijk op de derde dag na de zitting van
        het centraal stembureau, het verzuim of de verzuimen, in de
        kennisgeving aangeduid, herstellen op het bestuurskantoor van negen
@@ -5966,7 +5968,7 @@
        langs elektronische weg ter kennis van het centraal stembureau worden
        gebracht. De gezaghebber maakt van deze stukken gewaarmerkte
        afschriften en bewaart deze totdat de beslissing van het centraal
-       stembureau, bedoeld in [385]artikel S 2, onherroepelijk is geworden.
+       stembureau, bedoeld in [382]artikel S 2, onherroepelijk is geworden.
 
      6. Voorts draagt hij er zorg voor dat de stukken in een pak worden
        gedaan, dat wordt verzegeld. Het verzegelde pak wordt zo spoedig
@@ -5980,14 +5982,14 @@
 
    Op de pakken met de stembiljetten met een blanco stem, met de ongeldig
    verklaarde stembiljetten en met de geldige stembiljetten, als bedoeld in
-   [386]artikel T 10, tweede en derde lid, wordt de naam van het openbaar
+   [383]artikel T 10, tweede en derde lid, wordt de naam van het openbaar
    lichaam vermeld.
 
   Artikel Ya 28 [Treedt in werking op een nader te bepalen tijdstip]
 
      1. De voorzitter van het stembureau in een openbaar lichaam draagt er
        zorg voor dat een afschrift van het proces-verbaal van de stemming en
-       van de stemopneming, bedoeld in [387]artikel T 11, onverwijld na
+       van de stemopneming, bedoeld in [384]artikel T 11, onverwijld na
        afloop van de stemming langs elektronische weg ter kennis wordt
        gebracht van het centraal stembureau. De voorzitter maakt van het
        proces-verbaal een gewaarmerkt afschrift en bewaart deze totdat het
@@ -6000,7 +6002,7 @@
 
   Artikel Ya 29 [Treedt in werking op een nader te bepalen tijdstip]
 
-     1. In afwijking van [388]artikel U 2, eerste lid, eerste volzin, geldt
+     1. In afwijking van [385]artikel U 2, eerste lid, eerste volzin, geldt
        een stem uitgebracht in een openbaar lichaam voor een aantal stemmen
        gelijk aan het getal dat wordt verkregen door het inwonertal van dat
        openbaar lichaam te delen door het honderdvoud van het aantal leden
@@ -6011,17 +6013,17 @@
        derde lid is gepubliceerd.
 
      3. Het Centraal Bureau voor de Statistiek publiceert op dezelfde wijze
-       als bepaald in [389]artikel U 2, derde en vierde lid, de inwonertallen
+       als bepaald in [386]artikel U 2, derde en vierde lid, de inwonertallen
        van de openbare lichamen.
 
      4. Het centraal stembureau maakt de stemwaarden die overeenkomstig dit
-       artikel in samenhang met [390]artikel U 2 zijn vastgesteld,
+       artikel in samenhang met [387]artikel U 2 zijn vastgesteld,
        gelijktijdig en op dezelfde wijze openbaar als bepaald in artikel U 2,
        vijfde lid.
 
   Artikel Ya 30 [Treedt in werking op een nader te bepalen tijdstip]
 
-   In afwijking van [391]artikel U 3 vermenigvuldigt het centraal stembureau
+   In afwijking van [388]artikel U 3 vermenigvuldigt het centraal stembureau
    ten aanzien van elk openbaar lichaam de aantallen op iedere kandidaat
    uitgebrachte stemmen en de stemcijfers van de lijsten met de voor dat
    openbaar lichaam geldende stemwaarde en telt per lijst tezamen de aldus
@@ -6030,7 +6032,7 @@
 
   Artikel Ya 31 [Treedt in werking op een nader te bepalen tijdstip]
 
-   Voor de toepassing van [392]artikel U 17 wordt onder «provincies» mede
+   Voor de toepassing van [389]artikel U 17 wordt onder «provincies» mede
    verstaan: openbare lichamen.
 
   § 5. De verkiezing van de leden van het Europees Parlement
@@ -6039,15 +6041,15 @@
 
      1. Op de werkdag vóór de dag van de kandidaatstelling kunnen bij de
        gezaghebber op het bestuurskantoor, van negen tot vijftien uur
-       kandidatenlijsten worden ingeleverd. In de in [393]artikel H 1
+       kandidatenlijsten worden ingeleverd. In de in [390]artikel H 1
        bedoelde openbare kennisgeving wordt door de gezaghebber tevens
        melding gemaakt van deze mogelijkheid.
 
-     2. Voor de toepassing van [394]artikel H 3, eerste en vierde lid, in
-       samenhang met [395]artikel Y 9, tweede lid, treedt de gezaghebber in
+     2. Voor de toepassing van [391]artikel H 3, eerste en vierde lid, in
+       samenhang met [392]artikel Y 9, tweede lid, treedt de gezaghebber in
        de plaats van de voorzitter van het centraal stembureau.
 
-     3. In afwijking van [396]artikel H 4, derde lid, ondertekent de
+     3. In afwijking van [393]artikel H 4, derde lid, ondertekent de
        kiezer, die als zodanig is geregistreerd in een openbaar lichaam en
        die een verklaring wenst af te leggen dat hij een kandidatenlijst
        ondersteunt die wordt ingeleverd in één van de openbare lichamen, deze
@@ -6055,8 +6057,8 @@
        dag van inlevering, bedoeld in het eerste lid, eerste volzin.
 
      4. De gezaghebber beoordeelt van elke kandidatenlijst en de op grond
-       van de [397]artikelen H 3, [398]H 4, [399]H 9, [400]H 12, [401]Y 13 en
-       [402]Y 14 bij de kandidatenlijsten overgelegde stukken, de
+       van de [394]artikelen H 3, [395]H 4, [396]H 9, [397]H 12, [398]Y 13 en
+       [399]Y 14 bij de kandidatenlijsten overgelegde stukken, de
        authenticiteit en legt zijn bevindingen vast in een
        begeleidingsverklaring. Bij ministeriële regeling wordt voor de
        begeleidingsverklaring een model vastgesteld.
@@ -6068,7 +6070,7 @@
        ter kennis worden gebracht van de voorzitter van het centraal
        stembureau. De gezaghebber maakt van deze stukken gewaarmerkte
        afschriften en bewaart deze totdat de beslissing van het centraal
-       stembureau, bedoeld in [403]artikel I 4, onherroepelijk is geworden.
+       stembureau, bedoeld in [400]artikel I 4, onherroepelijk is geworden.
 
      6. Voorts draagt hij er zorg voor dat de kandidatenlijsten met de
        daarbij overgelegde stukken in een pak worden gedaan, dat wordt
@@ -6079,7 +6081,7 @@
 
    Verklaringen van ondersteuning van een lijst die wordt ingeleverd in een
    openbaar lichaam, die worden afgelegd in het Europese deel van Nederland,
-   kunnen tevens door een persoon die ingevolge [404]artikel H 5 op de lijst
+   kunnen tevens door een persoon die ingevolge [401]artikel H 5 op de lijst
    is vermeld en die bevoegd is tot het herstel van verzuimen, op de dag van
    de kandidaatstelling, van negen tot vijftien uur, worden ingeleverd bij de
    voorzitter van het centraal stembureau of bij het door deze aan te wijzen
@@ -6088,7 +6090,7 @@
   Artikel Ya 34
 
      1. Indien het centraal stembureau een of meer verzuimen als bedoeld in
-       [405]artikel I 2, eerste lid, in samenhang met [406]artikel Y 15,
+       [402]artikel I 2, eerste lid, in samenhang met [403]artikel Y 15,
        eerste lid, heeft geconstateerd ten aanzien van een lijst die in een
        openbaar lichaam is ingeleverd, geeft het, in afwijking van artikel I
        2, eerste lid, onverwijld langs elektronische weg kennis hiervan aan
@@ -6098,8 +6100,8 @@
        brief of tegen gedagtekend ontvangstbewijs kennis aan degene die de
        lijst heeft ingeleverd.
 
-     3. Onverminderd [407]artikel I 2, tweede, vijfde en zesde lid, in
-       samenhang met [408]artikel Y 15, tweede en derde lid, kan degene die
+     3. Onverminderd [404]artikel I 2, tweede, vijfde en zesde lid, in
+       samenhang met [405]artikel Y 15, tweede en derde lid, kan degene die
        de lijst heeft ingeleverd uiterlijk op de tweede dag na de dag van de
        kandidaatstelling, het verzuim of de verzuimen, in de kennisgeving
        aangeduid, herstellen op het bestuurskantoor, op de dag van de
@@ -6116,7 +6118,7 @@
        langs elektronische weg ter kennis van het centraal stembureau worden
        gebracht. De gezaghebber maakt van deze stukken gewaarmerkte
        afschriften en bewaart deze totdat de beslissing van het centraal
-       stembureau, bedoeld in [409]artikel I 4, onherroepelijk is geworden.
+       stembureau, bedoeld in [406]artikel I 4, onherroepelijk is geworden.
 
      6. Voorts draagt hij er zorg voor dat de stukken in een pak worden
        gedaan, dat wordt verzegeld. Het verzegelde pak wordt zo spoedig
@@ -6134,14 +6136,14 @@
 
   Artikel Ya 36
 
-   [410]Artikel I 5, aanhef en onder a, is niet van toepassing indien een
+   [407]Artikel I 5, aanhef en onder a, is niet van toepassing indien een
    lijst op de werkdag vóór de dag van de kandidaatstelling tussen negen en
    vijftien uur bij de gezaghebber op het bestuurskantoor is ingeleverd.
 
   Artikel Ya 37
 
-     1. De gemeenschappelijke verklaring, bedoeld in [411]artikel Y 19,
-       eerste lid, in samenhang met [412]artikel I 10, eerste lid, kan tevens
+     1. De gemeenschappelijke verklaring, bedoeld in [408]artikel Y 19,
+       eerste lid, in samenhang met [409]artikel I 10, eerste lid, kan tevens
        op de werkdag vóór de dag van de kandidaatstelling, van negen tot
        zeventien uur, worden ingeleverd bij de gezaghebbers van Bonaire, Sint
        Eustatius en Saba op het bestuurskantoor.
@@ -6157,7 +6159,7 @@
        (Europees-Nederlandse tijd) ter kennis worden gebracht van het
        centraal stembureau. De gezaghebber maakt van deze stukken
        gewaarmerkte afschriften en bewaart deze totdat de beslissing van het
-       centraal stembureau, bedoeld in [413]artikel I 4, onherroepelijk is
+       centraal stembureau, bedoeld in [410]artikel I 4, onherroepelijk is
        geworden.
 
      4. Voorts draagt hij er zorg voor dat de gemeenschappelijke verklaring
@@ -6166,16 +6168,16 @@
 
   Artikel Ya 38
 
-     1. De [414]artikelen Ya 11 en [415]Ya 12 zijn van overeenkomstige
+     1. De [411]artikelen Ya 11 en [412]Ya 12 zijn van overeenkomstige
        toepassing.
 
-     2. Voor de toepassing van [416]artikel Ya 11 en [417]Ya 12 treedt het
+     2. Voor de toepassing van [413]artikel Ya 11 en [414]Ya 12 treedt het
        hoofdstembureau van kieskring 20 (Bonaire) op als hoofdstembureau voor
        de verkiezing van het Europees Parlement.
 
   Artikel Ya 39
 
-   De [418]artikelen Y 32, [419]Y 33 en [420]Y 33a zijn niet van toepassing.
+   De [415]artikelen Y 32, [416]Y 33 en [417]Y 33a zijn niet van toepassing.
 
   § 6. Bestuursrecht, beroeps- en overgangsbepalingen
 
@@ -6191,7 +6193,7 @@
 
   Artikel Ya 41
 
-   Degene die een verzoek indient als bedoeld in [421]artikel D 5, verschaft
+   Degene die een verzoek indient als bedoeld in [418]artikel D 5, verschaft
    de gegevens en bescheiden die voor de beslissing op de aanvraag nodig zijn
    en waarover hij redelijkerwijs de beschikking kan krijgen.
 
@@ -6199,11 +6201,11 @@
 
      1. In afwijking van artikel 7 van de Wet administratieve rechtspraak
        BES wordt het beroep tegen een beschikking van het bestuurscollege als
-       bedoeld in [422]artikel D 6, een beschikking van de gezaghebber of de
-       door hem daartoe aangewezen ambtenaar als bedoeld in de [423]artikelen
-       K 8, eerste lid, [424]L 11, eerste lid, en [425]M 4, eerste lid, en
+       bedoeld in [419]artikel D 6, een beschikking van de gezaghebber of de
+       door hem daartoe aangewezen ambtenaar als bedoeld in de [420]artikelen
+       K 8, eerste lid, [421]L 11, eerste lid, en [422]M 4, eerste lid, en
        tegen een beschikking van de eilandsraad als bedoeld in de
-       [426]artikelen X 5, derde lid, en [427]X 8, vierde lid, ingesteld bij
+       [423]artikelen X 5, derde lid, en [424]X 8, vierde lid, ingesteld bij
        het Gemeenschappelijk Hof.
 
      2. Op het beroep zijn de hoofdstukken 3 en 6, met uitzondering van § 1
@@ -6228,18 +6230,18 @@
 
      1. In afwijking van artikel 7 van de Wet administratieve rechtspraak
        BES wordt het beroep tegen een beschikking op grond van de
-       [428]artikelen G 1, [429]Q 6 en [430]Y 2, in samenhang met artikel G
+       [425]artikelen G 1, [426]Q 6 en [427]Y 2, in samenhang met artikel G
        1, die is gericht op een politieke groepering die blijkens de statuten
        haar zetel heeft in Bonaire, Sint Eustatius of Saba, ingesteld bij het
        Gemeenschappelijk Hof.
 
-     2. De [431]artikelen G 5, tweede lid, aanhef en onder a, en [432]Ya
+     2. De [428]artikelen G 5, tweede lid, aanhef en onder a, en [429]Ya
        42, tweede tot en met vijfde lid, zijn van overeenkomstige toepassing.
 
   Artikel Ya 44
 
-     1. Tegen een beschikking op grond van de [433]artikelen I 4, [434]S 2
-       en [435]Y 2 in samenhang met artikel I 4 van deze wet die betreft:
+     1. Tegen een beschikking op grond van de [430]artikelen I 4, [431]S 2
+       en [432]Y 2 in samenhang met artikel I 4 van deze wet die betreft:
 
                a. een kandidatenlijst waarboven bij de inlevering van de lijst
             een aanduiding is geplaatst van een politieke groepering die
@@ -6253,14 +6255,14 @@
             iedere kiezer uitsluitend beroep worden ingesteld bij het
             Gemeenschappelijk Hof.
 
-     2. De [436]artikelen I 7, derde tot en met vijfde lid, [437]I 8 en
-       [438]Ya 42, tweede tot en met vijfde lid, zijn van overeenkomstige
+     2. De [433]artikelen I 7, derde tot en met vijfde lid, [434]I 8 en
+       [435]Ya 42, tweede tot en met vijfde lid, zijn van overeenkomstige
        toepassing.
 
   Artikel Ya 45
 
-   Tegen een beschikking op grond van de [439]artikelen G 2, [440]G 4 of
-   [441]I 4 die wordt genomen in het kader van de verkiezing van de leden van
+   Tegen een beschikking op grond van de [436]artikelen G 2, [437]G 4 of
+   [438]I 4 die wordt genomen in het kader van de verkiezing van de leden van
    provinciale staten, kan uitsluitend beroep worden ingesteld bij de
    Afdeling bestuursrechtspraak van de Raad van State.
 
@@ -6268,11 +6270,11 @@
 
      1. In afwijking van artikel 7 van de Wet administratieve rechtspraak
        BES wordt het beroep tegen een beschikking op grond van de
-       [442]artikelen G 3 of [443]G 4 die wordt genomen in het kader van de
+       [439]artikelen G 3 of [440]G 4 die wordt genomen in het kader van de
        verkiezing van de leden van de eilandsraad, ingesteld bij het
        Gemeenschappelijk Hof.
 
-     2. Tegen een beschikking op grond van [444]artikel I 4 die wordt
+     2. Tegen een beschikking op grond van [441]artikel I 4 die wordt
        genomen in het kader van de verkiezing van de leden van de
        eilandsraad, kan door een belanghebbende, in afwijking van artikel 7
        van de Wet administratieve rechtspraak BES, en iedere kiezer
@@ -6280,13 +6282,13 @@
 
      3. Artikel G 5, tweede lid, aanhef en onderdelen b en c, is van
        overeenkomstige toepassing indien het betreft een beschikking op grond
-       van [445]artikel G 3 of [446]G 4.
+       van [442]artikel G 3 of [443]G 4.
 
-     4. De [447]artikelen I 7, derde tot en met vijfde lid, en [448]I 8
+     4. De [444]artikelen I 7, derde tot en met vijfde lid, en [445]I 8
        zijn van overeenkomstige toepassing indien het betreft een beschikking
-       op grond van [449]artikel I 4.
+       op grond van [446]artikel I 4.
 
-     5. [450]Artikel Ya 42, tweede tot en met vijfde lid, is van
+     5. [447]Artikel Ya 42, tweede tot en met vijfde lid, is van
        overeenkomstige toepassing.
 
   Artikel Ya 47
@@ -6295,8 +6297,8 @@
 
   Artikel Ya 48
 
-     1. In het ingevolge [451]artikel G 3, eerste lid, in samenhang met
-       [452]artikel Ya 13 door het centraal stembureau voor de leden van de
+     1. In het ingevolge [448]artikel G 3, eerste lid, in samenhang met
+       [449]artikel Ya 13 door het centraal stembureau voor de leden van de
        eilandsraad bij te houden register van aanduidingen schrijft het
        centraal stembureau ambtshalve als aanduiding in, de aanduiding van de
        politieke groepering die een vereniging is met volledige
@@ -6307,11 +6309,11 @@
 
      2. Indien de aanduiding van een politieke groepering als bedoeld in
        het eerste lid, geheel of in hoofdzaak overeenstemt met een op de voet
-       van [453]artikel G 1 geregistreerde aanduiding van een andere
+       van [450]artikel G 1 geregistreerde aanduiding van een andere
        politieke groepering en daardoor verwarring te duchten is, neemt het
        centraal stembureau voor de verkiezing van de leden van de eilandsraad
-       een beschikking als bedoeld in [454]artikel G 4, tweede lid, dat de
-       doorwerking van de op grond van [455]artikel G 1 geregistreerde
+       een beschikking als bedoeld in [451]artikel G 4, tweede lid, dat de
+       doorwerking van de op grond van [452]artikel G 1 geregistreerde
        aanduiding niet plaatsvindt.
 
   Artikel Ya 49
@@ -6323,17 +6325,17 @@
        plaatsvindt voor de verkiezing van de leden van de eilandsraad, geldt
        voor die verkiezing het volgende.
 
-     2. De kennisgeving die heeft plaatsgevonden op grond van [456]artikel
+     2. De kennisgeving die heeft plaatsgevonden op grond van [453]artikel
        G 1, achtste lid, voor de verkiezing van de leden van provinciale
        staten, geldt tevens voor de verkiezing van de leden van de
        eilandsraad.
 
-     3. In afwijking van de [457]artikelen G 3, [458]G 4 en [459]G 5 gelden
+     3. In afwijking van de [454]artikelen G 3, [455]G 4 en [456]G 5 gelden
        voor de verkiezing van de leden van de eilandsraad de volgende
        tijdstippen:
 
-               a. in afwijking van [460]artikel G 3, eerste en zesde lid, in
-            samenhang met [461]artikel Ya 13, kunnen verzoeken tot
+               a. in afwijking van [457]artikel G 3, eerste en zesde lid, in
+            samenhang met [458]artikel Ya 13, kunnen verzoeken tot
             registratie of tot wijziging van de registratie van aanduidingen
             van politieke groeperingen worden ingediend tot uiterlijk de
             vijftiende dag voor de dag van de kandidaatstelling;
@@ -6344,18 +6346,18 @@
             openbare kennis gebracht op de in het openbaar lichaam
             gebruikelijke wijze;
 
-               c. een beschikking als bedoeld in [462]artikel Ya 48, tweede lid,
-            in samenhang met [463]artikel G 4, tweede lid, wordt genomen
+               c. een beschikking als bedoeld in [459]artikel Ya 48, tweede lid,
+            in samenhang met [460]artikel G 4, tweede lid, wordt genomen
             uiterlijk op de twaalfde dag voor de dag van de
             kandidaatstelling;
 
-               d. in afwijking van [464]artikel G 5, tweede lid, onder b en c,
-            in samenhang met [465]artikel Ya 46, wordt een beroepschrift
+               d. in afwijking van [461]artikel G 5, tweede lid, onder b en c,
+            in samenhang met [462]artikel Ya 46, wordt een beroepschrift
             tegen:
 
                          1°. een beschikking als bedoeld in onderdeel b ingediend
                  uiterlijk op de derde dag na de dagtekening van de openbare
-                 kennisgeving, bedoeld in [466]artikel G 3, vijfde lid, dan
+                 kennisgeving, bedoeld in [463]artikel G 3, vijfde lid, dan
                  wel na de dag waarop de beschikking wordt geacht te zijn
                  geweigerd;
 
@@ -6378,8 +6380,8 @@
    eilandsraad na inwerkingtreding van de wet van 17 mei 2010 tot wijziging
    van de Kieswet in verband met de nieuwe staatsrechtelijke positie van
    Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland
-   (Stb. 347), wordt voor de toepassing van de [467]artikelen H 4, achtste
-   lid, [468]H 14, tweede lid, en [469]I 14, eerste en tweede lid, voor «de
+   (Stb. 347), wordt voor de toepassing van de [464]artikelen H 4, achtste
+   lid, [465]H 14, tweede lid, en [466]I 14, eerste en tweede lid, voor «de
    laatstgehouden verkiezing van de leden van de gemeenteraad», dan wel voor
    «de laatstgehouden verkiezing van de leden van het desbetreffende
    vertegenwoordigend(e) orgaan» gelezen: de laatstgehouden verkiezing van de
@@ -6388,13 +6390,13 @@
 
   Artikel Ya 51
 
-     1. [470]Artikel Ya 47 en dit artikel vervallen vijf jaar na
+     1. [467]Artikel Ya 47 en dit artikel vervallen vijf jaar na
        inwerkingtreding van de wet van 17 mei 2010 tot wijziging van de
        Kieswet in verband met de nieuwe staatsrechtelijke positie van
        Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland
        (Stb. 347).
 
-     2. De [471]artikelen Ya 48, [472]Ya 49 en [473]Ya 50 vervallen vier
+     2. De [468]artikelen Ya 48, [469]Ya 49 en [470]Ya 50 vervallen vier
        jaar na inwerkingtreding van de wet van 17 mei 2010 tot wijziging van
        de Kieswet in verband met de nieuwe staatsrechtelijke positie van
        Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland
@@ -6441,7 +6443,7 @@
 
      2. Degene die bij een verkiezing door gift of belofte een kiezer
        omkoopt dan wel anderszins daartoe dwingt om een verklaring als
-       bedoeld in [474]artikel H 4, eerste lid, af te leggen ter
+       bedoeld in [471]artikel H 4, eerste lid, af te leggen ter
        ondersteuning van een lijst, wordt gestraft met gevangenisstraf van
        ten hoogste zes maanden of geldboete van de derde categorie.
 
@@ -6451,7 +6453,7 @@
 
   Artikel Z 5
 
-     1. Bij veroordeling wegens een van de in de [475]artikelen Z 1 tot en
+     1. Bij veroordeling wegens een van de in de [472]artikelen Z 1 tot en
        met Z 4 omschreven misdrijven kan ontzetting van de in artikel 28,
        eerste lid, onder 1°, 2° en 4°, van het Wetboek van Strafrecht dan
        wel, indien de ontzetting wordt uitgesproken door de strafrechter in
@@ -6459,7 +6461,7 @@
        het Wetboek van Strafrecht BES vermelde rechten worden uitgesproken.
 
      2. Bij veroordeling tot een vrijheidsstraf van ten minste een jaar
-       wegens een van de in de [476]artikelen Z 1 tot en met Z 3 omschreven
+       wegens een van de in de [473]artikelen Z 1 tot en met Z 3 omschreven
        misdrijven, kan ontzetting van het in artikel 28, eerste lid, onder
        3°, van het Wetboek van Strafrecht dan wel, indien de ontzetting wordt
        uitgesproken door de strafrechter in Bonaire, Sint Eustatius of Saba,
@@ -6491,7 +6493,7 @@
 
   Artikel Z 9
 
-   De werkgever die de hem bij [477]artikel J 10 opgelegde verplichting niet
+   De werkgever die de hem bij [474]artikel J 10 opgelegde verplichting niet
    nakomt, wordt gestraft met hechtenis van ten hoogste veertien dagen of
    geldboete van de tweede categorie.
 
@@ -6504,8 +6506,8 @@
 
   Artikel Z 11
 
-   De in de [478]artikelen Z 1 tot en met Z 4 bedoelde strafbare feiten
-   worden als misdrijven beschouwd en de in de [479]artikelen Z 6 tot en met
+   De in de [475]artikelen Z 1 tot en met Z 4 bedoelde strafbare feiten
+   worden als misdrijven beschouwd en de in de [476]artikelen Z 6 tot en met
    Z 10 bedoelde strafbare feiten als overtredingen.
 
   § 2. Slot- en overgangsbepalingen
@@ -6580,7 +6582,7 @@
 
    F. Korthals Altes
 
-  Tabel bedoeld in [480]artikel E 1, eerste lid, van de Kieswet
+  Tabel bedoeld in [477]artikel E 1, eerste lid, van de Kieswet
 
    Nummer van de     Gebied waarover de kieskring zich     Gemeente waar het
      kieskring                   uitstrekt                 hoofdstembureau is
@@ -6592,9 +6594,9 @@
    5.            De provincie Flevoland                    Lelystad
                  De gemeenten Beuningen, Buren, Culemborg,
                  Druten, Geldermalsen, Groesbeek, Heumen,
-   6.            Kesteren, Maasdriel, Millingen aan de     Nijmegen
-                 Rijn, Neerijnen, Nijmegen, Tiel,
-                 Ubbergen, Lingewaal, West Maas en Waal,
+   6.            Lingewaal, Maasdriel, Millingen aan de    Nijmegen
+                 Rijn, Neder-Betuwe, Neerijnen, Nijmegen,
+                 Tiel, Ubbergen, West Maas en Waal,
                  Wijchen, Zaltbommel.
    7.            De gemeenten van de provincie Gelderland  Arnhem
                  die niet tot kieskring 6 behoren.
@@ -6632,9 +6634,9 @@
    16.           De provincie Zeeland                      Middelburg
                  De gemeenten Aalburg, Alphen-Chaam,
                  Baarle-Nassau, Bergen op Zoom, Breda,
-                 Dongen, Etten-Leur, Geertruidenberg,
-                 Gilze en Rijen, Goirle, Halderberge,
-   17.           Hilvarenbeek, Loon op Zand, Made,         Tilburg
+                 Dongen, Drimmelen, Etten-Leur,
+                 Geertruidenberg, Gilze en Rijen, Goirle,
+   17.           Halderberge, Hilvarenbeek, Loon op Zand,  Tilburg
                  Moerdijk, Oisterwijk, Oosterhout,
                  Roosendaal, Rucphen, Steenbergen,
                  Tilburg, Waalwijk, Werkendam,
