@@ -1,4 +1,4 @@
-   (Tekst geldend op: 30-09-2010)
+   (Tekst geldend op: 10-10-2010)
 
    --------------------------------------------------------------------------
 
@@ -63,19 +63,19 @@
        door degenen die op de dag van de kandidaatstelling Nederlander zijn
        en op de dag van de stemming de leeftijd van achttien jaar hebben
        bereikt, met uitzondering van degenen die op de dag van de
-       kandidaatstelling hun werkelijke woonplaats hebben in de Nederlandse
-       Antillen of Aruba.
+       kandidaatstelling hun werkelijke woonplaats hebben in Aruba, Curaçao
+       of Sint Maarten.
 
      2. Deze uitzondering geldt niet voor:
 
                a. de Nederlander die gedurende ten minste tien jaren ingezetene
             van Nederland is geweest;
 
-               b. de Nederlander die in Nederlandse openbare dienst in de
-            Nederlandse Antillen of Aruba werkzaam is, alsmede zijn
-            Nederlandse echtgenoot, geregistreerde partner of levensgezel en
-            kinderen, voor zover dezen met hem een gemeenschappelijke
-            huishouding voeren.
+               b. de Nederlander die in Nederlandse openbare dienst in Aruba,
+            Curaçao of Sint Maarten werkzaam is, alsmede zijn Nederlandse
+            echtgenoot, geregistreerde partner of levensgezel en kinderen,
+            voor zover dezen met hem een gemeenschappelijke huishouding
+            voeren.
 
   Artikel B 2
 
@@ -105,7 +105,8 @@
             minste vijf jaren ingezetene van Nederland waren en beschikten
             over een verblijfsrecht als bedoeld onder a, dan wel rechtmatig
             in Nederland verbleven op grond van artikel 8, onder c, van de
-            Vreemdelingenwet 2000.
+            Vreemdelingenwet 2000 dan wel op grond van artikel 3 of artikel 6
+            van de Wet toelating en uitzetting BES.
 
      3. Niet kiesgerechtigd zijn zij die geen Nederlander zijn en, als door
        andere staten uitgezonden leden van diplomatieke of consulaire
@@ -255,10 +256,10 @@
 
      4. Indien het verzoek wordt gedaan door een persoon als bedoeld in
        [6]artikel B 1, tweede lid, onder a, wordt het verzoek ingediend bij
-       de vertegenwoordiger van Nederland in de Nederlandse Antillen of in
-       Aruba, of rechtstreeks bij burgemeester en wethouders van
-       ?s-Gravenhage. De vertegenwoordiger van Nederland in de Nederlandse
-       Antillen of in Aruba zendt het verzoekschrift zo spoedig mogelijk door
+       de vertegenwoordiger van Nederland in Aruba, in Curaçao of in Sint
+       Maarten, of rechtstreeks bij burgemeester en wethouders van
+       ?s-Gravenhage. De vertegenwoordiger van Nederland in Aruba, in Curaçao
+       of in Sint Maarten zendt het verzoekschrift zo spoedig mogelijk door
        naar burgemeester en wethouders van 's-Gravenhage.
 
      5. Indien het verzoek wordt gedaan door een persoon als bedoeld in
@@ -377,11 +378,11 @@
        verdeeld in kieskringen, overeenkomstig de bij deze wet gevoegde
        tabel.
 
-     2. De kieskringen voor de verkiezing van de leden van de Tweede Kamer
-       vormen tevens de kieskringen voor de verkiezing van de leden van
-       provinciale staten. Provinciale staten kunnen voor de verkiezing van
-       de leden van provinciale staten deze kieskringen in meer kieskringen
-       verdelen.
+     2. De kieskringen voor de verkiezing van de leden van de Tweede Kamer,
+       voor zover gelegen in het Europese deel van Nederland, vormen tevens
+       de kieskringen voor de verkiezing van de leden van provinciale staten.
+       Provinciale staten kunnen voor de verkiezing van de leden van
+       provinciale staten deze kieskringen in meer kieskringen verdelen.
 
      3. Voor de verkiezing van de leden van de gemeenteraad vormt elke
        gemeente één kieskring.
@@ -520,10 +521,12 @@
        daaropvolgende verkiezing buiten behandeling.
 
      2. Voor de in het eerste lid bedoelde registratie moet een waarborgsom
-       van EUR 450 worden betaald aan de Staat. Degene die de betaling heeft
-       verricht, ontvangt een bewijs daarvan. Na inlevering van een geldige
-       kandidatenlijst voor de eerstkomende verkiezing na de beslissing op
-       het verzoek wordt hem de waarborgsom teruggegeven.
+       van EUR 450 dan wel, indien het een groepering betreft die blijkens de
+       statuten haar zetel heeft in Bonaire, Sint Eustatius of Saba, een
+       waarborgsom van USD 450 worden betaald aan de Staat. Degene die de
+       betaling heeft verricht, ontvangt een bewijs daarvan. Na inlevering
+       van een geldige kandidatenlijst voor de eerstkomende verkiezing na de
+       beslissing op het verzoek wordt hem de waarborgsom teruggegeven.
 
      3. Bij het verzoek worden overgelegd:
 
@@ -531,7 +534,8 @@
             vereniging zijn opgenomen;
 
                b. een bewijs van inschrijving in het handelsregister, bedoeld in
-            artikel 2 van de Handelsregisterwet 2007;
+            artikel 2 van de Handelsregisterwet 2007 dan wel artikel 1a van
+            de Handelsregisterwet BES;
 
                c. het in het tweede lid bedoelde bewijs van betaling;
 
@@ -612,9 +616,11 @@
        daaropvolgende verkiezing buiten behandeling.
 
      2. Voor de in het eerste lid bedoelde registratie moet een waarborgsom
-       van EUR 225 worden betaald aan de gemeente waar het centraal
-       stembureau is gevestigd. Degene die de betaling heeft verricht,
-       ontvangt een bewijs daarvan. Na inlevering van een geldige
+       van EUR 225 dan wel, indien het een groepering betreft die blijkens de
+       statuten haar zetel heeft in Bonaire, Sint Eustatius of Saba, een
+       waarborgsom van USD 225 worden betaald aan de gemeente waar het
+       centraal stembureau is gevestigd. Degene die de betaling heeft
+       verricht, ontvangt een bewijs daarvan. Na inlevering van een geldige
        kandidatenlijst voor de eerstkomende verkiezing na de beslissing op
        het verzoek wordt hem de waarborgsom teruggegeven.
 
@@ -624,7 +630,8 @@
             vereniging zijn opgenomen;
 
                b. een bewijs van inschrijving in het handelsregister, bedoeld in
-            artikel 2 van de Handelsregisterwet 2007;
+            artikel 2 van de Handelsregisterwet 2007 dan wel artikel 1a van
+            de Handelsregisterwet BES;
 
                c. het in het tweede lid bedoelde bewijs van betaling;
 
@@ -718,7 +725,8 @@
             vereniging zijn opgenomen;
 
                b. een bewijs van inschrijving in het handelsregister, bedoeld in
-            artikel 2 van de Handelsregisterwet 2007;
+            artikel 2 van de Handelsregisterwet 2007 dan wel artikel 1a van
+            de Handelsregisterwet BES;
 
                c. het in het tweede lid bedoelde bewijs van betaling;
 
@@ -1063,14 +1071,19 @@
 
   Artikel H 10
 
-     1. De kandidaat wiens woonplaats buiten Nederland is gelegen, wijst in
-       de verklaring van instemming tevens een in Nederland wonende
-       gemachtigde aan met vermelding van diens naam, voorletters, woonplaats
-       en adres. Indien de kandidaat voorkomt op meer dan één lijst, moet in
-       iedere verklaring dezelfde gemachtigde worden aangewezen. Deze
-       gemachtigde is met uitsluiting van de kandidaat bevoegd tot de
-       handelingen, bedoeld in de [41]artikelen V 2, eerste, vierde en vijfde
-       lid, [42]V 3, eerste en derde lid, en [43]W 2, eerste lid, onder f.
+     1. De kandidaat wiens woonplaats buiten het Europese deel van
+       Nederland is gelegen, wijst in de verklaring van instemming tevens een
+       in het Europese deel van Nederland wonende gemachtigde aan met
+       vermelding van diens naam, voorletters, woonplaats en adres. Indien de
+       kandidaat voorkomt op meer dan één lijst, moet in iedere verklaring
+       dezelfde gemachtigde worden aangewezen. Deze gemachtigde is met
+       uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de
+       [41]artikelen V 2, eerste, vierde en vijfde lid, [42]V 3, eerste en
+       derde lid, en [43]W 2, eerste lid, onder f. Indien de kandidaat
+       woonachtig is in één van de openbare lichamen Bonaire, Sint Eustatius
+       en Saba, is de gemachtigde met uitsluiting van de kandidaat bevoegd
+       tot de handelingen, bedoeld in de artikelen V 2, eerste, vierde en
+       vijfde lid, V 3, eerste en tweede lid, en W 2, eerste lid, onder f.
 
      2. De kandidaat is bevoegd de overeenkomstig het eerste lid gegeven
        volmacht in te trekken. Hij geeft hiervan schriftelijk kennis aan de
@@ -1079,16 +1092,17 @@
 
   Artikel H 10a
 
-     1. De in Nederland wonende kandidaat kan in geval van een verkiezing
-       voor de leden van de Tweede Kamer en van provinciale staten van een
-       provincie die uit meer dan één kieskring bestaat, bij de verklaring
-       van instemming tevens een in Nederland wonende gemachtigde aanwijzen
-       met vermelding van diens naam, voorletters, woonplaats en adres.
-       Indien de kandidaat voorkomt op meer dan één lijst, wordt in iedere
-       verklaring dezelfde gemachtigde aangewezen. Deze gemachtigde is met
-       uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de
-       [44]artikelen V 2, eerste, vierde en vijfde lid, [45]V 3, eerste en
-       tweede lid, en [46]W 2, eerste lid, onder f.
+     1. De in het Europese deel van Nederland wonende kandidaat kan in
+       geval van een verkiezing voor de leden van de Tweede Kamer en van
+       provinciale staten van een provincie die uit meer dan één kieskring
+       bestaat, bij de verklaring van instemming tevens een in het Europese
+       deel van Nederland wonende gemachtigde aanwijzen met vermelding van
+       diens naam, voorletters, woonplaats en adres. Indien de kandidaat
+       voorkomt op meer dan één lijst, wordt in iedere verklaring dezelfde
+       gemachtigde aangewezen. Deze gemachtigde is met uitsluiting van de
+       kandidaat bevoegd tot de handelingen, bedoeld in de [44]artikelen V 2,
+       eerste, vierde en vijfde lid, [45]V 3, eerste en tweede lid, en [46]W
+       2, eerste lid, onder f.
 
      2. Van de machtiging kan alleen gebruik worden gemaakt, indien dit
        gebruik ertoe strekt dat kandidaten van de gezamenlijke lijsten van de
@@ -1127,7 +1141,12 @@
      1. Indien het betreft de verkiezing van de leden van de Tweede Kamer,
        moet voor elke lijstengroep, elk niet van een groep deel uitmakend
        stel gelijkluidende lijsten en elke op zichzelf staande lijst een
-       waarborgsom van EUR 11. 250 worden betaald aan de Staat.
+       waarborgsom van EUR 11 250 dan wel, indien boven de kandidatenlijst de
+       aanduiding is geplaatst van een groepering die blijkens de statuten
+       haar zetel heeft in Bonaire, Sint Eustatius of Saba of, indien het een
+       kandidatenlijst betreft waarboven geen aanduiding is geplaatst, indien
+       de eerstgenoemde kandidaat ingezetene is van Bonaire, Sint Eustatius
+       of Saba, een waarborgsom van USD 11 250 worden betaald aan de Staat.
 
      2. De in het eerste lid bedoelde verplichting tot betaling geldt niet
        voor een kandidatenlijst van een politieke groepering, indien de
@@ -1160,8 +1179,14 @@
      1. Indien het betreft de verkiezing van de leden van provinciale
        staten, moet voor elke lijstengroep, elk niet van een groep deel
        uitmakend stel gelijkluidende lijsten en elke op zichzelf staande
-       lijst een waarborgsom van EUR 1 125 worden betaald aan de gemeente
-       waar het centraal stembureau is gevestigd.
+       lijst een waarborgsom van EUR 1 125 dan wel, indien boven de
+       kandidatenlijst de aanduiding is geplaatst van een groepering die
+       blijkens de statuten haar zetel heeft in Bonaire, Sint Eustatius of
+       Saba of, indien het een kandidatenlijst betreft waarboven geen
+       aanduiding is geplaatst, indien de eerstgenoemde kandidaat ingezetene
+       is van Bonaire, Sint Eustatius of Saba, een waarborgsom van USD 1 125
+       worden betaald aan de gemeente waar het centraal stembureau is
+       gevestigd.
 
      2. De in het eerste lid bedoelde verplichting tot betaling geldt niet
        voor een kandidatenlijst van een politieke groepering, indien de
@@ -1278,10 +1303,9 @@
                d. dat ten aanzien van een kandidaat ontbreekt de verklaring dat
             hij instemt met zijn kandidaatstelling op de lijst;
 
-               e. dat, indien het een verkiezing van de leden van de Tweede
-            Kamer betreft, ten aanzien van een kandidaat die buiten Nederland
-            woonplaats heeft in zijn verklaring van instemming de aanwijzing
-            van een gemachtigde ontbreekt;
+               e. dat ten aanzien van een kandidaat die buiten het Europese deel
+            van Nederland woonplaats heeft in zijn verklaring van instemming
+            de aanwijzing van een gemachtigde ontbreekt;
 
                f. dat, indien ten behoeve van de lijst een waarborgsom moet
             worden betaald, het bewijs dat deze betaling is verricht,
@@ -1386,8 +1410,8 @@
                b. van wie niet is overgelegd de verklaring dat hij instemt met
             zijn kandidaatstelling op de lijst;
 
-               c. wiens woonplaats buiten Nederland is gelegen, indien de
-            aanwijzing van een gemachtigde ontbreekt;
+               c. wiens woonplaats buiten het Europese deel van Nederland is
+            gelegen, indien de aanwijzing van een gemachtigde ontbreekt;
 
                d. die tijdens de zittingsperiode van het orgaan waarvoor de
             verkiezing zal plaatshebben, niet de voor het zitting nemen in
@@ -1980,10 +2004,10 @@
      2. De in het eerste lid, onder a, bedoelde vaststelling van de
        identiteit kan ook geschieden aan de hand van een kopie van het
        proces-verbaal dat van een vermissing van het document op ambtseed is
-       opgemaakt door een opsporingsambtenaar van de Nederlandse,
-       onderscheidenlijk de Nederlands-Antilliaanse of de Arubaanse politie,
-       in combinatie met een document van de kiesgerechtigde op diens naam en
-       voorzien van zijn foto.
+       opgemaakt door een opsporingsambtenaar van de Nederlandse politie,
+       onderscheidenlijk de politie van Aruba, van Curaçao of van Sint
+       Maarten, in combinatie met een document van de kiesgerechtigde op
+       diens naam en voorzien van zijn foto.
 
   Artikel J 25
 
@@ -2701,7 +2725,7 @@
        is, worden ingesteld.
 
      3. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt
-       in de Nederlandse Antillen en in Aruba briefstembureaus in bij de
+       in Aruba, in Curaçao en in Sint Maarten briefstembureaus in bij de
        Vertegenwoordiging van Nederland.
 
      4. De leden en plaatsvervangende leden van de in het eerste en het
@@ -2718,13 +2742,14 @@
    spoedig mogelijk per diplomatieke post naar het hoofd van de ingevolge
    [144]artikel M 13, eerste lid, aangewezen diplomatieke of consulaire
    vertegenwoordiging van Nederland in het desbetreffende land dan wel naar
-   de vertegenwoordiger van Nederland in de Nederlandse Antillen of in Aruba.
+   de vertegenwoordiger van Nederland in Aruba, in Curaçao of in Sint
+   Maarten.
 
   Artikel M 15
 
    De kiezer die bij een diplomatieke of consulaire vertegenwoordiging van
    Nederland in het buitenland of bij de Vertegenwoordiging van Nederland in
-   de Nederlandse Antillen of in Aruba per brief stemt, ontvangt van de
+   Aruba, in Curaçao of in Sint Maarten per brief stemt, ontvangt van de
    burgemeester van 's-Gravenhage een retourenveloppe, geadresseerd aan de
    voorzitter van het daar gevestigde briefstembureau. Hij zendt de
    retourenveloppe, na de in [145]artikel M 7 bedoelde handelingen te hebben
@@ -2736,7 +2761,7 @@
        burgemeester opgedragen taken worden verricht door het hoofd van de
        diplomatieke of consulaire vertegenwoordiging van Nederland in het
        desbetreffende land danwel door de vertegenwoordiger van Nederland in
-       de Nederlandse Antillen of in Aruba.
+       Aruba, in Curaçao of in Sint Maarten.
 
      2. Indien een tijdsverschil met Nederland bestaat, gelden de in
        [147]artikel M 8, eerste en tweede lid, genoemde tijdstippen naar
@@ -2948,9 +2973,10 @@
        kader van een strafrechtelijk onderzoek een verzoek heeft gedaan tot
        overdracht van de in [154]artikel N 2 bedoelde pakken, worden deze
        pakken niet vernietigd voordat dit onderzoek is afgerond, of, indien
-       strafvervolging is ingesteld wegens op grond van de Kieswet of op
-       grond van de artikelen 125 tot en met 129 van het Wetboek van
-       Strafrecht strafbaar gestelde gedragingen, voordat er een
+       strafvervolging is ingesteld wegens op grond van de Kieswet, op grond
+       van de artikelen 125 tot en met 129 van het Wetboek van Strafrecht of
+       op grond van de artikelen 131 tot en met 135 van het Wetboek van
+       Strafrecht BES strafbaar gestelde gedragingen, voordat er een
        onherroepelijke rechterlijke uitspraak is.
 
      4. Van de vernietiging van de verzegelde pakken wordt proces-verbaal
@@ -3035,18 +3061,17 @@
        blijft [167]artikel N 9, eerste lid, buiten toepassing.
 
      2. In dat geval draagt het hoofd van de diplomatieke of consulaire
-       vertegenwoordiging danwel de vertegenwoordiger van Nederland in de
-       Nederlandse Antillen of in Aruba er zorg voor dat een afschrift van
-       het proces-verbaal van het briefstembureau vanaf de volgende dag
-       gedurende vier weken bij de vertegenwoordiging voor een ieder ter
-       inzage ligt.
+       vertegenwoordiging danwel de vertegenwoordiger van Nederland in Aruba,
+       in Curaçao of in Sint Maarten er zorg voor dat een afschrift van het
+       proces-verbaal van het briefstembureau vanaf de volgende dag gedurende
+       vier weken bij de vertegenwoordiging voor een ieder ter inzage ligt.
 
   Artikel N 18
 
    De leden van een briefstembureau buiten Nederland kunnen zich doen
    bijstaan door plaatsvervangende leden en door personen, werkzaam op de
    diplomatieke of consulaire vertegenwoordiging danwel op de
-   Vertegenwoordiging van Nederland in de Nederlandse Antillen of in Aruba,
+   Vertegenwoordiging van Nederland in Aruba, in Curaçao of in Sint Maarten,
    daartoe aan te wijzen door de voorzitter van het briefstembureau.
 
   Artikel N 19
@@ -3061,8 +3086,8 @@
        met de in [169]artikel N 2 en [170]N 9 bedoelde verzegelde pakken
        overgedragen aan het hoofd van de ingevolge [171]artikel M 13, eerste
        lid, aangewezen diplomatieke of consulaire vertegenwoordiging danwel
-       aan de vertegenwoordiger van Nederland in de Nederlandse Antillen of
-       in Aruba.
+       aan de vertegenwoordiger van Nederland in Aruba, in Curaçao of in Sint
+       Maarten.
 
      2. Deze draagt er zorg voor dat het proces-verbaal terstond per
        telefax ter kennis van de burgemeester van 's-Gravenhage wordt
@@ -3703,15 +3728,15 @@
 
   Artikel R 9
 
-     1. De kandidaat wiens woonplaats buiten Nederland is gelegen, wijst in
-       de verklaring van instemming tevens een in Nederland wonende
-       gemachtigde aan met vermelding van diens naam, voorletters, woonplaats
-       en adres. Indien de kandidaat voorkomt op meer dan één lijst, moet in
-       iedere verklaring dezelfde gemachtigde worden aangewezen. Deze
-       gemachtigde is met uitsluiting van de kandidaat bevoegd tot de
-       handelingen, bedoeld in de [212]artikelen V 2, eerste, vierde en
-       vijfde lid, [213]V 3, eerste en derde lid, en [214]W 2, eerste lid,
-       onder f.
+     1. De kandidaat wiens woonplaats buiten het Europese deel van
+       Nederland is gelegen, wijst in de verklaring van instemming tevens een
+       in het Europese deel van Nederland wonende gemachtigde aan met
+       vermelding van diens naam, voorletters, woonplaats en adres. Indien de
+       kandidaat voorkomt op meer dan één lijst, moet in iedere verklaring
+       dezelfde gemachtigde worden aangewezen. Deze gemachtigde is met
+       uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de
+       [212]artikelen V 2, eerste, vierde en vijfde lid, [213]V 3, eerste en
+       derde lid, en [214]W 2, eerste lid, onder f.
 
      2. De kandidaat is bevoegd de overeenkomstig het eerste lid gegeven
        volmacht in te trekken. Hij geeft hiervan schriftelijk kennis aan de
@@ -3720,14 +3745,15 @@
 
   Artikel R 9a
 
-     1. De in Nederland wonende kandidaat kan bij de verklaring van
-       instemming tevens een in Nederland wonende gemachtigde aanwijzen met
-       vermelding van diens naam, voorletters, woonplaats en adres. Indien de
-       kandidaat voorkomt op meer dan één lijst, wordt in iedere verklaring
-       dezelfde gemachtigde aangewezen. Deze gemachtigde is met uitsluiting
-       van de kandidaat bevoegd tot de handelingen, bedoeld in de
-       [215]artikelen V 2, eerste, vierde en vijfde lid, [216]V 3, eerste en
-       tweede lid, en [217]W 2, eerste lid, onder f.
+     1. De in het Europese deel van Nederland wonende kandidaat kan bij de
+       verklaring van instemming tevens een in het Europese deel van
+       Nederland wonende gemachtigde aanwijzen met vermelding van diens naam,
+       voorletters, woonplaats en adres. Indien de kandidaat voorkomt op meer
+       dan één lijst, wordt in iedere verklaring dezelfde gemachtigde
+       aangewezen. Deze gemachtigde is met uitsluiting van de kandidaat
+       bevoegd tot de handelingen, bedoeld in de [215]artikelen V 2, eerste,
+       vierde en vijfde lid, [216]V 3, eerste en tweede lid, en [217]W 2,
+       eerste lid, onder f.
 
      2. Van de machtiging kan alleen gebruik worden gemaakt, indien dit
        gebruik ertoe strekt dat kandidaten van de gezamenlijke lijsten van de
@@ -3806,9 +3832,9 @@
                c. dat ten aanzien van een kandidaat ontbreekt de verklaring dat
             hij instemt met zijn kandidaatstelling op de lijst;
 
-               d. dat ten aanzien van een kandidaat die buiten Nederland
-            woonplaats heeft, in zijn verklaring van instemming de aanwijzing
-            van een gemachtigde ontbreekt;
+               d. dat ten aanzien van een kandidaat die buiten het Europese deel
+            van Nederland woonplaats heeft, in zijn verklaring van instemming
+            de aanwijzing van een gemachtigde ontbreekt;
 
                e. dat een verklaring, bedoeld in [220]artikel R 7, ontbreekt.
 
@@ -3861,8 +3887,8 @@
                b. van wie niet is overgelegd de verklaring dat hij instemt met
             zijn kandidaatstelling op de lijst;
 
-               c. wiens woonplaats buiten Nederland is gelegen, indien de
-            aanwijzing van een gemachtigde ontbreekt;
+               c. wiens woonplaats buiten het Europese deel van Nederland is
+            gelegen, indien de aanwijzing van een gemachtigde ontbreekt;
 
                d. die voorkomt op meer dan één van de in eenzelfde provincie
             ingeleverde lijsten;
@@ -5109,7 +5135,7 @@
        de Europese Unie, mits zij:
 
                1°. op de dag van de kandidaatstelling hun werkelijke woonplaats
-            hebben in Nederland,
+            hebben in het Europese deel van Nederland,
 
                2°. op de dag van de stemming de leeftijd van achttien jaar
             hebben bereikt, en
@@ -5127,7 +5153,8 @@
      b. de niet-Nederlanders die onderdanen zijn van andere lid-staten van
        de Europese Unie, mits zij:
 
-               1°. hun werkelijke woonplaats hebben in Nederland,
+               1°. hun werkelijke woonplaats hebben in het Europese deel van
+            Nederland,
 
                2°. de leeftijd van achttien jaar hebben bereikt, en
 
@@ -5149,11 +5176,10 @@
   Artikel Y 5a
 
    De Nederlander die op de dag van de kandidaatstelling zijn werkelijke
-   woonplaats heeft in de Nederlandse Antillen of Aruba dient het verzoek tot
+   woonplaats heeft in Aruba, Curaçao of Sint Maarten dient het verzoek tot
    registratie, bedoeld in [305]artikel D 3, eerste lid, in bij de
-   vertegenwoordiger van Nederland in de Nederlandse Antillen
-   onderscheidenlijk Aruba of bij burgemeester en wethouders van
-   ?s-Gravenhage.
+   vertegenwoordiger van Nederland in Aruba, Curaçao of Sint Maarten of bij
+   burgemeester en wethouders van ?s-Gravenhage.
 
   Artikel Y 6
 
@@ -5415,9 +5441,10 @@
   Artikel Y 31
 
    De kiesgerechtigde niet-Nederlander die onderdaan is van een andere
-   lid-staat van de Europese Unie die zijn werkelijke woonplaats in Nederland
-   heeft, neemt aan de verkiezing deel hetzij in Nederland, hetzij in de
-   lid-staat waarvan hij onderdaan is.
+   lid-staat van de Europese Unie die zijn werkelijke woonplaats in het
+   Europese deel van Nederland heeft, neemt aan de verkiezing deel hetzij in
+   het Europese deel van Nederland, hetzij in de lid-staat waarvan hij
+   onderdaan is.
 
   Artikel Y 32
 
@@ -5446,8 +5473,9 @@
 
      5. Burgemeester en wethouders zenden aan de niet-Nederlander, die de
        nationaliteit van een andere lid-staat van de Europese Unie heeft, en
-       die zich van buiten Nederland vestigt in de gemeente, een formulier
-       toe waarmee hij registratie van zijn kiesgerechtigdheid kan verzoeken.
+       die zich van buiten het Europese deel van Nederland vestigt in de
+       gemeente, een formulier toe waarmee hij registratie van zijn
+       kiesgerechtigdheid kan verzoeken.
 
      6. Burgemeester en wethouders beslissen op het verzoek uiterlijk op de
        zevende dag nadat zij het verzoek hebben ontvangen en maken de
@@ -5562,23 +5590,21 @@
 
   Afdeling Va. De verkiezing van de leden van de Tweede Kamer der
   Staten-Generaal, van de eilandsraden, van de Eerste Kamer der Staten-Generaal
-  en van het Europees Parlement in Bonaire, Sint Eustatius en Saba [Treedt in
-  werking per 10-10-2010]
+  en van het Europees Parlement in Bonaire, Sint Eustatius en Saba
 
   Hoofdstuk Ya. De verkiezing van de leden van de Tweede Kamer der
   Staten-Generaal, van de eilandsraden, van de Eerste Kamer der Staten-Generaal
-  en van het Europees Parlement in Bonaire, Sint Eustatius en Saba [Treedt in
-  werking per 10-10-2010]
+  en van het Europees Parlement in Bonaire, Sint Eustatius en Saba
 
-  § 1. Algemene bepalingen [Treedt in werking per 10-10-2010]
+  § 1. Algemene bepalingen
 
-  Artikel Ya 1 [Treedt in werking per 10-10-2010]
+  Artikel Ya 1
 
    Deze wet en de daarop berustende bepalingen is mede van toepassing in
    Bonaire, Sint Eustatius en Saba, met inachtneming van het in deze afdeling
    bepaalde.
 
-  Artikel Ya 2 [Treedt in werking per 10-10-2010]
+  Artikel Ya 2
 
    In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -5588,7 +5614,7 @@
        van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en
        Saba.
 
-  Artikel Ya 3 [Treedt in werking per 10-10-2010]
+  Artikel Ya 3
 
      1. Voor de toepassing van de bij of krachtens deze wet gestelde
        bepalingen in Bonaire, Sint Eustatius en Saba wordt, voor zover deze
@@ -5609,7 +5635,7 @@
        wethouders van ?s-Gravenhage wordt bedoeld, geldt het eerste lid,
        onder a tot en met c, niet.
 
-  Artikel Ya 3a [Treedt in werking per 10-10-2010]
+  Artikel Ya 3a
 
    In de [352]artikelen J 8, vierde lid, en [353]J 24, eerste lid, onder a,
    wordt voor de toepassing in Bonaire, Sint Eustatius en Saba in plaats van
@@ -5618,10 +5644,9 @@
    Wet op de identificatieplicht» gelezen: een document als bedoeld in
    artikel 2 van de Wet op de identificatieplicht BES.
 
-  § 2. De verkiezing van de leden van de Tweede Kamer [Treedt in werking per
-  10-10-2010]
+  § 2. De verkiezing van de leden van de Tweede Kamer
 
-  Artikel Ya 4 [Treedt in werking per 10-10-2010]
+  Artikel Ya 4
 
      1. Op de dag van de kandidaatstelling kunnen bij de gezaghebbers van
        Sint Eustatius en Saba op het bestuurskantoor, van negen tot vijftien
@@ -5659,7 +5684,7 @@
        verzegeld. Het verzegelde pak wordt zo spoedig mogelijk per post naar
        het hoofdstembureau overgebracht.
 
-  Artikel Ya 5 [Treedt in werking per 10-10-2010]
+  Artikel Ya 5
 
    Verklaringen van ondersteuning van een lijst die wordt ingeleverd in Sint
    Eustatius of Saba, die worden afgelegd in Bonaire, kunnen tevens door een
@@ -5668,7 +5693,7 @@
    kandidaatstelling, van negen tot vijftien uur, worden ingeleverd bij het
    hoofdstembureau van kieskring 20 (Bonaire).
 
-  Artikel Ya 6 [Treedt in werking per 10-10-2010]
+  Artikel Ya 6
 
      1. Indien het hoofdstembureau een of meer verzuimen als bedoeld in
        [362]artikel I 2 heeft geconstateerd ten aanzien van een lijst die in
@@ -5703,7 +5728,7 @@
        gedaan, dat wordt verzegeld. Het verzegelde pak wordt zo spoedig
        mogelijk per post naar het hoofdstembureau overgebracht.
 
-  Artikel Ya 7 [Treedt in werking per 10-10-2010]
+  Artikel Ya 7
 
      1. De voorzitter van het hoofdstembureau van kieskring 20 (Bonaire)
        draagt er zorg voor dat afschriften van de kandidatenlijsten en,
@@ -5721,14 +5746,14 @@
        bedoeld in het eerste en tweede lid, op het bestuurskantoor voor een
        ieder ter inzage, zodra deze zijn ontvangen.
 
-  Artikel Ya 8 [Treedt in werking per 10-10-2010]
+  Artikel Ya 8
 
    [366]Artikel I 5, aanhef en onder a, is niet van toepassing indien een
    lijst op de dag van de kandidaatstelling tussen negen en vijftien uur bij
    de gezaghebbers van Sint Eustatius of Saba op het bestuurskantoor is
    ingeleverd.
 
-  Artikel Ya 9 [Treedt in werking per 10-10-2010]
+  Artikel Ya 9
 
      1. De gemeenschappelijke verklaring, bedoeld in [367]artikel I 10,
        eerste lid, kan tevens worden ingeleverd bij de gezaghebbers van
@@ -5752,14 +5777,14 @@
        zo spoedig mogelijk per post naar het centraal stembureau wordt
        overgebracht.
 
-  Artikel Ya 10 [Treedt in werking per 10-10-2010]
+  Artikel Ya 10
 
    De voorzitter van het hoofdstembureau van kieskring 20 (Bonaire) brengt
    het proces-verbaal, bedoeld in [369]artikel I 18, vijfde lid, langs
    elektronische weg terstond na de zitting ter kennis van het centraal
    stembureau.
 
-  Artikel Ya 11 [Treedt in werking per 10-10-2010]
+  Artikel Ya 11
 
      1. De gezaghebbers van Sint Eustatius en Saba dragen er zorg voor dat
        de in [370]artikel N 12, eerste lid, genoemde processen-verbaal en de
@@ -5774,7 +5799,7 @@
        eerste lid, zo spoedig mogelijk per post naar het hoofdstembureau
        worden overgebracht.
 
-  Artikel Ya 12 [Treedt in werking per 10-10-2010]
+  Artikel Ya 12
 
      1. De voorzitter van het hoofdstembureau van kieskring 20 (Bonaire)
        draagt er zorg voor dat het proces-verbaal, bedoeld in [371]artikel O
@@ -5796,10 +5821,9 @@
 
   § 3. De verkiezing van de leden van de eilandsraad, het begin van en de
   veranderingen in het lidmaatschap van de eilandsraad en de beëindiging van het
-  lidmaatschap en tijdelijke vervanging als lid [Treedt in werking per
-  10-10-2010]
+  lidmaatschap en tijdelijke vervanging als lid
 
-  Artikel Ya 13 [Treedt in werking per 10-10-2010]
+  Artikel Ya 13
 
    De bij of krachtens deze wet gestelde bepalingen betreffende de verkiezing
    van de leden van de gemeenteraden, betreffende het begin van en de
@@ -5808,38 +5832,38 @@
    voor zover deze afdeling niet anders bepaalt, van overeenkomstige
    toepassing op de eilandsraden.
 
-  Artikel Ya 14 [Treedt in werking per 10-10-2010]
+  Artikel Ya 14
 
    De leden van de eilandsraden worden gekozen door degenen die op de dag van
    de kandidaatstelling ingezetenen zijn van het openbaar lichaam, mits zij
    Nederlander zijn en op de dag van de stemming de leeftijd van achttien
    jaar hebben bereikt.
 
-  Artikel Ya 15 [Treedt in werking per 10-10-2010]
+  Artikel Ya 15
 
    De politieke groepering die een verzoek tot registratie van de aanduiding
    als bedoeld in [374]artikel G 3 indient bij het centraal stembureau voor
    de verkiezing van de leden van de eilandsraad betaalt aan het openbaar
    lichaam een waarborgsom van USD 112,50.
 
-  Artikel Ya 16 [Treedt in werking per 10-10-2010]
+  Artikel Ya 16
 
    In de [375]artikelen H 10, eerste lid, [376]I 2, eerste lid, onderdeel e,
    en [377]I 6, eerste lid, onderdeel c, wordt in plaats van «het Europese
    deel van Nederland» telkens gelezen: het openbaar lichaam waar hij zich
    kandidaat stelt.
 
-  Artikel Ya 17 [Treedt in werking per 10-10-2010]
+  Artikel Ya 17
 
    Voor elke kandidatenlijst die wordt ingeleverd in een van de openbare
    lichamen, wordt aan dat openbaar lichaam een waarborgsom betaald van
    USD 225.
 
-  Artikel Ya 18 [Treedt in werking per 10-10-2010]
+  Artikel Ya 18
 
    [vervallen]
 
-  Artikel Ya 19 [Treedt in werking per 10-10-2010]
+  Artikel Ya 19
 
    De benoemde die woonachtig is in het openbaar lichaam waar hij zich
    kandidaat stelt of de gemachtigde van de benoemde die buiten het openbaar
@@ -5848,13 +5872,13 @@
    persoonsgegevens, bedoeld in [378]artikel V 3, tweede lid, over, waaruit
    tevens het Nederlanderschap van de benoemde blijkt.
 
-  Artikel Ya 20 [Treedt in werking per 10-10-2010]
+  Artikel Ya 20
 
    Voor de toepassing van [379]artikel W 2, eerste lid, onderdeel h, wordt in
    plaats van «artikel 11 van de Gemeentewet» gelezen: artikel 12 van de Wet
    openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-  Artikel Ya 21 [Treedt in werking per 10-10-2010]
+  Artikel Ya 21
 
    Voor de toepassing van [380]artikel X 8, eerste en derde lid, wordt in
    plaats van «artikel 15, eerste lid, van de Gemeentewet» gelezen: artikel
@@ -6046,10 +6070,9 @@
    Voor de toepassing van [396]artikel U 17 wordt onder «provincies» mede
    verstaan: openbare lichamen.
 
-  § 5. De verkiezing van de leden van het Europees Parlement [Treedt in werking
-  per 10-10-2010]
+  § 5. De verkiezing van de leden van het Europees Parlement
 
-  Artikel Ya 32 [Treedt in werking per 10-10-2010]
+  Artikel Ya 32
 
      1. Op de werkdag vóór de dag van de kandidaatstelling kunnen bij de
        gezaghebber op het bestuurskantoor, van negen tot vijftien uur
@@ -6089,7 +6112,7 @@
        verzegeld. Het verzegelde pak wordt zo spoedig mogelijk per post naar
        het centraal stembureau overgebracht.
 
-  Artikel Ya 33 [Treedt in werking per 10-10-2010]
+  Artikel Ya 33
 
    Verklaringen van ondersteuning van een lijst die wordt ingeleverd in een
    openbaar lichaam, die worden afgelegd in het Europese deel van Nederland,
@@ -6099,7 +6122,7 @@
    voorzitter van het centraal stembureau of bij het door deze aan te wijzen
    lid van dat bureau.
 
-  Artikel Ya 34 [Treedt in werking per 10-10-2010]
+  Artikel Ya 34
 
      1. Indien het centraal stembureau een of meer verzuimen als bedoeld in
        [409]artikel I 2, eerste lid, in samenhang met [410]artikel Y 15,
@@ -6136,7 +6159,7 @@
        gedaan, dat wordt verzegeld. Het verzegelde pak wordt zo spoedig
        mogelijk per post naar het centraal stembureau overgebracht.
 
-  Artikel Ya 35 [Treedt in werking per 10-10-2010]
+  Artikel Ya 35
 
      1. De voorzitter van het centraal stembureau draagt er zorg voor dat
        de kandidatenlijsten en, indien vereist, verklaringen van
@@ -6146,13 +6169,13 @@
      2. De gezaghebber legt de stukken, bedoeld in het eerste lid, op het
        bestuurskantoor voor een ieder ter inzage, zodra deze zijn ontvangen.
 
-  Artikel Ya 36 [Treedt in werking per 10-10-2010]
+  Artikel Ya 36
 
    [414]Artikel I 5, aanhef en onder a, is niet van toepassing indien een
    lijst op de werkdag vóór de dag van de kandidaatstelling tussen negen en
    vijftien uur bij de gezaghebber op het bestuurskantoor is ingeleverd.
 
-  Artikel Ya 37 [Treedt in werking per 10-10-2010]
+  Artikel Ya 37
 
      1. De gemeenschappelijke verklaring, bedoeld in [415]artikel Y 19,
        eerste lid, in samenhang met [416]artikel I 10, eerste lid, kan tevens
@@ -6178,7 +6201,7 @@
        zo spoedig mogelijk per post naar het centraal stembureau wordt
        overgebracht.
 
-  Artikel Ya 38 [Treedt in werking per 10-10-2010]
+  Artikel Ya 38
 
      1. De [418]artikelen Ya 11 en [419]Ya 12 zijn van overeenkomstige
        toepassing.
@@ -6187,14 +6210,13 @@
        hoofdstembureau van kieskring 20 (Bonaire) op als hoofdstembureau voor
        de verkiezing van het Europees Parlement.
 
-  Artikel Ya 39 [Treedt in werking per 10-10-2010]
+  Artikel Ya 39
 
    De [422]artikelen Y 32, [423]Y 33 en [424]Y 33a zijn niet van toepassing.
 
-  § 6. Bestuursrecht, beroeps- en overgangsbepalingen [Treedt in werking per
-  10-10-2010]
+  § 6. Bestuursrecht, beroeps- en overgangsbepalingen
 
-  Artikel Ya 40 [Treedt in werking per 10-10-2010]
+  Artikel Ya 40
 
      1. Het bestuursorgaan zendt geschriften tot behandeling waarvan
        kennelijk een ander bestuursorgaan bevoegd is, onverwijld door naar
@@ -6204,13 +6226,13 @@
        en die ook niet worden doorgezonden, zo spoedig mogelijk terug aan de
        afzender.
 
-  Artikel Ya 41 [Treedt in werking per 10-10-2010]
+  Artikel Ya 41
 
    Degene die een verzoek indient als bedoeld in [425]artikel D 5, verschaft
    de gegevens en bescheiden die voor de beslissing op de aanvraag nodig zijn
    en waarover hij redelijkerwijs de beschikking kan krijgen.
 
-  Artikel Ya 42 [Treedt in werking per 10-10-2010]
+  Artikel Ya 42
 
      1. In afwijking van artikel 7 van de Wet administratieve rechtspraak
        BES wordt het beroep tegen een beschikking van het bestuurscollege als
@@ -6239,7 +6261,7 @@
        rechtspraak BES. Aan het bestuursorgaan wordt terstond een afschrift
        van het beroepschrift toegezonden.
 
-  Artikel Ya 43 [Treedt in werking per 10-10-2010]
+  Artikel Ya 43
 
      1. In afwijking van artikel 7 van de Wet administratieve rechtspraak
        BES wordt het beroep tegen een beschikking op grond van de
@@ -6251,7 +6273,7 @@
      2. De [435]artikelen G 5, tweede lid, aanhef en onder a, en [436]Ya
        42, tweede tot en met vijfde lid, zijn van overeenkomstige toepassing.
 
-  Artikel Ya 44 [Treedt in werking per 10-10-2010]
+  Artikel Ya 44
 
      1. Tegen een beschikking op grond van de [437]artikelen I 4, [438]S 2
        en [439]Y 2 in samenhang met artikel I 4 van deze wet die betreft:
@@ -6272,14 +6294,14 @@
        [442]Ya 42, tweede tot en met vijfde lid, zijn van overeenkomstige
        toepassing.
 
-  Artikel Ya 45 [Treedt in werking per 10-10-2010]
+  Artikel Ya 45
 
    Tegen een beschikking op grond van de [443]artikelen G 2, [444]G 4 of
    [445]I 4 die wordt genomen in het kader van de verkiezing van de leden van
    provinciale staten, kan uitsluitend beroep worden ingesteld bij de
    Afdeling bestuursrechtspraak van de Raad van State.
 
-  Artikel Ya 46 [Treedt in werking per 10-10-2010]
+  Artikel Ya 46
 
      1. In afwijking van artikel 7 van de Wet administratieve rechtspraak
        BES wordt het beroep tegen een beschikking op grond van de
@@ -6304,11 +6326,11 @@
      5. [454]Artikel Ya 42, tweede tot en met vijfde lid, is van
        overeenkomstige toepassing.
 
-  Artikel Ya 47 [Treedt in werking per 10-10-2010]
+  Artikel Ya 47
 
    [vervallen]
 
-  Artikel Ya 48 [Treedt in werking per 10-10-2010]
+  Artikel Ya 48
 
      1. In het ingevolge [455]artikel G 3, eerste lid, in samenhang met
        [456]artikel Ya 13 door het centraal stembureau voor de leden van de
@@ -6329,7 +6351,7 @@
        doorwerking van de op grond van [459]artikel G 1 geregistreerde
        aanduiding niet plaatsvindt.
 
-  Artikel Ya 49 [Treedt in werking per 10-10-2010]
+  Artikel Ya 49
 
      1. Indien binnen een termijn van twee maanden na inwerkingtreding van
        de wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de
@@ -6387,7 +6409,7 @@
             partijen en het centraal stembureau onverwijld in kennis van de
             uitspraak.
 
-  Artikel Ya 50 [Treedt in werking per 10-10-2010]
+  Artikel Ya 50
 
    Bij de kandidaatstelling voor de eerste verkiezing van de leden van de
    eilandsraad na inwerkingtreding van de wet van 17 mei 2010 tot wijziging
@@ -6401,7 +6423,7 @@
    leden van de eilandsraad van de voormalige eilandgebieden Bonaire, Sint
    Eustatius of Saba.
 
-  Artikel Ya 51 [Treedt in werking per 10-10-2010]
+  Artikel Ya 51
 
      1. [474]Artikel Ya 47 en dit artikel vervallen vijf jaar na
        inwerkingtreding van de wet van 17 mei 2010 tot wijziging van de
@@ -6468,13 +6490,18 @@
 
      1. Bij veroordeling wegens een van de in de [479]artikelen Z 1 tot en
        met Z 4 omschreven misdrijven kan ontzetting van de in artikel 28,
-       eerste lid, onder 1°, 2° en 4°, van het Wetboek van Strafrecht
-       vermelde rechten worden uitgesproken.
+       eerste lid, onder 1°, 2° en 4°, van het Wetboek van Strafrecht dan
+       wel, indien de ontzetting wordt uitgesproken door de strafrechter in
+       Bonaire, Sint Eustatius of Saba, artikel 32, onder 1°, 2° en 4°, van
+       het Wetboek van Strafrecht BES vermelde rechten worden uitgesproken.
 
      2. Bij veroordeling tot een vrijheidsstraf van ten minste een jaar
        wegens een van de in de [480]artikelen Z 1 tot en met Z 3 omschreven
        misdrijven, kan ontzetting van het in artikel 28, eerste lid, onder
-       3°, van het Wetboek van Strafrecht vermelde recht worden uitgesproken.
+       3°, van het Wetboek van Strafrecht dan wel, indien de ontzetting wordt
+       uitgesproken door de strafrechter in Bonaire, Sint Eustatius of Saba,
+       artikel 32, onder 3°, van het Wetboek van Strafrecht BES vermelde
+       recht worden uitgesproken.
 
   Artikel Z 6
 
@@ -6653,3 +6680,5 @@
    18.           Noord-Brabant die niet tot kieskring 17   's-Hertogenbosch
                  behoren.
    19.           De provincie Limburg.                     Maastricht
+   20.           De openbare lichamen Bonaire, Sint        Bonaire
+                 Eustatius en Saba.
