@@ -1,4 +1,4 @@
-   (Tekst geldend op: 01-12-2008)
+   (Tekst geldend op: 01-01-2009)
 
    --------------------------------------------------------------------------
 
@@ -5735,7 +5735,7 @@
 
    F. Korthals Altes
 
-  Tabel bedoeld in artikel E 1, eerste lid, van de Kieswet
+  Tabel bedoeld in [358]artikel E 1, eerste lid, van de Kieswet
 
    Nummer van de     Gebied waarover de kieskring zich     Gemeente waar het
      kieskring                   uitstrekt                 hoofdstembureau is
@@ -5756,13 +5756,12 @@
    8.            De provincie Utrecht                      Utrecht
    9.            De gemeente Amsterdam                     Amsterdam
                  De gemeenten Aalsmeer, Amstelveen,
-                 Bennebroek, Beverwijk, Blaricum,
-                 Bloemendaal, Bussum, Diemen, Haarlem,
-   10.           Haarlemmerliede en Spaarnewoude,          Haarlem
-                 Haarlemmermeer, Heemskerk, Heemstede,
-                 Hilversum, Huizen, Laren, Muiden,
-                 Naarden, Ouder-Amstel, Uithoorn, Velsen,
-                 Weesp, Wijdemeren, Zandvoort.
+                 Beverwijk, Blaricum, Bloemendaal, Bussum,
+                 Diemen, Haarlem, Haarlemmerliede en
+   10.           Spaarnewoude, Haarlemmermeer, Heemskerk,  Haarlem
+                 Heemstede, Hilversum, Huizen, Laren,
+                 Muiden, Naarden, Ouder-Amstel, Uithoorn,
+                 Velsen, Weesp, Wijdemeren, Zandvoort.
                  De gemeenten van de provincie
    11.           Noord-Holland die niet tot de kieskringen Den Helder
                  9 of 10 behoren.
