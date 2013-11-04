@@ -1,4 +1,4 @@
-   (Tekst geldend op: 29-06-2013)
+   (Tekst geldend op: 03-07-2013)
 
    --------------------------------------------------------------------------
 
@@ -1669,6 +1669,13 @@
        een afschrift van het proces-verbaal aan het centraal stembureau
        toekomen.
 
+  Artikel I 19 [Treedt in werking per 01-12-2013]
+
+   Het centraal stembureau vernietigt de ingeleverde kandidatenlijsten en,
+   indien vereist, de verklaringen van ondersteuning, nadat onherroepelijk is
+   beslist over de geldigheid van de ingeleverde lijsten. Van de vernietiging
+   wordt proces-verbaal opgemaakt.
+
   Hoofdstuk J. De stemming
 
   § 1. Algemene bepalingen
@@ -2560,6 +2567,25 @@
      2. Bij ministeriële regeling worden voor de stukken, bedoeld in het
        eerste lid, onder b, c ,d en e, modellen vastgesteld.
 
+  Artikel M 6a [Treedt in werking per 17-10-2013]
+
+     1. De burgemeester van 's-Gravenhage zet op de retourenveloppe het
+       adres van:
+
+               a. het briefstembureau, indien dat voor de kiesgerechtigde is
+            ingesteld op grond van artikel M 13, eerste, tweede en vierde
+            lid;
+
+               b. de vertegenwoordiger van Aruba, Curaçao of Sint Maarten,
+            indien voor de kiesgerechtigde een briefstembureau is ingesteld
+            op Aruba, Curaçao respectievelijk Sint Maarten;
+
+               c. de burgemeester van 's-Gravenhage, in alle overige gevallen.
+
+     2. De vertegenwoordiger van Nederland in Aruba, Curaçao en Sint
+       Maarten zet op de retourenveloppe het adres van de vertegenwoordiger
+       van Nederland in Aruba, Curaçao respectievelijk Sint Maarten.
+
   Artikel M 7
 
      1. De kiezer stemt door op het hem toegezonden stembiljet een wit
@@ -2581,6 +2607,11 @@
 
      5. De kiezer draagt er zorg voor dat de retourenveloppe voldoende is
        gefrankeerd.
+
+  Artikel M 7a [Treedt in werking per 17-10-2013]
+
+   Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met
+   betrekking tot het stemmen per brief.
 
   Artikel M 8
 
@@ -2887,6 +2918,12 @@
      3. Indien een van de aanwezige kiezers dit verlangt, moet het biljet
        worden getoond. De kiezers kunnen mondeling bezwaren tegen de genomen
        beslissing inbrengen.
+
+  Artikel N 8a [Treedt in werking per 01-12-2013]
+
+   Het stembureau stelt vast het verschil tussen het aantal kiezers dat tot
+   de stemming is toegelaten en het aantal stemmen dat is geteld. Voor zover
+   mogelijk geeft het stembureau hiervoor een verklaring.
 
   Artikel N 9
 
@@ -3545,6 +3582,16 @@
 
    Hij vernietigt deze pakken, nadat over de toelating van de benoemden is
    beslist. Van deze vernietiging wordt proces-verbaal opgemaakt.
+
+  Artikel P 26 [Treedt in werking per 01-12-2013]
+
+   Nadat is beslist over de toelating van de gekozenen, is het centraal
+   stembureau bevoegd, de pakken, bedoeld in artikel P 21, tweede lid, het
+   proces-verbaal, bedoeld in artikel P 22, en, tenzij het de verkiezing
+   betreft van de gemeenteraad of van provinciale staten van een provincie
+   die één kieskring vormt, de processen-verbaal van de hoofdstembureaus, ten
+   dienste van een onderzoek naar enig strafbaar feit aan de officier van
+   justitie over te dragen.
 
   Afdeling III. De verkiezing van de leden van de Eerste Kamer der
   Staten-Generaal
@@ -5268,6 +5315,18 @@
    als hoofdstembureaus voor de verkiezing van de leden van het Europees
    Parlement.
 
+  Artikel Y 22a [Treedt in werking per 01-12-2013]
+
+   De stemming geschiedt in elke kieskring over de kandidaten wier namen
+   voorkomen op de voor het gehele land geldig verklaarde kandidatenlijsten.
+
+  Artikel Y 22b [Treedt in werking per 01-12-2013]
+
+   De artikelen N 12, eerste lid, tweede zin, en O 4, eerste lid, blijven
+   buiten toepassing tot de sluiting van de stembussen in de lidstaat waar de
+   kiezers het laatst hun stem uitbrengen tijdens de in de Akte bedoelde
+   stemmingsperiode.
+
   Artikel Y 23
 
    Waar in de artikelen O 4, tweede lid, en O 5, eerste lid, sprake is van
@@ -5761,6 +5820,16 @@
    het proces-verbaal, bedoeld in artikel I 18, vijfde lid, langs
    elektronische weg terstond na de zitting ter kennis van het centraal
    stembureau.
+
+  Artikel Ya 10a [Treedt in werking per 01-12-2013]
+
+     1. Artikel I 5, aanhef en onder a, is niet van toepassing indien een
+       lijst op de dag van de kandidaatstelling tussen negen en zeventien uur
+       bij een gezaghebber is ingeleverd.
+
+     2. Een verklaring of bewijs dat afzonderlijk wordt ingeleverd, is niet
+       geldig indien deze niet overeenkomstig artikel Ya 5, eerste tot en met
+       derde lid, is ingeleverd.
 
   Artikel Ya 11
 
