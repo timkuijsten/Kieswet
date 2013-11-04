@@ -1,4 +1,4 @@
-   (Tekst geldend op: 03-07-2013)
+   (Tekst geldend op: 17-10-2013)
 
    --------------------------------------------------------------------------
 
@@ -138,7 +138,8 @@
        gemeente waar de betrokkene in de basisadministratie persoonsgegevens
        is ingeschreven of, als het een persoon betreft die niet in een
        basisadministratie persoonsgegevens is ingeschreven, aan de
-       burgemeester van de gemeente 's-Gravenhage, met vermelding van naam,
+       burgemeester van de gemeente 's-Gravenhage en Onze Minister van
+       Binnenlandse Zaken en Koninkrijksrelaties, met vermelding van naam,
        voorletters of voornamen, adres en geboortedatum alsmede van de duur
        van de uitsluiting.
 
@@ -240,75 +241,90 @@
   Artikel D 3
 
      1. Burgemeester en wethouders van 's-Gravenhage registreren voor elke
-       verkiezing van de Tweede Kamer de kiesgerechtigdheid van personen die
-       op de dag van kandidaatstelling hun werkelijke woonplaats buiten
-       Nederland hebben, indien dezen daartoe een schriftelijk verzoek hebben
-       ingediend.
+       verkiezing van de Tweede Kamer de kiesgerechtigdheid van personen,
+       bedoeld in artikel B 1, eerste lid, die op de dag van
+       kandidaatstelling hun werkelijke woonplaats buiten Nederland hebben,
+       indien dezen daartoe een schriftelijk verzoek hebben ingediend.
 
-     2. Het verzoek wordt niet eerder ingediend dan zes maanden voor de dag
-       van stemming.
-
-     3. Het verzoek wordt ingediend bij het hoofd van de consulaire post
-       waaronder de woonplaats van verzoeker ressorteert, of rechtstreeks bij
-       burgemeester en wethouders van 's-Gravenhage. Het hoofd van de
-       consulaire post zendt het verzoekschrift zo spoedig mogelijk door naar
-       burgemeester en wethouders van 's-Gravenhage.
-
-     4. Indien het verzoek wordt gedaan door een persoon als bedoeld in
-       artikel B 1, tweede lid, onder a, wordt het verzoek ingediend bij de
-       vertegenwoordiger van Nederland in Aruba, in Curaçao of in Sint
-       Maarten, of rechtstreeks bij burgemeester en wethouders van
-       's-Gravenhage. De vertegenwoordiger van Nederland in Aruba, in Curaçao
-       of in Sint Maarten zendt het verzoekschrift zo spoedig mogelijk door
-       naar burgemeester en wethouders van 's-Gravenhage.
-
-     5. Indien het verzoek wordt gedaan door een persoon als bedoeld in
-       artikel B 1, tweede lid, onder b, die niet gedurende ten minste tien
-       jaren zijn werkelijke woonplaats in Nederland heeft gehad, wordt het
-       verzoek ingediend bij Onze Minister onder wiens ministerie de
-       werkzaamheden van de betrokken functionaris ressorteren. Deze zendt
-       het verzoekschrift zo spoedig mogelijk door naar burgemeester en
+     2. Het verzoek wordt ingediend bij burgemeester en wethouders van
+       's-Gravenhage of bij het hoofd van de consulaire post waaronder de
+       woonplaats van verzoeker ressorteert. Het hoofd van de consulaire post
+       zendt het verzoekschrift zo spoedig mogelijk door naar burgemeester en
        wethouders van 's-Gravenhage.
 
-     6. Indien het verzoek wordt gedaan door een persoon die zijn
-       werkelijke woonplaats heeft in een land waarmee Nederland geen
-       diplomatieke betrekkingen onderhoudt, wordt het verzoek ingediend bij
-       burgemeester en wethouders van 's-Gravenhage.
+  Artikel D 3a
 
-     7. Het verzoek dient uiterlijk zes weken voor de dag van stemming te
+     1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties
+       registreert voor elke verkiezing van de Tweede Kamer de
+       kiesgerechtigdheid van personen, bedoeld in artikel B 1, tweede lid,
+       indien zij daartoe een schriftelijk verzoek hebben ingediend.
+
+     2. De persoon, bedoeld in artikel B 1, tweede lid, onder a, dient het
+       verzoekschrift in bij de vertegenwoordiger van Nederland in het land
+       waar hij op de dag van kandidaatstelling zijn werkelijke woonplaats
+       heeft.
+
+     3. De persoon, bedoeld in artikel B 1, tweede lid, onder b, die niet
+       gedurende ten minste tien jaren zijn werkelijke woonplaats in
+       Nederland heeft gehad, dient het verzoek in bij Onze Minister onder
+       wiens ministerie de werkzaamheden van de betrokken functionaris
+       ressorteren. Deze zendt het verzoekschrift zo spoedig mogelijk door
+       naar de vertegenwoordiger van Nederland in het land waar de
+       functionaris op de dag van kandidaatstelling zijn werkelijke
+       woonplaats heeft.
+
+  Artikel D 3b
+
+     1. Het verzoek, bedoeld in de artikelen D 3 en D 3a, wordt niet eerder
+       ingediend dan zes maanden voor de dag van stemming.
+
+     2. Het verzoek dient uiterlijk zes weken voor de dag van stemming te
        zijn ontvangen door het orgaan waarbij het moet worden ingediend.
 
-     8. Burgemeester en wethouders van 's-Gravenhage beoordelen het verzoek
-       naar de vermoedelijke toestand op de dag van de kandidaatstelling. Zij
-       beslissen op het verzoek uiterlijk op de zevende dag nadat zij dit
-       hebben ontvangen.
+     3. Het verzoek wordt beoordeeld naar de vermoedelijke toestand op de
+       dag van de kandidaatstelling.
 
-     9. Bij algemene maatregel van bestuur wordt geregeld waar en wanneer
+     4. Op het verzoek wordt uiterlijk op de zevende dag na ontvangst
+       beslist.
+
+     5. Uitsluitend bij burgemeester en wethouders van 's Gravenhage of bij
+       de vertegenwoordiger van Nederland in Aruba, Curaçao of Sint Maarten
+       kan het verzoek elektronisch worden ingediend.
+
+     6. Bij algemene maatregel van bestuur wordt geregeld waar en wanneer
        de formulieren voor de verzoeken, kosteloos, voor de kiezers
        verkrijgbaar zijn. Bij ministeriële regeling wordt voor de formulieren
        een model vastgesteld.
 
-  Artikel D 3a
+  Artikel D 3c
 
      1. Burgemeester en wethouders van 's-Gravenhage houden een bestand bij
        van personen aan wie voor elke verkiezing van de leden van de Tweede
        Kamer zonder een afzonderlijk daartoe strekkend verzoek een formulier
        tot registratie van de kiesgerechtigdheid wordt toegezonden.
+       Ingezetenen van Aruba, Curaçao en Sint Maarten worden niet in het
+       bestand opgenomen.
 
-     2. Opname in het bestand geschiedt op verzoek van de desbetreffende
+     2. Onze Minister van Binnenlandse en Koninkrijksrelaties houdt een
+       bestand bij van ingezetenen van Aruba, Curaçao en Sint Maarten aan wie
+       voor elke verkiezing van de leden van de Tweede Kamer zonder een
+       afzonderlijk daartoe strekkend verzoek een formulier tot registratie
+       van kiesgerechtigdheid wordt toegezonden.
+
+     3. Opname in het bestand geschiedt op verzoek van de desbetreffende
        persoon of na een verzoek tot registratie van de kiesgerechtigdheid
        voor de verkiezing van de leden van de Tweede Kamer, ongeacht of dat
        verzoek is ingewilligd.
 
-     3. Burgemeester en wethouders van 's-Gravenhage verwijderen uit het
-       bestand de geregistreerde gegevens, wanneer:
+     4. De geregistreerde gegevens worden uit het bestand verwijderd,
+       wanneer:
 
                a. de geregistreerde daarom verzoekt;
 
                b. er geen verzoek tot registratie is ingediend voor de
             laatstgehouden verkiezing van de leden van de Tweede Kamer.
 
-     4. Bij algemene maatregel van bestuur wordt vastgesteld welke gegevens
+     5. Bij algemene maatregel van bestuur wordt vastgesteld welke gegevens
        in het bestand geregistreerd worden.
 
   Artikel D 4
@@ -320,34 +336,38 @@
 
   Artikel D 5
 
-   Een ieder kan schriftelijk aan burgemeester en wethouders om herziening
-   van de registratie verzoeken op de grond dat hij niet of niet op de juiste
-   wijze als kiezer is geregistreerd.
+   Een ieder kan schriftelijk om herziening van de registratie verzoeken op
+   de grond dat hij niet of niet op de juiste wijze als kiezer is
+   geregistreerd.
 
   Artikel D 6
 
-   Burgemeester en wethouders beslissen op het verzoek om herziening
-   uiterlijk op de zevende dag na de ontvangst en brengen zo nodig de
-   gemeentelijke administratie hiermee in overeenstemming.
+   Op het verzoek om herziening wordt uiterlijk de zevende dag na ontvangst
+   beslist. Zo nodig wordt hiermee in overeenstemming gebracht:
+
+     a. de gemeentelijke administratie;
+
+     b. het register, bedoeld in artikel D 3, eerste lid;
+
+     c. het register, bedoeld in artikel D 3a.
 
   Artikel D 7
 
-   Burgemeester en wethouders maken hun beslissing onverwijld aan de
-   verzoeker bekend.
+   De beslissing wordt onverwijld aan de verzoeker bekendgemaakt.
 
   Artikel D 8
 
-   Burgemeester en wethouders van 's-Gravenhage verwijderen de naam van een
-   persoon die ingevolge artikel D 3, eerste lid, als kiezer is
-   geregistreerd, uit de registratie, indien aan hen omstandigheden bekend
-   worden op grond waarvan de desbetreffende persoon niet als kiezer behoort
-   te zijn geregistreerd. Zij maken de verwijdering onverwijld aan hem
-   bekend.
+   Burgemeester en wethouders van 's-Gravenhage, dan wel Onze Minister van
+   Binnenlandse Zaken en Koninkrijksrelaties, verwijderen een persoon uit het
+   register, bedoeld in artikel D 3, eerste lid, respectievelijk artikel D
+   3a, indien aan hen omstandigheden bekend worden op grond waarvan de
+   desbetreffende persoon niet als kiezer behoort te zijn geregistreerd. De
+   verwijdering wordt onverwijld aan deze persoon bekend gemaakt.
 
   Artikel D 9
 
      1. Titel 8.3 van de Algemene wet bestuursrecht is niet van toepassing
-       op beschikkingen als bedoeld in de artikelen D 3, achtste lid, D 6 en
+       op beschikkingen als bedoeld in de artikelen D 3b, vierde lid, D 6 en
        D 8.
 
      2. In afwijking van artikel 8:41, vijfde lid, van de Algemene wet
@@ -2164,14 +2184,14 @@
      3. Bij of krachtens algemene maatregel van bestuur kunnen nadere
        regels worden gesteld omtrent waarneming bij de verkiezingen.
 
-  Hoofdstuk K. Het stemmen in een andere gemeente met een kiezerspas
+  Hoofdstuk K. Het stemmen met een kiezerspas
 
   Artikel K 1
 
    Aan de kiezer wordt overeenkomstig de bepalingen van dit hoofdstuk op zijn
    verzoek toegestaan binnen het gebied van het orgaan waarvoor de verkiezing
    wordt gehouden, aan de stemming deel te nemen in een stembureau van zijn
-   keuze in een andere gemeente dan waar hij als kiezer is geregistreerd.
+   keuze.
 
   Artikel K 2
 
@@ -2180,18 +2200,14 @@
 
   Artikel K 3
 
-     1. De kiezer die van de in artikel K 1 bedoelde gelegenheid wenst
-       gebruik te maken, doet overeenkomstig het bepaalde in artikel K 6
-       schriftelijk, of overeenkomstig het bepaalde in artikel K 10
-       mondeling, het verzoek daartoe aan de burgemeester van de gemeente
-       waar hij op de dag van de kandidaatstelling als kiezer is
-       geregistreerd.
+     1. De kiezer richt zijn verzoek, schriftelijk of mondeling, aan de
+       burgemeester van de gemeente waar hij op de dag van de
+       kandidaatstelling als kiezer is geregistreerd.
 
-     2. De burgemeester brengt op de dag van de kandidaatstelling ter
-       openbare kennis dat uiterlijk op de in artikel K 6, eerste lid,
-       bedoelde dag schriftelijk, en binnen de in artikel K 10, eerste lid,
-       bedoelde termijn mondeling, een verzoek als in het eerste lid bedoeld
-       kan worden gedaan.
+     2. Het schriftelijk verzoek dient uiterlijk vijf dagen voor de
+       stemming te zijn ontvangen. Het mondeling verzoek wordt uiterlijk op
+       de dag voor de stemming om twaalf uur gedaan. De burgemeester brengt
+       deze termijnen op de dag van de kandidaatstelling ter openbare kennis.
 
   Artikel K 4
 
@@ -2204,87 +2220,66 @@
      3. Aan de kiezer wiens kiezerspas in het ongerede is geraakt, wordt
        geen nieuwe uitgereikt of verzonden.
 
+     4. Bij ministeriële regeling wordt voor de kiezerspas een model
+       vastgesteld.
+
   Artikel K 5 [Vervallen per 01-01-2010]
 
   Artikel K 6
 
-     1. Een schriftelijk verzoek aan de burgemeester als bedoeld in artikel
-       K 3, eerste lid, kan worden gedaan uiterlijk op de veertiende dag voor
-       de stemming. Indien de kiezer reeds een stempas heeft ontvangen, voegt
-       hij deze bij het verzoek.
+     1. Voor een schriftelijk verzoek wordt gebruik gemaakt van een
+       formulier dat bij de gemeente kosteloos verkrijgbaar is. Bij
+       ministeriële regeling wordt voor het formulier een model vastgesteld.
 
-     2. Voor het verzoek wordt gebruik gemaakt van een formulier dat ter
-       secretarie van elke gemeente kosteloos verkrijgbaar is.
+     2. Een mondeling verzoek geschiedt door de kiezer in persoon bij de
+       gemeente waar hij op de dag van de kandidaatstelling als kiezer is
+       geregistreerd.
 
-     3. Bij ministeriële regeling wordt voor het formulier een model
-       vastgesteld.
+     3. Indien de kiezer reeds een stempas heeft ontvangen, voegt hij deze
+       bij het schriftelijk verzoek, dan wel legt hij deze over bij het
+       mondeling verzoek.
 
   Artikel K 7
 
-   De kiezer die zijn werkelijke woonplaats buiten Nederland heeft, dient,
-   indien hij in een stembureau van zijn keuze met een kiezerspas wenst te
-   stemmen, gelijktijdig met het registratieverzoek, bedoeld in artikel D 3,
-   daartoe een schriftelijk verzoek in bij de burgemeester van 's-Gravenhage.
-   Voor het verzoekschrift wordt gebruik gemaakt van een formulier dat is
-   opgenomen in het in artikel D 3, negende lid, bedoelde formulier.
+     1. De kiezer die zijn werkelijke woonplaats buiten Nederland heeft en
+       met een kiezerspas wenst te stemmen, voegt een verzoek daartoe bij het
+       registratieverzoek, bedoeld in artikel D 3 of artikel D 3a.
+
+     2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties beslist
+       op de verzoeken, ingediend bij de vertegenwoordiger van Nederland in
+       Aruba, Curaçao of Sint Maarten.
+
+     3. Voor het verzoekschrift wordt gebruik gemaakt van een formulier dat
+       is opgenomen in de in artikel D 3b, zesde lid, bedoelde formulieren.
 
   Artikel K 8
 
-     1. Zo spoedig mogelijk na ontvangst van het verzoek wordt door de
-       burgemeester of de door hem daartoe aangewezen ambtenaar een
-       beslissing genomen.
+     1. Op het schriftelijk verzoek wordt zo spoedig mogelijk beslist. Op
+       het mondeling verzoek wordt terstond beslist.
 
      2. Het verzoek wordt slechts afgewezen, indien de verzoeker op de dag
        van de kandidaatstelling niet als kiezer is geregistreerd, hem
        overeenkomstig paragraaf 2 van hoofdstuk L is toegestaan bij volmacht
        te stemmen, of hem is toegestaan per brief te stemmen.
 
-     3. Indien het verzoek niet in verdere behandeling kan worden genomen
-       of moet worden afgewezen, wordt de reden hiervan op het verzoekschrift
-       vermeld, waarna dit onverwijld aan de verzoeker wordt teruggezonden.
+     3. Indien het verzoek niet in verdere behandeling wordt genomen of
+       wordt afgewezen, wordt de beslissing met opgave van redenen
+       schriftelijk aan de verzoeker medegedeeld.
 
      4. Artikel D 9 is van overeenkomstige toepassing op een beschikking
        als bedoeld in dit artikel.
 
-  Artikel K 9
+  Artikel K 9 [Vervallen per 17-10-2013]
 
-   De beslissing tot inwilliging van het verzoek wordt vermeld op de stempas
-   van de verzoeker met gebruikmaking van het op die pas daartoe voorkomend
-   formulier.
-
-  Artikel K 10
-
-     1. Een mondeling verzoek als bedoeld in artikel K 3, eerste lid, kan
-       geschieden na ontvangst van de stempas, doch uiterlijk op de vijfde
-       dag voor de stemming, door de kiezer in persoon ter secretarie van de
-       gemeente waar hij op de dag van de kandidaatstelling als kiezer is
-       geregistreerd.
-
-     2. De kiezer legt bij het verzoek de hem ingevolge artikel J 7
-       toegezonden of ingevolge artikel J 8 uitgereikte stempas over.
-
-     3. Op een verzoek als in het eerste lid bedoeld, wordt door de
-       burgemeester of de door hem daartoe aangewezen ambtenaar terstond een
-       beslissing genomen.
-
-     4. Het verzoek wordt slechts afgewezen, indien de verzoeker op de dag
-       van de kandidaatstelling niet als kiezer is geregistreerd, hem
-       overeenkomstig paragraaf 2 van hoofdstuk L is toegestaan bij volmacht
-       te stemmen of hem is toegestaan per brief te stemmen.
-
-     5. De beslissing tot inwilliging van het verzoek wordt op de stempas
-       vermeld met gebruikmaking van het op die pas daartoe voorkomend
-       formulier.
+  Artikel K 10 [Vervallen per 17-10-2013]
 
   Artikel K 11
 
-     1. Bij de stemming overhandigt de kiezer de kiezerspas aan de
+     1. Bij de stemming overhandigt de kiezer het in artikel J 24, eerste
+       lid, onder a, genoemde identiteitsdocument, en de kiezerspas aan de
        voorzitter van het stembureau.
 
-     2. Het tweede lid van het stembureau houdt door op de kiezerspas zijn
-       paraaf te plaatsen aantekening dat de kiezer zich heeft aangemeld.
-
-     3. Artikel J 25, tweede tot en met elfde lid, is van overeenkomstige
+     2. Artikel J 25, tweede tot en met elfde lid, is van overeenkomstige
        toepassing.
 
   Artikel K 12 [Vervallen per 01-01-2010]
@@ -2387,12 +2382,16 @@
 
   Artikel L 9
 
-   De kiezer die zijn werkelijke woonplaats buiten Nederland heeft, dient,
-   indien hij bij volmacht wenst te stemmen, gelijktijdig met het
-   registratieverzoek, bedoeld in artikel D 3, daartoe een schriftelijk
-   verzoek in bij de burgemeester van 's-Gravenhage. Voor het verzoekschrift
-   wordt gebruik gemaakt van een formulier dat is opgenomen in het in artikel
-   D 3, negende lid, bedoelde formulier.
+     1. De kiezer die zijn werkelijke woonplaats buiten Nederland heeft en
+       bij volmacht wenst te stemmen, voegt een verzoek daartoe bij het
+       registratieverzoek, bedoeld in artikel D 3 of artikel D 3a.
+
+     2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties beslist
+       op de verzoeken, ingediend bij de vertegenwoordiger van Nederland in
+       Aruba, Curaçao of Sint Maarten.
+
+     3. Voor het verzoekschrift wordt gebruik gemaakt van een formulier dat
+       is opgenomen in de in artikel D 3b, zesde lid, bedoelde formulieren.
 
   Artikel L 10
 
@@ -2436,7 +2435,8 @@
 
   Artikel L 13
 
-   De burgemeester doet het volmachtbewijs aan de gemachtigde toekomen.
+   De burgemeester, respectievelijk Onze Minister van Binnenlandse Zaken en
+   Koninkrijksrelaties, doet het volmachtbewijs aan de gemachtigde toekomen.
 
   § 3. Het verlenen van volmacht door overdracht van de stempas aan een andere
   kiezer
@@ -2474,17 +2474,15 @@
 
   Hoofdstuk M. Het stemmen per brief
 
-  § 1. Algemene bepalingen; briefstembureaus in de gemeente 's-Gravenhage
+  § 1. Algemene bepalingen
 
   Artikel M 1
 
    Bij de verkiezing van de leden van de Tweede Kamer wordt aan de kiezer die
    op de dag van de kandidaatstelling zijn werkelijke woonplaats buiten
-   Nederland heeft, dan wel op de dag der stemming wegens zijn beroep of
-   werkzaamheden of wegens het beroep of de werkzaamheden van zijn
-   echtgenoot, geregistreerde partner, levensgezel of ouder, buiten Nederland
-   zal verblijven, overeenkomstig het bepaalde in dit hoofdstuk op zijn
-   verzoek toegestaan per brief te stemmen.
+   Nederland heeft, dan wel op de dag der stemming buiten Nederland zal
+   verblijven, overeenkomstig het bepaalde in dit hoofdstuk op zijn verzoek
+   toegestaan per brief te stemmen.
 
   Artikel M 2
 
@@ -2500,46 +2498,47 @@
 
   Artikel M 3
 
-     1. De kiezer die zijn werkelijke woonplaats buiten Nederland heeft,
-       dient, indien hij per brief wenst te stemmen, gelijktijdig met het
-       registratieverzoek, bedoeld in artikel D 3, daartoe een schriftelijk
-       verzoek in bij de burgemeester van 's-Gravenhage. De overige kiezers
-       dienen een zodanig verzoekschrift uiterlijk op de achtentwintigste dag
-       voor de stemming in bij de burgemeester van de gemeente waar zij als
-       kiezer zijn geregistreerd. In het verzoekschrift geeft de kiezer een
-       adres op buiten Nederland waar hij de stukken, bedoeld in artikel M 6,
-       eerste lid, wenst te ontvangen.
+     1. De kiezer die zijn werkelijke woonplaats buiten Nederland heeft en
+       per brief wenst te stemmen, voegt een verzoek daartoe bij het
+       registratieverzoek, bedoeld in artikel D 3 of artikel D 3a. De overige
+       kiezers dienen een zodanig verzoekschrift uiterlijk op de
+       achtentwintigste dag voor de stemming in bij de burgemeester van de
+       gemeente waar zij als kiezer zijn geregistreerd.
 
-     2. Voor het verzoekschrift, bedoeld in het eerste lid, eerste volzin,
-       wordt gebruik gemaakt van een formulier dat is opgenomen in het in
-       artikel D 3, negende lid, bedoelde formulier.
+     2. In het verzoekschrift geeft de kiezer een adres op buiten Nederland
+       waar hij de stukken, bedoeld in artikel M 6, eerste lid, wenst te
+       ontvangen.
 
-     3. Voor het verzoekschrift, bedoeld in het eerste lid, tweede volzin,
-       wordt gebruik gemaakt van een formulier dat ter secretarie van elke
-       gemeente, kosteloos, verkrijgbaar is. Bij ministeriële regeling wordt
-       voor het formulier een model vastgesteld.
+     3. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties beslist
+       op de verzoeken, ingediend bij de vertegenwoordiger van Nederland in
+       Aruba, Curaçao of Sint Maarten.
+
+     4. Voor het verzoekschrift, bedoeld in het eerste lid, eerste zin,
+       wordt gebruik gemaakt van een formulier dat is opgenomen in de in
+       artikel D 3b, zesde lid, bedoelde formulieren.
+
+     5. Voor het verzoekschrift, bedoeld in het eerste lid, tweede zin,
+       wordt gebruik gemaakt van een formulier dat bij elke gemeente
+       kosteloos verkrijgbaar is. Bij ministeriële regeling wordt voor het
+       formulier een model vastgesteld.
 
   Artikel M 4
 
-     1. Zo spoedig mogelijk na ontvangst van het verzoek wordt door de
-       burgemeester of de door hem daartoe aangewezen ambtenaar een
-       beslissing genomen.
+     1. Op het verzoek wordt zo spoedig mogelijk beslist.
 
      2. Het verzoek wordt slechts afgewezen, indien gebleken is dat de
        verzoeker niet tot de in artikel M 1 bedoelde kiezers behoort.
 
-     3. Indien het verzoek niet in verdere behandeling kan worden genomen
-       of moet worden afgewezen, wordt de reden daarvan vermeld op het
-       verzoekschrift, dat daarna onverwijld wordt teruggezonden.
+     3. Indien het verzoek niet in verdere behandeling wordt genomen of
+       wordt afgewezen, wordt de beslissing met opgave van redenen
+       schriftelijk aan de verzoeker medegedeeld.
 
-     4. Bij inwilliging van het verzoek tekent de burgemeester of de door
-       hem daartoe aangewezen ambtenaar dit op het verzoekschrift aan. Indien
-       het een verzoekschrift als bedoeld in artikel M 3, eerste lid, tweede
-       volzin, betreft en het verzoekschrift afkomstig is van een persoon die
-       als kiezer in een andere gemeente in Nederland is geregistreerd dan de
-       gemeente 's-Gravenhage, zendt de burgemeester of de door hem daartoe
-       aangewezen ambtenaar het ingewilligde verzoekschrift zo spoedig
-       mogelijk door naar de burgemeester van 's-Gravenhage.
+     4. Indien het een verzoekschrift als bedoeld in artikel M 3, eerste
+       lid, tweede volzin, betreft en het verzoekschrift afkomstig is van een
+       persoon die als kiezer in een andere gemeente in Nederland is
+       geregistreerd dan de gemeente 's-Gravenhage, zendt de burgemeester het
+       ingewilligde verzoekschrift zo spoedig mogelijk door naar de
+       burgemeester van 's-Gravenhage.
 
      5. Artikel D 9 is van overeenkomstige toepassing op een beschikking
        als bedoeld in dit artikel.
@@ -2548,13 +2547,15 @@
 
   Artikel M 6
 
-     1. Door de burgemeester van 's-Gravenhage worden vervolgens op bij
-       algemene maatregel van bestuur te bepalen wijze zo spoedig mogelijk
-       aan de kiezer gezonden:
+     1. De burgemeester van 's-Gravenhage zendt de kiezers, bedoeld in de
+       artikelen D 3 en M 3, eerste lid, tweede zin, en de vertegenwoordiger
+       van Nederland in Aruba, Curaçao en Sint Maarten zendt de kiezers,
+       bedoeld in artikel D 3a, zo spoedig mogelijk op bij algemene maatregel
+       van bestuur te bepalen wijze:
 
                a. een stembiljet;
 
-               b. een aan de burgemeester geadresseerde retourenveloppe;
+               b. een geadresseerde retourenveloppe;
 
                c. het briefstembewijs, bevattende een door de kiezer te
             ondertekenen verklaring dat hij het stembiljet persoonlijk heeft
@@ -2567,7 +2568,13 @@
      2. Bij ministeriële regeling worden voor de stukken, bedoeld in het
        eerste lid, onder b, c ,d en e, modellen vastgesteld.
 
-  Artikel M 6a [Treedt in werking per 17-10-2013]
+     3. De vertegenwoordiger van Nederland in Aruba, Curaçao en Sint
+       Maarten draagt er zorg voor dat de stembiljetten alsmede de
+       formulieren voor de processen-verbaal voor de briefstembureaus in
+       Aruba, Curaçao, respectievelijk Sint Maarten tijdig in gereedheid
+       worden gebracht.
+
+  Artikel M 6a
 
      1. De burgemeester van 's-Gravenhage zet op de retourenveloppe het
        adres van:
@@ -2589,7 +2596,8 @@
   Artikel M 7
 
      1. De kiezer stemt door op het hem toegezonden stembiljet een wit
-       stipje, geplaatst vóór de kandidaat van zijn keuze, rood te maken.
+       stipje, geplaatst vóór de kandidaat van zijn keuze, rood, blauw, zwart
+       of groen te maken.
 
      2. Daarna vouwt hij het stembiljet dicht op zodanige wijze dat de
        namen van de kandidaten niet zichtbaar zijn en doet hij het stembiljet
@@ -2599,16 +2607,24 @@
        hij het stembiljet persoonlijk heeft ingevuld.
 
      4. Vervolgens doet hij het briefstembewijs en de enveloppe met het
-       stembiljet in de bijbehorende retourenveloppe en zendt hij deze
-       gesloten naar de burgemeester van 's-Gravenhage dan wel naar het hoofd
-       van de consulaire post waaronder de woon- en verblijfplaats van
-       verzoeker ressorteert, die voor spoedige doorzending naar de
-       burgemeester van 's-Gravenhage zorg draagt.
+       stembiljet in de bijbehorende retourenveloppe en retourneert hij deze
+       gesloten naar het adres dat op de retourenveloppe staat. De kiezer
+       draagt er zorg voor dat de retourenveloppe voldoende is gefrankeerd.
 
-     5. De kiezer draagt er zorg voor dat de retourenveloppe voldoende is
-       gefrankeerd.
+     5. Indien de retourenveloppe is geadresseerd aan de burgemeester van
+       's-Gravenhage, kan de kiezer de retourenveloppe doen toekomen aan het
+       hoofd van de consulaire post waaronder de woon- en verblijfplaats van
+       de kiezer ressorteert. Het hoofd van de consulaire post draagt zorg
+       voor spoedige doorzending naar de burgemeester van 's-Gravenhage.
 
-  Artikel M 7a [Treedt in werking per 17-10-2013]
+     6. Indien de retourenveloppe is geadresseerd aan de vertegenwoordiger
+       van Nederland in Aruba, Curaçao of Sint Maarten, kan de kiezer de
+       retourenveloppe inleveren bij een of meer locaties die zijn aangewezen
+       door deze vertegenwoordiger. De vertegenwoordiger maakt deze locaties
+       bekend in de handleiding voor de kiezer, bedoeld in artikel M 6,
+       eerste lid, onderdeel e.
+
+  Artikel M 7a
 
    Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met
    betrekking tot het stemmen per brief.
@@ -5170,11 +5186,17 @@
 
   Artikel Y 5a
 
-   De Nederlander die op de dag van de kandidaatstelling zijn werkelijke
-   woonplaats heeft in Aruba, Curaçao of Sint Maarten dient het verzoek tot
-   registratie, bedoeld in artikel D 3, eerste lid, in bij de
-   vertegenwoordiger van Nederland in Aruba, Curaçao of Sint Maarten of bij
-   burgemeester en wethouders van 's-Gravenhage.
+     1. In artikel D 3a, eerste lid, wordt in plaats van «personen, bedoeld
+       in artikel B 1, tweede lid, » gelezen: personen, bedoeld in artikel Y
+       3, onderdeel a, die hun werkelijke woonplaats hebben in Aruba, Curaçao
+       of Sint Maarten.
+
+     2. Opname in de bestanden, bedoeld in artikel Y 2 juncto artikel D 3c,
+       eerste en tweede lid, geschiedt tevens indien een persoon
+       kiesgerechtigd is voor de verkiezing van de leden van het Europees
+       Parlement en heeft verzocht tot registratie van zijn
+       kiesgerechtigdheid voor de verkiezing van de leden van de Tweede
+       Kamer.
 
   Artikel Y 6
 
@@ -5186,9 +5208,9 @@
 
      2. De in het eerste lid bedoelde verklaring wordt gelijktijdig
        ingediend met het in artikel D 3, eerste lid, bedoelde verzoek. Zij
-       maakt deel uit van het in artikel D 3, negende lid, bedoelde
-       formulier. Bij ministeriële regeling wordt de formulering van de
-       verklaring vastgesteld.
+       maakt deel uit van het in artikel D 3b, zesde lid, bedoelde formulier.
+       Bij ministeriële regeling wordt de formulering van de verklaring
+       vastgesteld.
 
      3. Burgemeester en wethouders van 's-Gravenhage wijzen een verzoek als
        bedoeld in artikel D 3, eerste lid, af indien zij van de
