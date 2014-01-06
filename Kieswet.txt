@@ -1,4 +1,4 @@
-   (Tekst geldend op: 01-12-2013)
+   (Tekst geldend op: 06-01-2014)
 
    --------------------------------------------------------------------------
 
@@ -145,8 +145,8 @@
        gemeente verstaat deze wet hen die onderscheidenlijk in Nederland, in
        de provincie en in de gemeente werkelijke woonplaats hebben.
 
-     2. Zij die als ingezetene met een adres zijn ingeschreven in de
-       basisadministratie persoonsgegevens van een gemeente, worden voor de
+     2. Zij die als ingezetene met een adres in een gemeente zijn
+       ingeschreven in de basisregistratie personen, worden voor de
        toepassing van deze wet, behoudens bewijs van het tegendeel, geacht
        werkelijke woonplaats te hebben in die gemeente.
 
@@ -158,14 +158,15 @@
 
      2. Onze Minister van Justitie draagt zorg, dat van elke
        onherroepelijke rechterlijke uitspraak als bedoeld in het eerste lid
-       zo spoedig mogelijk mededeling wordt gedaan aan de burgemeester van de
-       gemeente waar de betrokkene in de basisadministratie persoonsgegevens
-       is ingeschreven of, als het een persoon betreft die niet in een
-       basisadministratie persoonsgegevens is ingeschreven, aan de
-       burgemeester van de gemeente 's-Gravenhage en Onze Minister van
-       Binnenlandse Zaken en Koninkrijksrelaties, met vermelding van naam,
-       voorletters of voornamen, adres en geboortedatum alsmede van de duur
-       van de uitsluiting.
+       zo spoedig mogelijk mededeling wordt gedaan. Indien de betrokkene als
+       ingezetene is ingeschreven in de basisregistratie personen wordt
+       mededeling gedaan aan de burgemeester van de gemeente waar betrokkene
+       volgens de basisregistratie zijn adres heeft. In andere gevallen wordt
+       mededeling gedaan aan de burgemeester van de gemeente 's-Gravenhage en
+       aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties. In de
+       mededeling worden naam, voorletters of voornamen, adres en
+       geboortedatum van de betrokkene alsmede de duur van de uitsluiting
+       vermeld.
 
      3. De burgemeester stelt na ontvangst van de in het tweede lid
        bedoelde mededeling betrokkene in kennis van zijn uitsluiting en de
@@ -255,7 +256,7 @@
   Artikel D 1
 
    Burgemeester en wethouders registreren de kiesgerechtigdheid van de
-   ingezetenen van de gemeente in de gemeentelijke administratie.
+   ingezetenen van de gemeente.
 
   Artikel D 2 [Vervallen per 01-01-1998]
 
@@ -364,13 +365,8 @@
   Artikel D 6
 
    Op het verzoek om herziening wordt uiterlijk de zevende dag na ontvangst
-   beslist. Zo nodig wordt hiermee in overeenstemming gebracht:
-
-     a. de gemeentelijke administratie;
-
-     b. het register, bedoeld in artikel D 3, eerste lid;
-
-     c. het register, bedoeld in artikel D 3a.
+   beslist. Zo nodig worden de registers bedoeld in de artikelen D 3, eerste
+   lid, en D 3a, hiermee in overeenstemming gebracht.
 
   Artikel D 7
 
@@ -4423,9 +4419,8 @@
 
      2. Tenzij de benoemde op het tijdstip van benoeming reeds lid van het
        vertegenwoordigend orgaan was, legt hij tevens een gewaarmerkt
-       afschrift van gegevens uit de basisadministratie persoonsgegevens van
-       de gemeente waar hij als ingezetene is ingeschreven over, waaruit zijn
-       woonplaats, datum en plaats van de geboorte, alsmede, indien het
+       afschrift van gegevens uit de basisregistratie personen over, waaruit
+       zijn woonplaats, datum en plaats van de geboorte, alsmede, indien het
        betreft een benoeming tot lid van de Tweede of Eerste Kamer of
        provinciale staten, zijn Nederlanderschap blijken.
 
@@ -4437,10 +4432,9 @@
 
      4. Indien een tot lid van de gemeenteraad benoemde persoon geen
        onderdaan is van een lidstaat van de Europese Unie, legt hij een
-       gewaarmerkt afschrift van gegevens uit de basisadministratie
-       persoonsgegevens van de gemeente waar hij als ingezetene is
-       ingeschreven over, waaruit blijkt of hij voldoet aan de vereisten,
-       bedoeld in artikel 10, tweede lid, van de Gemeentewet.
+       gewaarmerkt afschrift van gegevens uit de basisregistratie personen
+       over, waaruit blijkt of hij voldoet aan de vereisten, bedoeld in
+       artikel 10, tweede lid, van de Gemeentewet.
 
   Artikel V 4
 
@@ -5367,8 +5361,8 @@
 
      1. Burgemeester en wethouders registreren de kiesgerechtigdheid van de
        in artikel Y 3, onder b, bedoelde personen die ingezetene zijn van de
-       gemeente in de gemeentelijke administratie, indien zij daartoe een
-       schriftelijk verzoek hebben ingediend.
+       gemeente, indien zij daartoe een schriftelijk verzoek hebben
+       ingediend.
 
      2. Bij het verzoek vermeldt verzoeker zijn adres van verblijf en, voor
        zover van toepassing, de plaats in de lidstaat waarvan hij onderdaan
@@ -5426,8 +5420,7 @@
 
      2. Burgemeester en wethouders schrappen de registratie van de
        kiesgerechtigdheid van de als kiezer geregistreerde niet-Nederlander
-       die onderdaan is van een andere lidstaat in de gemeentelijke
-       administratie:
+       die onderdaan is van een andere lidstaat:
 
                a. op verzoek van betrokkene;
 
@@ -5761,9 +5754,9 @@
    De benoemde die woonachtig is in het openbaar lichaam waar hij zich
    kandidaat stelt of de gemachtigde van de benoemde die buiten het openbaar
    lichaam waar hij zich kandidaat stelt maar binnen Nederland woonplaats
-   heeft, legt het afschrift van gegevens uit de basisadministratie
-   persoonsgegevens, bedoeld in artikel V 3, tweede lid, over, waaruit tevens
-   het Nederlanderschap van de benoemde blijkt.
+   heeft, legt het afschrift van gegevens uit de basisregistratie personen,
+   bedoeld in artikel V 3, tweede lid, over, waaruit tevens het
+   Nederlanderschap van de benoemde blijkt.
 
   Artikel Ya 20
 
