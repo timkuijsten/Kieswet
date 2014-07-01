@@ -1,4 +1,4 @@
-   (Tekst geldend op: 03-06-2014)
+   (Tekst geldend op: 01-07-2014)
 
    --------------------------------------------------------------------------
 
@@ -21,27 +21,41 @@
 
   Afdeling I. Algemene bepalingen
 
-  Hoofdstuk A. De Kiesraad
+  Hoofdstuk A. Inleidende bepalingen
+
+  § 1. Begripsbepalingen
 
   Artikel A 1
 
-   Er is een Kiesraad, gevestigd te 's-Gravenhage.
+   In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+
+     algemeen bestuur: vertegenwoordigend orgaan van een waterschap voor
+       zover het leden betreft van de categorie, bedoeld in artikel 12,
+       tweede lid, onderdeel a, van de Waterschapswet;
+
+     * dagelijks bestuur: dagelijks bestuur van een waterschap.
+
+  § 2. De Kiesraad
 
   Artikel A 2
 
-     1. De Kiesraad treedt op als centraal stembureau in de gevallen waarin
+   Er is een Kiesraad, gevestigd te 's-Gravenhage.
+
+  Artikel A 3
+
+     * 1. De Kiesraad treedt op als centraal stembureau in de gevallen waarin
        de wet dat voorschrijft.
 
      2. De Kiesraad heeft voorts tot taak de regering en de beide kamers
        der Staten-Generaal van advies te dienen in uitvoeringstechnische
        aangelegenheden die het kiesrecht of de verkiezingen betreffen.
 
-  Artikel A 3
+  Artikel A 4
 
    De Kaderwet zelfstandige bestuursorganen is van toepassing op de Kiesraad,
    met uitzondering van de artikelen 12, 21 en 22.
 
-  Artikel A 4
+  Artikel A 5
 
      1. De Kiesraad bestaat uit een voorzitter en zes andere leden. De
        Kiesraad kan uit de leden ondervoorzitters aanwijzen.
@@ -62,7 +76,7 @@
        voordracht voor schorsing of ontslag wordt niet gedaan dan nadat de
        Kiesraad daarover is gehoord.
 
-  Artikel A 5
+  Artikel A 6
 
      1. De artikelen 15, eerste, derde, vierde en vijfde lid, en 16 van de
        Kaderwet adviescolleges zijn van toepassing op de Kiesraad.
@@ -70,16 +84,9 @@
      2. De artikelen 21 en 29 van de Kaderwet adviescolleges zijn niet van
        toepassing op de Kiesraad.
 
-  Artikel A 6 [Vervallen per 01-01-1997]
-
-  Artikel A 7 [Vervallen per 01-01-1997]
-
-  Artikel A 8 [Vervallen per 01-01-1997]
-
-  Artikel A 9 [Vervallen per 01-01-1997]
-
   Afdeling II. De verkiezing van de leden van de Tweede Kamer der
-  Staten-Generaal, van provinciale staten en van de gemeenteraden
+  Staten-Generaal, van provinciale staten, van de algemene besturen en van de
+  gemeenteraden
 
   Hoofdstuk B. Het kiesrecht
 
@@ -110,7 +117,7 @@
    Nederlander zijn en op de dag van de stemming de leeftijd van achttien
    jaar hebben bereikt.
 
-  Artikel B 2a [Treedt in werking per 01-07-2014]
+  Artikel B 2a
 
      1. De leden van het algemeen bestuur worden gekozen door degenen die
        op de dag van de kandidaatstelling ingezetenen zijn van het waterschap
@@ -151,14 +158,20 @@
 
   Artikel B 4
 
-     1. Onder ingezetenen van Nederland, van de provincie en van de
-       gemeente verstaat deze wet hen die onderscheidenlijk in Nederland, in
-       de provincie en in de gemeente werkelijke woonplaats hebben.
+     1. Onder ingezetenen van Nederland, van de provincie, van het
+       waterschap en van de gemeente verstaat deze wet hen die
+       onderscheidenlijk in Nederland, in de provincie, in het waterschap en
+       in de gemeente werkelijke woonplaats hebben.
 
      2. Zij die als ingezetene met een adres in een gemeente zijn
        ingeschreven in de basisregistratie personen, worden voor de
        toepassing van deze wet, behoudens bewijs van het tegendeel, geacht
        werkelijke woonplaats te hebben in die gemeente.
+
+     3. Zij die als ingezetene met een adres zijn ingeschreven in de
+       basisregistratie personen, worden voor de toepassing van deze wet,
+       behoudens bewijs van het tegendeel, geacht werkelijke woonplaats te
+       hebben in het waterschap waaronder dat adres valt.
 
   Artikel B 5
 
@@ -202,7 +215,8 @@
        bedoelde personen.
 
   Hoofdstuk C. De zittingsduur van de leden van de Tweede Kamer der
-  Staten-Generaal, van provinciale staten en van de gemeenteraden
+  Staten-Generaal, van provinciale staten, van de algemene besturen en van de
+  gemeenteraden
 
   Artikel C 1
 
@@ -249,8 +263,8 @@
 
   Artikel C 4
 
-     1. De leden van provinciale staten onderscheidenlijk gemeenteraden
-       worden gekozen voor vier jaren.
+     1. De leden van provinciale staten, de algemene besturen,
+       onderscheidenlijk gemeenteraden worden gekozen voor vier jaren.
 
      2. Zij treden tegelijk af met ingang van de donderdag in de periode
        van 23 tot en met 29 maart.
@@ -430,7 +444,10 @@
        Provinciale staten kunnen voor de verkiezing van de leden van
        provinciale staten deze kieskringen in meer kieskringen verdelen.
 
-     3. Voor de verkiezing van de leden van de gemeenteraad vormt elke
+     3. Voor de verkiezing van de leden van het algemeen bestuur vormt elk
+       waterschap één kieskring.
+
+     4. Voor de verkiezing van de leden van de gemeenteraad vormt elke
        gemeente één kieskring.
 
   Artikel E 2 [Vervallen per 01-01-2010]
@@ -442,7 +459,11 @@
      1. Burgemeester en wethouders stellen één of meer stembureaus in de
        gemeente in.
 
-     2. Een stembureau bestaat uit een bij algemene maatregel van bestuur
+     2. De stembureaus voor de verkiezing van de leden van provinciale
+       staten zijn tevens de stembureaus voor de verkiezing van de leden van
+       het algemeen bestuur.
+
+     3. Een stembureau bestaat uit een bij algemene maatregel van bestuur
        vast te stellen aantal leden, van wie er één voorzitter is.
 
   Artikel E 4
@@ -509,6 +530,19 @@
        andere leden, alsmede drie plaatsvervangende leden, worden benoemd en
        ontslagen door gedeputeerde staten.
 
+  Artikel E 6a
+
+     1. Voor de verkiezing van de leden van het algemeen bestuur wordt een
+       hoofdstembureau ingesteld. Het is gevestigd in de gemeente, daartoe
+       aangewezen door het vertegenwoordigend orgaan van het waterschap.
+
+     2. Het hoofdstembureau bestaat uit vijf leden, van wie er één
+       voorzitter en één plaatsvervangend voorzitter is.
+
+     3. Voorzitter is de voorzitter van het waterschap. De plaatsvervangend
+       voorzitter en de andere leden, alsmede drie plaatsvervangende leden,
+       worden benoemd en ontslagen door het dagelijks bestuur.
+
   Artikel E 7
 
      1. Voor de verkiezing van de leden van de gemeenteraad wordt een
@@ -522,15 +556,20 @@
 
   Artikel E 8
 
-   De in de artikelen E 5, E 6 en E 7 bedoelde benoemingen geschieden voor
-   vier kalenderjaren. Degene die ter vervulling van een opengevallen plaats
-   is benoemd, treedt af op het tijdstip waarop degene in wiens plaats hij is
-   benoemd, zou hebben moeten aftreden.
+   De in de artikelen E 5, E 6, E 6a en E 7 bedoelde benoemingen geschieden
+   voor vier kalenderjaren. Degene die ter vervulling van een opengevallen
+   plaats is benoemd, treedt af op het tijdstip waarop degene in wiens plaats
+   hij is benoemd, zou hebben moeten aftreden.
 
   Artikel E 9
 
-   Voor het houden van de zittingen van het hoofdstembureau wijzen
-   burgemeester en wethouders een geschikte ruimte aan.
+     1. Voor het houden van de zittingen van het hoofdstembureau wijzen
+       burgemeester en wethouders een geschikte ruimte aan.
+
+     2. In afwijking van het eerste lid wijst het dagelijks bestuur een
+       geschikte ruimte aan voor het houden van de zittingen van het
+       hoofdstembureau voor de verkiezing van de leden van het algemeen
+       bestuur.
 
   Artikel E 10
 
@@ -552,7 +591,10 @@
        vergadering van de staten wordt gehouden, tevens als centraal
        stembureau op.
 
-     4. Voor de verkiezing van de leden van de gemeenteraad treedt het
+     4. Voor de verkiezing van de leden van het algemeen bestuur treedt het
+       hoofdstembureau tevens als centraal stembureau op.
+
+     5. Voor de verkiezing van de leden van de gemeenteraad treedt het
        hoofdstembureau tevens als centraal stembureau op.
 
   Hoofdstuk F. Het tijdstip van de kandidaatstelling
@@ -560,10 +602,10 @@
   Artikel F 1
 
      1. De kandidaatstelling voor de verkiezing van de leden van de Tweede
-       Kamer, provinciale staten en de gemeenteraad vindt plaats op de
-       maandag in de periode van 30 januari tot en met 5 februari of, in een
-       schrikkeljaar, op de maandag in de periode van 31 januari tot en met
-       6 februari.
+       Kamer, provinciale staten, het algemeen bestuur en de gemeenteraad
+       vindt plaats op de maandag in de periode van 30 januari tot en met
+       5 februari of, in een schrikkeljaar, op de maandag in de periode van
+       31 januari tot en met 6 februari.
 
      2. In het geval, bedoeld in artikel C 3, eerste lid, vindt de
        kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer
@@ -669,11 +711,12 @@
             Kamer geen geldige kandidatenlijst is ingeleverd.
 
      8. Op de veertigste dag voor de kandidaatstelling voor de verkiezing
-       van de leden van provinciale staten of van de gemeenteraad, brengt het
-       centraal stembureau de door hem geregistreerde aanduidingen van
-       politieke groeperingen, voor zover de registratie daarvan
-       onherroepelijk is, alsmede de namen van de gemachtigden en hun
-       plaatsvervangers ter openbare kennis in de Staatscourant.
+       van de leden van provinciale staten, van het algemeen bestuur of van
+       de gemeenteraad, brengt het centraal stembureau de door hem
+       geregistreerde aanduidingen van politieke groeperingen, voor zover de
+       registratie daarvan onherroepelijk is, alsmede de namen van de
+       gemachtigden en hun plaatsvervangers ter openbare kennis in de
+       Staatscourant.
 
   Artikel G 2
 
@@ -770,7 +813,7 @@
        de gemachtigden en hun plaatsvervangers ter openbare kennis in de
        Staatscourant.
 
-  Artikel G 2a [Treedt in werking per 01-07-2014]
+  Artikel G 2a
 
      1. Een politieke groepering die een vereniging met volledige
        rechtsbevoegdheid of een stichting is, en waarvan de aanduiding niet
@@ -950,18 +993,18 @@
      1. Onverminderd het bepaalde in het tweede lid geldt een
        geregistreerde aanduiding die overeenkomstig het bepaalde in het
        achtste lid van artikel G 1 of G 2 ter openbare kennis is gebracht,
-       tevens voor de verkiezing van de leden van provinciale staten en van
-       de gemeenteraad, onderscheidenlijk voor de verkiezing van de leden van
-       de gemeenteraad.
+       tevens voor de verkiezing van de leden van provinciale staten, van het
+       algemeen bestuur en van de gemeenteraad, onderscheidenlijk voor de
+       verkiezing van de leden van de gemeenteraad.
 
      2. Het centraal stembureau voor de verkiezing van de leden van
-       provinciale staten, onderscheidenlijk de gemeenteraad, bepaalt, dat de
-       in het eerste lid bedoelde doorwerking van de registratie voor die
-       verkiezing niet plaatsvindt, indien de geregistreerde aanduiding
-       geheel of in hoofdzaak overeenstemt met een reeds op de voet van
-       artikel G 2, onderscheidenlijk artikel G 3, geregistreerde aanduiding
-       van een andere politieke groepering, en daardoor verwarring te duchten
-       is.
+       provinciale staten, het algemeen bestuur, onderscheidenlijk de
+       gemeenteraad, bepaalt, dat de in het eerste lid bedoelde doorwerking
+       van de registratie voor die verkiezing niet plaatsvindt, indien de
+       geregistreerde aanduiding geheel of in hoofdzaak overeenstemt met een
+       reeds op de voet van artikel G 2, artikel G 2a, onderscheidenlijk
+       artikel G 3, geregistreerde aanduiding van een andere politieke
+       groepering, en daardoor verwarring te duchten is.
 
      3. Een beschikking als bedoeld in het tweede lid wordt genomen
        uiterlijk op de veertiende dag na de dagtekening van de Staatscourant
@@ -979,9 +1022,9 @@
             ingediend uiterlijk op de zesde dag na de dagtekening van de
             Staatscourant waarin die beschikking is medegedeeld;
 
-               b. een beschikking als bedoeld in artikel G 3 ingediend uiterlijk
-            op de zesde dag na de dagtekening van de openbare kennisgeving,
-            bedoeld in het vijfde lid van dat artikel;
+               b. een beschikking als bedoeld in de artikelen G 2a en G 3
+            ingediend uiterlijk op de zesde dag na de dagtekening van de
+            openbare kennisgeving, bedoeld in het vijfde lid van dat artikel;
 
                c. een beschikking als bedoeld in artikel G 4 ingediend uiterlijk
             op de zesde dag na de dagtekening waarop die beschikking is
@@ -1032,11 +1075,11 @@
        zijn.
 
      2. Aan degene die de lijst inlevert, kan door de gemachtigde, bedoeld
-       in het derde lid van de artikelen G 1, G 2 of G 3, de bevoegdheid
-       worden verleend boven de lijst de aanduiding van de desbetreffende
-       groepering te plaatsen, zoals deze door het centraal stembureau is
-       geregistreerd. Een verklaring van de gemachtigde waaruit deze
-       bevoegdheid blijkt, wordt bij de lijst overgelegd.
+       in het derde lid van de artikelen G 1, G 2, G 2a of G 3, de
+       bevoegdheid worden verleend boven de lijst de aanduiding van de
+       desbetreffende groepering te plaatsen, zoals deze door het centraal
+       stembureau is geregistreerd. Een verklaring van de gemachtigde waaruit
+       deze bevoegdheid blijkt, wordt bij de lijst overgelegd.
 
      3. Degene die de lijst inlevert, is bevoegd daarboven een aanduiding
        te plaatsen, gevormd door samenvoeging van voor de desbetreffende
@@ -1155,12 +1198,13 @@
      2. De naam van eenzelfde kandidaat mag niet voorkomen op meer dan één
        van de lijsten welke voor eenzelfde kieskring zijn ingeleverd.
 
-     3. Indien voor de verkiezing van de leden van provinciale staten of de
-       gemeenteraad op een lijst de naam voorkomt van een kandidaat die geen
-       ingezetene is van de provincie, onderscheidenlijk de gemeente, dient
-       bij de lijst te worden overgelegd een door die kandidaat ondertekende
-       verklaring, waaruit blijkt, dat hij voornemens is zich bij benoeming
-       te vestigen in de provincie, onderscheidenlijk gemeente.
+     3. Indien voor de verkiezing van de leden van provinciale staten, de
+       leden van het algemeen bestuur of de gemeenteraad op een lijst de naam
+       voorkomt van een kandidaat die geen ingezetene is van de provincie,
+       het waterschap, onderscheidenlijk de gemeente, dient bij de lijst te
+       worden overgelegd een door die kandidaat ondertekende verklaring,
+       waaruit blijkt, dat hij voornemens is zich bij benoeming te vestigen
+       in de provincie, het waterschap, onderscheidenlijk de gemeente.
 
   Artikel H 8
 
@@ -1329,7 +1373,7 @@
        dat geval vervalt de waarborgsom aan de gemeente waar het centraal
        stembureau is gevestigd.
 
-  Artikel H 13a. [Treedt in werking per 01-07-2014]
+  Artikel H 13a.
 
      1. Indien het betreft de verkiezing van het algemeen bestuur, moet
        voor elke lijst een waarborgsom van EUR 225,- worden betaald aan het
@@ -1418,8 +1462,8 @@
 
                b. dat, indien zich het geval voordoet, bedoeld in artikel H 7,
             derde lid, de verklaring dat de kandidaat voornemens is zich bij
-            benoeming te vestigen in de provincie, onderscheidenlijk
-            gemeente, ontbreekt;
+            benoeming te vestigen in de provincie, het waterschap,
+            onderscheidenlijk de gemeente, ontbreekt;
 
                c. dat een kandidaat niet is vermeld overeenkomstig het bepaalde
             krachtens artikel H 8;
@@ -1540,18 +1584,20 @@
             verkiezing zal plaatshebben, niet de voor het zitting nemen in
             dat orgaan vereiste leeftijd bereikt;
 
-               e. die bij een verkiezing van de leden van provinciale staten of
-            van de gemeenteraad geen ingezetene is van de provincie,
-            onderscheidenlijk de gemeente, en ten aanzien van wie de
-            verklaring dat hij voornemens is zich bij benoeming te vestigen
-            in de provincie, onderscheidenlijk gemeente, ontbreekt;
+               e. die bij een verkiezing van de leden van provinciale staten,
+            van het algemeen bestuur of van de gemeenteraad geen ingezetene
+            is van de provincie, het waterschap onderscheidenlijk de
+            gemeente, en ten aanzien van wie de verklaring dat hij voornemens
+            is zich bij benoeming te vestigen in de provincie, het waterschap
+            onderscheidenlijk de gemeente, ontbreekt;
 
                f. die heeft verklaard dat hij voornemens is zich bij benoeming
-            te vestigen in de provincie, onderscheidenlijk gemeente, en ten
-            aanzien van wie blijkt dat hij tevens een zodanige verklaring
-            heeft afgelegd voor de verkiezing van de leden van de staten van
-            een andere provincie, onderscheidenlijk van de raad van een
-            andere gemeente;
+            te vestigen in de provincie, het waterschap, onderscheidenlijk de
+            gemeente, en ten aanzien van wie blijkt dat hij tevens een
+            zodanige verklaring heeft afgelegd voor de verkiezing van de
+            leden van de staten van een andere provincie, van het algemeen
+            bestuur van een ander waterschap, onderscheidenlijk van de raad
+            van een andere gemeente;
 
                g. die voorkomt op meer dan één van de lijsten die voor deze
             kieskring zijn ingeleverd;
@@ -1711,8 +1757,9 @@
        geschiedt de openbaarmaking in de Staatscourant.
 
      3. Indien het betreft de verkiezing van de leden van provinciale
-       staten of de gemeenteraad, geschiedt de openbaarmaking op de in de
-       provincie, onderscheidenlijk de gemeente, gebruikelijke wijze.
+       staten, het algemeen bestuur of de gemeenteraad, geschiedt de
+       openbaarmaking op de in de provincie, het waterschap,
+       onderscheidenlijk de gemeente, gebruikelijke wijze.
 
   Artikel I 16
 
@@ -1743,13 +1790,12 @@
        vermelding van hun nummers en, in voorkomend geval, de aanduidingen
        van de politieke groeperingen in de Staatscourant;
 
-       indien het betreft de verkiezing van de leden van provinciale staten
-       of de gemeenteraad, door de van de nummers en, in voorkomend geval, de
-       aanduidingen van de politieke groeperingen voorziene lijsten bij de
-       gemeente waar het centraal stembureau is gevestigd, onderscheidenlijk
-       bij de gemeente, voor een ieder ter inzage te leggen. Van de
-       terinzagelegging geschiedt tegelijk openbare kennisgeving door de
-       voorzitter van het centraal stembureau.
+       indien het betreft de verkiezing van de leden van provinciale staten,
+       het algemeen bestuur of de gemeenteraad, door de van de nummers en, in
+       voorkomend geval, de aanduidingen van de politieke groeperingen
+       voorziene lijsten bij het centraal stembureau, voor een ieder ter
+       inzage te leggen. Van de terinzagelegging geschiedt tegelijk openbare
+       kennisgeving door de voorzitter van het centraal stembureau.
 
   § 5. Slotbepalingen
 
@@ -1868,25 +1914,29 @@
 
   Artikel J 5
 
-   Behoudens in de gevallen, genoemd in de hoofdstukken K, L en M, neemt de
-   kiezer aan de stemming deel in een stemlokaal van zijn keuze in de
-   gemeente waar hij op de dag van de kandidaatstelling als kiezer is
-   geregistreerd.
+     1. Behoudens de gevallen, genoemd in de hoofdstukken K, L en M neemt
+       de kiezer deel aan de stemming in een stemlokaal van zijn keuze dat
+       ligt in de gemeente waar hij op de dag van de kandidaatstelling als
+       kiezer is geregistreerd en dat ligt in het gebied van het orgaan
+       waarvoor de verkiezing wordt gehouden.
+
+     2. Burgemeester en wethouders kunnen besluiten dat kiezers kunnen
+       stemmen in één of meer stemlokalen die liggen in de gemeente maar
+       buiten het gebied van het orgaan waarvoor de verkiezing wordt
+       gehouden.
 
   Artikel J 6
 
    De gemeenteraad kan bepalen dat tegelijk met de stemming in het stemlokaal
-   een andere, door de gemeenteraad uitgeschreven, stemming plaatsvindt. Bij
-   of krachtens algemene maatregel van bestuur worden voorschriften gegeven
-   met het oog op de combinatie van de stemmingen.
+   een andere, door de gemeenteraad uitgeschreven, stemming plaatsvindt.
 
-  Artikel J 6a [Treedt in werking per 01-07-2014]
+  Artikel J 6a
 
    De stemmingen voor de verkiezing van de leden van provinciale staten en de
    verkiezing van de leden van het algemeen bestuur vinden in dezelfde
    stemlokalen plaats.
 
-  Artikel J 6b [Treedt in werking per 01-07-2014]
+  Artikel J 6b
 
    Bij of krachtens algemene maatregel van bestuur worden voorschriften
    gegeven met het oog op de combinatie van stemmingen als bedoeld in de
@@ -2026,8 +2076,8 @@
 
   Artikel J 16
 
-     1. In het stemlokaal zijn geplaatst een tafel voor het stembureau, een
-       stembus en een of meer stemhokjes.
+     1. In het stemlokaal zijn geplaatst een tafel voor het stembureau en
+       een of meer stembussen en stemhokjes.
 
      2. De toegang tot de stemhokjes moet zichtbaar zijn voor het publiek.
 
@@ -2127,33 +2177,30 @@
        de voorzitter de stempas in en wordt de kiezer niet toegelaten tot de
        stemming.
 
-     5. Indien de stempas echt is, noemt de voorzitter vervolgens duidelijk
-       verstaanbaar het volgnummer dat vermeld is op de stempas.
+     5. Indien de stempas echt is, gaat het tweede lid van het stembureau
+       na of het volgnummer van de stempas voorkomt in het uittreksel van
+       ongeldige stempassen, bedoeld in artikel J 7a, tweede volzin. Indien
+       dat het geval is, neemt het tweede lid van het stembureau de stempas
+       in en wordt de kiezer niet toegelaten tot de stemming.
 
-     6. Het tweede lid van het stembureau gaat na of het volgnummer van de
-       stempas voorkomt in het uittreksel van ongeldige stempassen, bedoeld
-       in artikel J 7a, tweede volzin. Indien dat het geval is, neemt het
-       tweede lid van het stembureau de stempas in en wordt de kiezer niet
-       toegelaten tot de stemming.
-
-     7. Indien het volgnummer van de stempas niet voorkomt in het
+     6. Indien het volgnummer van de stempas niet voorkomt in het
        uittreksel van ongeldige stempassen, controleert de voorzitter
        vervolgens of de gegevens op het identiteitsdocument overeenkomen met
        de gegevens op de stempas. Indien de voorzitter constateert dat de
        gegevens niet overeenkomen, wordt de kiezer niet toegelaten tot de
        stemming.
 
-     8. Indien de kiezer beschikt over een geldig identiteitdocument en een
+     7. Indien de kiezer beschikt over een geldig identiteitdocument en een
        geldige stempas en de identiteit op beide documenten overeenkomt,
        neemt het tweede lid van het stembureau de stempas in en wordt de
        kiezer toegelaten tot de stemming.
 
-     9. Vervolgens overhandigt de voorzitter aan de kiezer een stembiljet.
+     8. Vervolgens overhandigt de voorzitter aan de kiezer een stembiljet.
 
-     10. De voorzitter houdt aantekening van het aantal ingenomen geldige
+     9. De voorzitter houdt aantekening van het aantal ingenomen geldige
        stempassen.
 
-     11. De ingevolge dit artikel ingenomen stempassen die niet echt of
+     10. De ingevolge dit artikel ingenomen stempassen die niet echt of
        ongeldig zijn, worden door het stembureau onbruikbaar gemaakt.
 
   Artikel J 26
@@ -2267,10 +2314,13 @@
 
   Artikel K 1
 
-   Aan de kiezer wordt overeenkomstig de bepalingen van dit hoofdstuk op zijn
-   verzoek toegestaan binnen het gebied van het orgaan waarvoor de verkiezing
-   wordt gehouden, aan de stemming deel te nemen in een stembureau van zijn
-   keuze.
+     1. Aan de kiezer wordt overeenkomstig de bepalingen van dit hoofdstuk
+       op zijn verzoek toegestaan binnen het gebied van het orgaan waarvoor
+       de verkiezing wordt gehouden, aan de stemming deel te nemen in een
+       stembureau van zijn keuze.
+
+     2. Onverminderd het eerste lid kan de kiezer stemmen in de
+       stemlokalen, bedoeld in artikel J 5, tweede lid.
 
   Artikel K 2
 
@@ -2358,7 +2408,7 @@
        lid, onder a, genoemde identiteitsdocument, en de kiezerspas aan de
        voorzitter van het stembureau.
 
-     2. Artikel J 25, tweede tot en met elfde lid, is van overeenkomstige
+     2. Artikel J 25, tweede tot en met tiende lid, is van overeenkomstige
        toepassing.
 
   Artikel K 12 [Vervallen per 01-01-2010]
@@ -2389,11 +2439,12 @@
   Artikel L 3
 
    De gemachtigde kan een volmachtstem uitsluitend tegelijk met zijn eigen
-   stem uitbrengen.
+   stem voor die verkiezing uitbrengen.
 
   Artikel L 4
 
-   Een kiezer mag niet meer dan twee aanwijzingen als gemachtigde aannemen.
+   Een kiezer mag per verkiezing niet meer dan twee aanwijzingen als
+   gemachtigde aannemen.
 
   Artikel L 5
 
@@ -2542,7 +2593,7 @@
        paragraaf 3, overhandigt de gemachtigde tevens een kopie van een
        identiteitsdocument als bedoeld in artikel J 24, van de volmachtgever.
 
-     3. Artikel J 25, tweede tot en met elfde lid, is van overeenkomstige
+     3. Artikel J 25, tweede tot en met tiende lid, is van overeenkomstige
        toepassing.
 
   Hoofdstuk M. Het stemmen per brief
@@ -3213,7 +3264,12 @@
      1. Het hoofdstembureau houdt op de tweede dag na de stemming om tien
        uur een openbare zitting.
 
-     2. De voorzitter is belast met de handhaving van de orde tijdens de
+     2. In afwijking van het eerste lid houdt het hoofdstembureau voor de
+       verkiezing van de leden van provinciale staten met één kieskring of
+       voor de verkiezing van de leden van het algemeen bestuur op de vijfde
+       dag na de stemming om tien uur een openbare zitting.
+
+     3. De voorzitter is belast met de handhaving van de orde tijdens de
        zitting.
 
   Artikel O 2
@@ -3251,10 +3307,10 @@
      3. Bij ministeriële regeling wordt voor het proces-verbaal een model
        vastgesteld.
 
-     4. Indien het de verkiezing betreft van de gemeenteraad of van
-       provinciale staten van een provincie die één kieskring vormt, maakt
-       het proces-verbaal deel uit van het proces-verbaal, bedoeld in artikel
-       P 22.
+     4. Indien het de verkiezing betreft van de gemeenteraad, van het
+       algemeen bestuur of van provinciale staten van een provincie die één
+       kieskring vormt, maakt het proces-verbaal deel uit van het
+       proces-verbaal, bedoeld in artikel P 22.
 
   Artikel O 4
 
@@ -3262,19 +3318,19 @@
        algemeen toegankelijke wijze elektronisch openbaar. Bij ministeriële
        regeling kan hiervoor een internetadres worden aangewezen.
 
-     2. Tenzij het de verkiezing betreft van de gemeenteraad of van
-       provinciale staten van een provincie die één kieskring vormt, brengt
-       het hoofdstembureau zijn proces-verbaal onverwijld naar het centraal
-       stembureau over.
+     2. Tenzij het de verkiezing betreft van de gemeenteraad, van het
+       algemeen bestuur of van provinciale staten van een provincie die één
+       kieskring vormt, brengt het hoofdstembureau zijn proces-verbaal
+       onverwijld naar het centraal stembureau over.
 
   Artikel O 5
 
      1. Het hoofdstembureau brengt de processen-verbaal van de stembureaus
        en de opgaven van de burgemeesters en, tenzij het de verkiezing
-       betreft van de gemeenteraad of van provinciale staten van een
-       provincie die één kieskring vormt, een afschrift van zijn
-       proces-verbaal terstond over aan het orgaan waarvoor de verkiezing
-       plaatsvindt.
+       betreft van de gemeenteraad, van het algemeen bestuur of van
+       provinciale staten van een provincie die één kieskring vormt, een
+       afschrift van zijn proces-verbaal terstond over aan het orgaan
+       waarvoor de verkiezing plaatsvindt.
 
      2. Het orgaan waarvoor de verkiezing plaatsvindt, bewaart de
        processen-verbaal van de stembureaus drie maanden nadat over de
@@ -3291,19 +3347,20 @@
   Hoofdstuk P. De vaststelling van de verkiezingsuitslag door het centraal
   stembureau
 
-  § 1. Algemene bepaling
+  § 1. Algemene bepalingen
 
   Artikel P 1
 
    Onmiddellijk nadat de processen-verbaal van alle hoofdstembureaus zijn
    ontvangen, gaat het centraal stembureau over tot het verrichten van de
    werkzaamheden ter vaststelling en bekendmaking van de uitslag van de
-   verkiezing. Indien het de verkiezing betreft van de gemeenteraad of van
-   provinciale staten van een provincie die één kieskring vormt, gaat het
-   centraal stembureau daartoe onmiddellijk over nadat de werkzaamheden,
-   bedoeld in de artikelen O 1 en O 2, zijn beëindigd.
+   verkiezing. Indien het de verkiezing betreft van de gemeenteraad, van het
+   algemeen bestuur of van provinciale staten van een provincie die één
+   kieskring vormt, gaat het centraal stembureau daartoe onmiddellijk over
+   nadat de werkzaamheden, bedoeld in de artikelen O 1 en O 2, zijn
+   beëindigd.
 
-  Artikel P 1a [Treedt in werking per 01-07-2014]
+  Artikel P 1a
 
      1. Indien het centraal stembureau programmatuur gebruikt ten behoeve
        van de berekening van de uitslag van de verkiezing of de berekening
@@ -3484,10 +3541,10 @@
        lijstengroep deel uitmakende lijst voldoende zetels zijn toegewezen.
        Indien aantallen gelijk zijn, beslist zo nodig het lot.
 
-     2. Indien het aantal bij de verkiezing te verdelen zetels minder dan
-       negentien bedraagt, wordt bij de toepassing van het eerste lid niet
-       25% van de kiesdeler, maar de helft van de kiesdeler in aanmerking
-       genomen.
+     2. Indien het aantal bij de verkiezing van de leden van de
+       gemeenteraad te verdelen zetels minder dan negentien bedraagt, wordt
+       bij de toepassing van het eerste lid niet 25% van de kiesdeler, maar
+       de helft van de kiesdeler in aanmerking genomen.
 
   Artikel P 16
 
@@ -3555,8 +3612,8 @@
 
      4. Bij de rangschikking blijft artikel P 18 buiten toepassing.
 
-     5. Behoudens ten aanzien van de verkiezing van de leden van de
-       gemeenteraden met minder dan dertien leden, blijft de rangschikking
+     5. Behoudens ten aanzien van de verkiezing waarbij het aantal te
+       verdelen zetels minder dan dertien bedraagt, blijft de rangschikking
        achterwege, voor zover het lijsten betreft waarop geen kandidaten
        gekozen zijn verklaard en die niet deel uitmaken van een
        lijstencombinatie of lijstengroep waaraan één of meer zetels zijn
@@ -4483,8 +4540,8 @@
        proces-verbaal opgemaakt.
 
   Afdeling IV. Het begin van en de veranderingen in het lidmaatschap van de
-  Tweede Kamer en de Eerste Kamer der Staten-Generaal, provinciale staten en de
-  gemeenteraad
+  Tweede Kamer en de Eerste Kamer der Staten-Generaal, provinciale staten, het
+  algemeen bestuur en de gemeenteraad
 
   Hoofdstuk V. Het begin van het lidmaatschap
 
@@ -4629,23 +4686,39 @@
      1. Indien het orgaan waarvoor de benoeming is geschied, besluit tot
        niet-toelating van één of meer leden wegens de ongeldigheid van de
        stemming in één of meer stembureaus of provincies geeft de voorzitter
-       daarvan onverwijld kennis aan Onze Minister van Binnenlandse Zaken en
-       Koninkrijksrelaties, indien het betreft een verkiezing van de leden
-       van de Tweede of Eerste Kamer, aan gedeputeerde staten, indien het
-       betreft een verkiezing van de leden van de staten van een provincie en
-       aan burgemeester en wethouders, indien het betreft een verkiezing van
-       de leden van de gemeenteraad.
+       daarvan onverwijld kennis aan:
+
+               a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties,
+            indien het betreft een verkiezing van de leden van de Tweede of
+            Eerste Kamer;
+
+               b. gedeputeerde staten, indien het betreft een verkiezing van de
+            leden van de staten van een provincie;
+
+               c. het dagelijks bestuur, indien het betreft een verkiezing van
+            de leden van het algemeen bestuur;
+
+               d. burgemeester en wethouders, indien het betreft een verkiezing
+            van de leden van de gemeenteraad.
 
      2. Uiterlijk op de dertigste dag nadat deze kennisgeving is ontvangen,
        vindt in de in het eerste lid bedoelde stembureaus, onderscheidenlijk
        provincies, een nieuwe stemming plaats en wordt de uitslag van de
-       verkiezing opnieuw vastgesteld. De dag van de stemming wordt, indien
-       het betreft een verkiezing van de leden van de Tweede of Eerste Kamer,
-       vastgesteld door Onze Minister van Binnenlandse Zaken en
-       Koninkrijksrelaties, indien het betreft een verkiezing van de leden
-       van de staten van een provincie, door gedeputeerde staten, en indien
-       het betreft een verkiezing van de leden van de gemeenteraad, door
-       burgemeester en wethouders.
+       verkiezing opnieuw vastgesteld. De dag van de stemming wordt
+       vastgesteld door:
+
+               a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties,
+            indien het betreft een verkiezing van de leden van de Tweede of
+            Eerste Kamer;
+
+               b. gedeputeerde staten, indien het betreft een verkiezing van de
+            leden van de staten van een provincie;
+
+               c. het dagelijks bestuur, indien het betreft een verkiezing van
+            de leden van het algemeen bestuur;
+
+               d. burgemeester en wethouders, indien het betreft een verkiezing
+            van de leden van de gemeenteraad.
 
      3. Bij deze vaststelling blijft degene die reeds als lid is
        toegelaten, gekozen verklaard, ook indien mocht blijken dat dit ten
@@ -4725,42 +4798,43 @@
    benoemde bekend is gemaakt.
 
   § 2. Bijzondere bepalingen betreffende het begin van het lidmaatschap van
-  provinciale staten en de gemeenteraad.
+  provinciale staten, het algemeen bestuur en de gemeenteraad
 
   Artikel V 12
 
    De beslissing betreffende de toelating van de tot lid van provinciale
-   staten onderscheidenlijk van de gemeenteraad benoemden wordt onverwijld
-   genomen.
+   staten, het algemeen bestuur onderscheidenlijk van de gemeenteraad
+   benoemden wordt onverwijld genomen.
 
   Artikel V 13
 
-     1. Elke beslissing betreffende de toelating van de tot lid van
-       provinciale staten, onderscheidenlijk de gemeenteraad, benoemden,
-       wordt door de voorzitter van provinciale staten, onderscheidenlijk de
-       voorzitter van de gemeenteraad, terstond aan de benoemde
-       bekendgemaakt.
+     1. Elke beslissing betreffende de toelating van de benoemden tot lid
+       van provinciale staten, het algemeen bestuur, onderscheidenlijk de
+       gemeenteraad, wordt door de voorzitter van provinciale staten, de
+       voorzitter van het vertegenwoordigend orgaan van het waterschap,
+       onderscheidenlijk de voorzitter van de gemeenteraad, terstond aan de
+       benoemde bekendgemaakt.
 
      2. Aan de niet-toegelatene worden de redenen van de beslissing
        meegedeeld.
 
-     3. Het eerste lid is van overeenkomstige toepassing, indien door
-       provinciale staten, onderscheidenlijk de gemeenteraad, wegens
-       herhaalde staking van stemmen of wegens staking van stemmen in een
-       voltallige vergadering over een voorstel omtrent toelating geen
-       beslissing is genomen.
+     3. Het eerste lid is van overeenkomstige toepassing, indien door het
+       vertegenwoordigend orgaan, wegens herhaalde staking van stemmen of
+       wegens staking van stemmen in een voltallige vergadering over een
+       voorstel omtrent toelating geen beslissing is genomen.
 
   Artikel V 14 [Vervallen per 07-03-2002]
 
   Artikel V 15
 
      1. Indien op het tijdstip van periodieke aftreding van de leden van
-       provinciale staten, onderscheidenlijk van de gemeenteraad, niet de
-       goedkeuring van de geloofsbrieven van meer dan de helft van het
-       wettelijk voorgeschreven aantal leden onherroepelijk is geworden,
-       houden de leden van provinciale staten, onderscheidenlijk van de
-       gemeenteraad, zitting, totdat zulks is geschied. Gedurende deze tijd
-       oefenen de bij de verkiezing gekozen leden hun functie niet uit.
+       provinciale staten, het vertegenwoordigend orgaan van het waterschap,
+       onderscheidenlijk van de gemeenteraad, niet de goedkeuring van de
+       geloofsbrieven van meer dan de helft van het wettelijk voorgeschreven
+       aantal leden onherroepelijk is geworden, houden de leden van dat
+       vertegenwoordigend orgaan, zitting, totdat zulks is geschied.
+       Gedurende deze tijd oefenen de bij de verkiezing gekozen leden hun
+       functie niet uit.
 
      2. Een plaats die openvalt na het tijdstip van periodieke aftreding,
        wordt vervuld op dezelfde wijze, als zou zijn geschied, indien zij
@@ -4854,10 +4928,11 @@
             centraal stembureau is gekomen dat in zijn opengevallen plaats
             moet worden voorzien;
 
-               h. die, indien het de verkiezing van provinciale staten
-            onderscheidenlijk de gemeenteraad betreft, niet benoembaar is
-            ingevolge het bepaalde in artikel 12 van de Provinciewet
-            onderscheidenlijk artikel 11 van de Gemeentewet.
+               h. die, indien het de verkiezing van provinciale staten, het
+            algemeen bestuur onderscheidenlijk de gemeenteraad betreft, niet
+            benoembaar is ingevolge het bepaalde in artikel 12 van de
+            Provinciewet, artikel 31b van de Waterschapswet onderscheidenlijk
+            artikel 11 van de Gemeentewet.
 
      2. Een verklaring als bedoeld in het eerste lid, onder f, kan worden
        ingetrokken.
@@ -4888,15 +4963,15 @@
 
   Artikel W 4
 
-     1. Indien bij opvolging van leden van een gemeenteraad met minder dan
-       dertien leden geen kandidaat meer voor benoeming in aanmerking komt op
-       de lijst, waarop degene is gekozen die moet worden opgevolgd, of op de
-       lijsten die met deze lijst een lijstengroep of lijstencombinatie
-       vormen, wordt door toepassing van artikel P 10 beslist aan welke van
-       de andere lijsten de plaats zal worden toegekend. De kandidaat die op
-       de lijst waaraan de plaats wordt toegekend, naar de volgorde,
-       vastgesteld overeenkomstig artikel P 19, voor benoeming in aanmerking
-       komt, wordt benoemd verklaard.
+     1. Indien bij opvolging van leden van een vertegenwoordigend orgaan
+       met minder dan dertien leden geen kandidaat meer voor benoeming in
+       aanmerking komt op de lijst, waarop degene is gekozen die moet worden
+       opgevolgd, of op de lijsten die met deze lijst een lijstengroep of
+       lijstencombinatie vormen, wordt door toepassing van artikel P 10
+       beslist aan welke van de andere lijsten de plaats zal worden
+       toegekend. De kandidaat die op de lijst waaraan de plaats wordt
+       toegekend, naar de volgorde, vastgesteld overeenkomstig artikel P 19,
+       voor benoeming in aanmerking komt, wordt benoemd verklaard.
 
      2. Indien bij de toepassing van de bepalingen van dit hoofdstuk op
        geen van de lijsten een kandidaat meer voor benoeming in aanmerking
@@ -4925,9 +5000,10 @@
 
      1. Iedere benoeming die met toepassing van de bepalingen van dit
        hoofdstuk geschiedt, wordt terstond bekendgemaakt in de Staatscourant
-       of, indien het betreft de benoeming van een lid van provinciale staten
-       of de gemeenteraad, op de in de provincie, onderscheidenlijk de
-       gemeente, gebruikelijke wijze.
+       of, indien het betreft de benoeming van een lid van provinciale
+       staten, het algemeen bestuur of de gemeenteraad, op de in de
+       provincie, het waterschap, onderscheidenlijk de gemeente,
+       gebruikelijke wijze.
 
      2. De voorzitter van het centraal stembureau doet een afschrift van
        het benoemingsbesluit toekomen aan het vertegenwoordigend orgaan.
@@ -5005,7 +5081,7 @@
        dagtekening van de in het tweede lid bedoelde waarschuwing aan het
        oordeel van provinciale staten te onderwerpen.
 
-  Artikel X 4a [Treedt in werking per 01-07-2014]
+  Artikel X 4a
 
      1. Wanneer een lid van het algemeen bestuur komt te verkeren in een
        van de gevallen, genoemd in het eerste lid van artikel X 1, geeft hij
@@ -5040,11 +5116,12 @@
 
   Artikel X 6
 
-   Leden van provinciale staten en van de gemeenteraad die hun ontslag hebben
-   ingezonden, behouden, ook indien zij ontslag hebben genomen met ingang van
-   een bepaald tijdstip, hun lidmaatschap, totdat de goedkeuring van de
-   geloofsbrieven van hun opvolgers onherroepelijk is geworden of totdat het
-   centraal stembureau heeft beslist dat geen opvolger kan worden benoemd.
+   Leden van provinciale staten, het algemeen bestuur en van de gemeenteraad
+   die hun ontslag hebben ingezonden, behouden, ook indien zij ontslag hebben
+   genomen met ingang van een bepaald tijdstip, hun lidmaatschap, totdat de
+   goedkeuring van de geloofsbrieven van hun opvolgers onherroepelijk is
+   geworden of totdat het centraal stembureau heeft beslist dat geen opvolger
+   kan worden benoemd.
 
   Artikel X 7
 
@@ -5079,7 +5156,7 @@
        commissaris van de Koning daarvan mededeling aan de voorzitter van het
        centraal stembureau.
 
-  Artikel X 7a [Treedt in werking per 01-07-2014]
+  Artikel X 7a
 
      1. Het lid van het algemeen bestuur dat in strijd met artikel 33,
        eerste lid, van de Waterschapswet handelt, kan in zijn betrekking
@@ -5148,8 +5225,8 @@
   Artikel X 9
 
    Artikel D 9 is van overeenkomstige toepassing op een besluit als bedoeld
-   in artikel X 4, derde lid, X 5, derde lid, X 7, vierde lid en X 8, vierde
-   lid.
+   in artikel X 4, derde lid, X 5, derde lid, X 7, vierde lid, X 7a, vierde
+   lid, en X 8, vierde lid.
 
   § 3. Beëindiging van het lidmaatschap en vervanging wegens zwangerschap en
   bevalling of ziekte
