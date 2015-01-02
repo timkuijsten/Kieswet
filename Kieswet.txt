@@ -1,4 +1,4 @@
-   (Tekst geldend op: 03-12-2014)
+   (Tekst geldend op: 02-01-2015)
 
    --------------------------------------------------------------------------
 
@@ -6586,10 +6586,9 @@
    5.            De provincie Flevoland                    Lelystad
                  De gemeenten Beuningen, Buren, Culemborg,
                  Druten, Geldermalsen, Groesbeek, Heumen,
-   6.            Lingewaal, Maasdriel, Millingen aan de    Nijmegen
-                 Rijn, Neder-Betuwe, Neerijnen, Nijmegen,
-                 Tiel, Ubbergen, West Maas en Waal,
-                 Wijchen, Zaltbommel.
+   6.            Lingewaal, Maasdriel, Neder-Betuwe,       Nijmegen
+                 Neerijnen, Nijmegen, Tiel, West Maas en
+                 Waal, Wijchen, Zaltbommel.
    7.            De gemeenten van de provincie Gelderland  Arnhem
                  die niet tot kieskring 6 behoren.
    8.            De provincie Utrecht                      Utrecht
@@ -6607,18 +6606,17 @@
    12.           De gemeente 's-Gravenhage                 's-Gravenhage
    13.           De gemeente Rotterdam                     Rotterdam
                  De gemeenten Alblasserdam, Albrandswaard,
-                 Barendrecht, Bernisse, Binnenmaas,
-                 Brielle, Cromstrijen, Delft, Dordrecht,
+                 Barendrecht, Binnenmaas, Brielle,
+                 Cromstrijen, Delft, Dordrecht,
                  Giessenlanden, Goeree-Overflakkee,
                  Gorinchem, Hardinxveld-Giessendam,
-                 Hellevoetsluis, Hendrik-Ido-Ambacht,
-   14.           Korendijk, Leerdam, Maassluis,            Dordrecht
-                 Midden-Delfland, Molenwaard,
+   14.           Hellevoetsluis, Hendrik-Ido-Ambacht,      Dordrecht
+                 Korendijk, Leerdam, Maassluis,
+                 Midden-Delfland, Molenwaard, Nissewaard,
                  Oud-Beijerland, Papendrecht, Ridderkerk,
-                 Rijswijk, Schiedam, Sliedrecht,
-                 Spijkenisse, Strijen, Vlaardingen,
-                 Westland, Westvoorne, Zederik,
-                 Zwijndrecht.
+                 Rijswijk, Schiedam, Sliedrecht, Strijen,
+                 Vlaardingen, Westland, Westvoorne,
+                 Zederik, Zwijndrecht.
                  De gemeenten van de provincie
    15.           Zuid-Holland die niet tot de kieskringen  Leiden
                  12, 13 of 14 behoren.
