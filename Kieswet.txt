@@ -1,4 +1,4 @@
-   (Tekst geldend op: 10-10-2015)
+   (Tekst geldend op: 04-01-2016)
 
    --------------------------------------------------------------------------
 
@@ -6597,12 +6597,12 @@
    8.            De provincie Utrecht                      Utrecht
    9.            De gemeente Amsterdam                     Amsterdam
                  De gemeenten Aalsmeer, Amstelveen,
-                 Beverwijk, Blaricum, Bloemendaal, Bussum,
-                 Diemen, Haarlem, Haarlemmerliede en
+                 Beverwijk, Blaricum, Bloemendaal, Diemen,
+                 Gooise Meren, Haarlem, Haarlemmerliede en
    10.           Spaarnwoude, Haarlemmermeer, Heemskerk,   Haarlem
                  Heemstede, Hilversum, Huizen, Laren,
-                 Muiden, Naarden, Ouder-Amstel, Uithoorn,
-                 Velsen, Weesp, Wijdemeren, Zandvoort.
+                 Ouder-Amstel, Uithoorn, Velsen, Weesp,
+                 Wijdemeren, Zandvoort.
                  De gemeenten van de provincie
    11.           Noord-Holland die niet tot de kieskringen Den Helder
                  9 of 10 behoren.
